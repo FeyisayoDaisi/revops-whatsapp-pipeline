@@ -1,0 +1,321 @@
+lead_id,owner,phone,source,stage,amount,signer,next_step,next_step_date,contacts_on_record
+L001,R1,2348175209394,,qualified,,,,2026-11-20T07:30,1
+L002,R2,2348141045083,Other,new,,,follow up,,1
+L003,R3,2348111234240,WhatsApp,meeting_booked,,,,,1
+L004,R4,2348177919031,Other,meeting_booked,,,,,1
+L005,R5,2348162224554,ad,meeting_booked,,,,,1
+L006,R6,2348118271869,WhatsApp,lost,4200000,,,,1
+L007,R1,2348133934848,,lost,,,,,1
+L008,R2,2348199412179,Other,won,,,follow up,2026-11-09T07:30,1
+L009,R3,2348115124223,ad,lost,,,,,1
+L010,R4,2348190702377,WhatsApp,new,,,,,1
+L011,R5,2348118411569,ad,negotiation,,,follow up,,1
+L012,R6,2348115795525,Other,new,,,follow up,2026-11-16T07:30,1
+L013,R1,2348144311589,Other,proposal_sent,13800000,,follow up,,1
+L014,R2,2348188982073,Other,qualified,,,follow up,,1
+L015,R3,2348122635046,ad,won,,Dr Afolabi,follow up,,1
+L016,R4,2348160949598,Other,qualified,,,,,1
+L017,R5,2348118098514,Other,new,,,follow up,2026-11-06T07:30,1
+L018,R6,2348157850314,Other,proposal_sent,22600000,,,,1
+L019,R1,2348153178396,WhatsApp,new,,,,,1
+L020,R2,2348174513339,ad,new,,,,,1
+L021,R3,2348168652014,referral,proposal_sent,16500000,,follow up,,1
+L022,R4,2348136126160,form,new,,,follow up,,1
+L023,R5,2348160753531,,lost,,,,2026-11-17T07:30,1
+L024,R6,2348155688844,,proposal_sent,16200000,,,,1
+L025,R1,2348115934117,field,qualified,,,,,1
+L026,R2,2348135889052,,new,,,,,1
+L027,R3,2348154414256,ad,meeting_booked,,,,,1
+L028,R4,2348172257931,Other,won,25600000,,follow up,,1
+L029,R5,2348139609256,Other,new,,,follow up,,1
+L030,R6,2348179798356,,new,,,,,1
+L031,R1,2348178875430,referral,won,,,,,1
+L032,R2,2348134158982,Other,qualified,,,,,1
+L033,R3,2348118720263,,negotiation,6300000,,follow up,,1
+L034,R4,2348138925445,WhatsApp,meeting_booked,,,,,1
+L035,R5,2348179565961,Other,proposal_sent,39700000,,follow up,,1
+L036,R6,2348116004630,Other,meeting_booked,,,,,1
+L037,R1,2348188290391,field,lost,,,,,1
+L038,R2,2348134557605,Other,negotiation,,,,2026-11-04T07:30,1
+L039,R3,2348179206119,Other,qualified,,,,,1
+L040,R4,2348174982252,Other,proposal_sent,,,,,1
+L041,R5,2348177149529,ad,new,,,,,1
+L042,R6,2348128964935,Other,qualified,,,follow up,,1
+L043,R1,2348113229378,organic,new,,,,,1
+L044,R2,2348177081699,ad,won,,,,,1
+L045,R3,2348115795989,,meeting_booked,,,,,1
+L046,R4,2348152062232,WhatsApp,meeting_booked,,,follow up,2026-10-30T07:30,1
+L047,R5,2348179765179,referral,won,30500000,,,2026-11-11T07:30,1
+L048,R6,2348130692503,WhatsApp,proposal_sent,,,,,1
+L049,R1,2348160616039,ad,negotiation,,,follow up,,1
+L050,R2,2348154466111,field,new,,,,,1
+L051,R3,2348154804120,WhatsApp,new,,,follow up,,1
+L052,R4,2348128282420,Other,won,,,follow up,,1
+L053,R5,2348124642809,WhatsApp,proposal_sent,27400000,,follow up,,1
+L054,R6,2348152167946,field,qualified,,,,,1
+L055,R1,2348127204135,Other,won,16399999,Mrs Adebayo,follow up,,1
+L056,R2,2348116275591,Other,lost,12700000,,,2026-11-18T07:30,1
+L057,R3,2348147734683,ad,new,,,,,1
+L058,R4,2348164892138,Other,lost,12900000,,,,1
+L059,R5,2348159838904,Other,meeting_booked,,,,,1
+L060,R6,2348121051893,WhatsApp,negotiation,15900000,,follow up,2026-11-12T07:30,1
+L061,R1,2348180085544,Other,qualified,,,follow up,,1
+L062,R2,2348138301901,WhatsApp,negotiation,,Mrs Nwachukwu,,,1
+L063,R3,2348113025108,,lost,2800000,Mr Ajayi,,,1
+L064,R4,2348169482683,Other,won,,,,,1
+L065,R5,2348133494132,Other,meeting_booked,,,,,1
+L066,R6,2348146710109,ad,meeting_booked,,,,,1
+L067,R1,2348195511296,ad,won,,,follow up,2026-11-12T07:30,1
+L068,R2,2348161731160,form,proposal_sent,30100000,Mrs Adebayo,follow up,,1
+L069,R3,2348120419388,field,new,,,,,1
+L070,R4,2348139614431,,lost,,Mrs Ogunleye,,2026-10-31T07:30,1
+L071,R5,2348175347580,,lost,,,,,1
+L072,R6,2348138213003,referral,negotiation,19800000,Mrs Danjuma,,,1
+L073,R1,2348182741836,Other,won,,,follow up,,1
+L074,R2,2348197012349,Other,lost,,,,,1
+L075,R3,2348177951270,,won,14700000,,,,1
+L076,R4,2348141914730,Other,lost,,,follow up,,1
+L077,R5,2348174891789,,proposal_sent,9500000,,,,1
+L078,R6,2348156588753,form,qualified,,,,2026-11-09T07:30,1
+L079,R1,2348143598249,ad,meeting_booked,,,,,1
+L080,R2,2348117183944,WhatsApp,meeting_booked,,,,,1
+L081,R3,2348158802712,,meeting_booked,,,follow up,,1
+L082,R4,2348161209599,,new,,,follow up,,1
+L083,R5,2348158492048,Other,won,12100000,,,,1
+L084,R6,2348158405978,Other,won,,,,,1
+L085,R1,2348164606132,organic,meeting_booked,,,follow up,,1
+L086,R2,2348192209062,WhatsApp,qualified,,,,,1
+L087,R3,2348143321539,ad,won,,,follow up,2026-11-07T07:30,1
+L088,R4,2348116939088,WhatsApp,meeting_booked,,,,,1
+L089,R5,2348186903543,Other,won,,,,,1
+L090,R6,2348121215903,WhatsApp,lost,,,follow up,2026-11-02T07:30,1
+L091,R1,2348177073198,Other,meeting_booked,,,,,1
+L092,R2,2348126392741,referral,qualified,,,follow up,,1
+L093,R3,2348195632232,,meeting_booked,,,,,1
+L094,R4,2348182579724,Other,meeting_booked,,,,,1
+L095,R5,2348121391457,,new,,,,,1
+L096,R6,2348121497246,,new,,,,,1
+L097,R1,2348196095006,field,meeting_booked,,,follow up,,1
+L098,R2,2348119810808,referral,won,,,,,1
+L099,R3,2348112898154,ad,new,,,,,1
+L100,R4,2348127526568,Other,negotiation,10500000,,,,1
+L101,R5,2348183729932,,new,,,,,1
+L102,R6,2348148813171,Other,meeting_booked,8600000,,,,1
+L103,R1,2348138559511,Other,qualified,,,,,1
+L104,R2,2348145695101,WhatsApp,new,,,,,1
+L105,R3,2348182932657,referral,lost,,,,2026-11-01T07:30,1
+L106,R4,2348129864553,field,proposal_sent,,,,,1
+L107,R5,2348142632596,ad,proposal_sent,4900000,,follow up,,1
+L108,R6,2348143940774,Other,won,,,follow up,,1
+L109,R1,2348116473078,ad,new,,,,,1
+L110,R2,2348178269930,field,new,,,,2026-11-19T07:30,1
+L111,R3,2348180691374,,new,,,,,1
+L112,R4,2348192920417,,new,,,follow up,,1
+L113,R5,2348170671281,referral,meeting_booked,,,,,1
+L114,R6,2348160283167,Other,meeting_booked,,,,,1
+L115,R1,2348121511865,form,won,,,,,1
+L116,R2,2348135804542,Other,meeting_booked,,,,2026-11-10T07:30,1
+L117,R3,2348143379211,form,lost,9800000,,,,1
+L118,R4,2348165808835,ad,new,,,follow up,2026-11-09T07:30,1
+L119,R5,2348160192601,Other,lost,9500000,,follow up,,1
+L120,R6,2348126384685,Other,proposal_sent,,,,2026-11-09T07:30,1
+L121,R1,2348139060265,Other,new,,,,2026-11-16T07:30,1
+L122,R2,2348153869754,WhatsApp,qualified,,,,2026-10-31T07:30,1
+L123,R3,2348186220631,Other,proposal_sent,,,,,1
+L124,R4,2348171159968,Other,meeting_booked,,,,,1
+L125,R5,2348152081840,,won,,,,2026-11-06T07:30,1
+L126,R6,2348120278119,organic,new,,,follow up,2026-10-31T07:30,1
+L127,R1,2348164056896,WhatsApp,meeting_booked,,,follow up,,1
+L128,R2,2348154514203,Other,new,,,,,1
+L129,R3,2348142673700,field,won,25500000,,,,1
+L130,R4,2348171506990,Other,negotiation,4900000,,,,1
+L131,R5,2348171523335,Other,new,,,,,1
+L132,R6,2348156012800,,lost,11300000,,,,1
+L133,R1,2348154652878,organic,new,,,,2026-11-16T07:30,1
+L134,R2,2348182513052,Other,lost,,Mr Ajayi,follow up,,1
+L135,R3,2348140465833,Other,won,,,,,1
+L136,R4,2348182123634,organic,new,,,follow up,,1
+L137,R5,2348135859106,organic,new,,,,2026-11-18T07:30,1
+L138,R6,2348183562456,WhatsApp,meeting_booked,,,follow up,,1
+L139,R1,2348130871364,Other,won,19400000,,,,1
+L140,R2,2348164654940,WhatsApp,qualified,,,,,1
+L141,R3,2348140648899,,new,,,,,1
+L142,R4,2348181586801,,meeting_booked,7100000,Dr Balogun,,,1
+L143,R5,2348161283059,ad,negotiation,,,,,1
+L144,R6,2348149743613,referral,proposal_sent,,,follow up,,1
+L145,R1,2348131355552,referral,won,37400000,,follow up,,1
+L146,R2,2348166103678,field,new,,,,,1
+L147,R3,2348158023419,ad,won,5100000,,follow up,,1
+L148,R4,2348119917090,WhatsApp,proposal_sent,,,,,1
+L149,R5,2348183616250,Other,negotiation,11500000,,follow up,2026-11-21T07:30,1
+L150,R6,2348174616473,field,qualified,,,,,1
+L151,R1,2348196036205,Other,new,,,,,1
+L152,R2,2348190057869,WhatsApp,new,,,,,1
+L153,R3,2348112283926,ad,new,,,follow up,,1
+L154,R4,2348110331954,Other,meeting_booked,,,,,1
+L155,R5,2348172192754,WhatsApp,lost,3800000,,follow up,2026-11-08T07:30,1
+L156,R6,2348164381718,,lost,,,,,1
+L157,R1,2348173517378,Other,new,,,follow up,2026-11-15T07:30,1
+L158,R2,2348183030034,referral,won,,,,2026-11-20T07:30,1
+L159,R3,2348145210823,WhatsApp,meeting_booked,,,,,1
+L160,R4,2348198129201,Other,proposal_sent,23100000,,follow up,,1
+L161,R5,2348198755462,Other,proposal_sent,,,,,1
+L162,R6,2348133156271,WhatsApp,qualified,,,,,1
+L163,R1,2348148817492,organic,new,,,follow up,,1
+L164,R2,2348134051025,Other,won,22800000,,,,1
+L165,R3,2348139352040,field,won,23000000,,,,1
+L166,R4,2348154230948,referral,won,16100000,,,,1
+L167,R5,2348197042812,Other,meeting_booked,,,follow up,,1
+L168,R6,2348158581104,Other,lost,18400000,,follow up,2026-10-28T07:30,1
+L169,R1,2348119001808,,qualified,,,,,1
+L170,R2,2348130364349,field,meeting_booked,,,,,1
+L171,R3,2348128237929,ad,lost,6800000,,follow up,,1
+L172,R4,2348187503618,Other,new,,,follow up,,1
+L173,R5,2348150500819,Other,qualified,,,,,1
+L174,R6,2348193129277,Other,won,24100000,,,,1
+L175,R1,2348187394027,ad,proposal_sent,,Mrs Uzor,,2026-11-14T07:30,1
+L176,R2,2348145983616,WhatsApp,qualified,,,,,1
+L177,R3,2348158877523,,proposal_sent,,,follow up,,1
+L178,R4,2348160233013,field,new,,,follow up,,1
+L179,R5,2348146251541,referral,won,,Dr Ibekwe,follow up,,1
+L180,R6,2348143739572,organic,qualified,,,,,1
+L181,R1,2348196679333,Other,new,,,,,1
+L182,R2,2348124978703,Other,negotiation,,Mrs Okafor,,,1
+L183,R3,2348147483556,ad,proposal_sent,14900000,,follow up,,1
+L184,R4,2348120186988,Other,meeting_booked,,,,,1
+L185,R5,2348115173308,WhatsApp,lost,,,,,1
+L186,R6,2348155802855,ad,lost,,,,2026-11-14T07:30,1
+L187,R1,2348146725566,ad,qualified,,,,,1
+L188,R2,2348119677255,WhatsApp,proposal_sent,,,,2026-11-06T07:30,1
+L189,R3,2348137225651,Other,won,21500000,,,,1
+L190,R4,2348190742684,Other,qualified,,,,,1
+L191,R5,2348150826115,Other,qualified,,,follow up,,1
+L192,R6,2348112902322,WhatsApp,negotiation,5300000,,,,1
+L193,R1,2348135067418,ad,meeting_booked,,,follow up,,1
+L194,R2,2348150636792,ad,proposal_sent,2500000,,,,1
+L195,R3,2348158527799,,qualified,,,follow up,,1
+L196,R4,2348156313354,,new,,,follow up,,1
+L197,R5,2348188464105,Other,new,,,follow up,,1
+L198,R6,2348185277703,ad,qualified,,,,,1
+L199,R1,2348112397361,Other,won,25200000,,,,1
+L200,R2,2348187234308,field,qualified,,,,2026-11-05T07:30,1
+L201,R3,2348197830351,,lost,,,,2026-11-11T07:30,1
+L202,R4,2348143832038,,negotiation,,,,,1
+L203,R5,2348149547761,field,meeting_booked,,,,,1
+L204,R6,2348193784893,Other,won,7300000,,,,1
+L205,R1,2348150698391,ad,new,,,,,1
+L206,R2,2348127816813,,new,,,,,1
+L207,R3,2348117296238,Other,lost,,,,2026-11-01T07:30,1
+L208,R4,2348145432675,,new,,,,,1
+L209,R5,2348163289670,,meeting_booked,,,follow up,2026-11-05T07:30,1
+L210,R6,2348160843631,ad,qualified,,,follow up,2026-11-18T07:30,1
+L211,R1,2348191949417,WhatsApp,negotiation,24800000,Mrs Suleiman,follow up,,1
+L212,R2,2348127899739,WhatsApp,lost,26900000,Mr Abubakar,,,1
+L213,R3,2348119220946,Other,meeting_booked,,,follow up,,1
+L214,R4,2348170201850,Other,meeting_booked,,,,,1
+L215,R5,2348153308170,WhatsApp,lost,,,follow up,,1
+L216,R6,2348192367346,ad,meeting_booked,,,follow up,2026-11-03T07:30,1
+L217,R1,2348122716124,WhatsApp,new,,,follow up,2026-11-20T07:30,1
+L218,R2,2348134730696,,new,,,,,1
+L219,R3,2348129734178,ad,lost,,,,2026-11-15T07:30,1
+L220,R4,2348119691547,Other,proposal_sent,,,follow up,,1
+L221,R5,2348183887357,,won,11800000,,follow up,,1
+L222,R6,2348130507414,,new,,,,,1
+L223,R1,2348180280862,referral,new,,,follow up,,1
+L224,R2,2348158000831,field,meeting_booked,,,follow up,,1
+L225,R3,2348128505696,ad,new,,,,,1
+L226,R4,2348145198462,WhatsApp,negotiation,,,,,1
+L227,R5,2348186900824,Other,new,,,,,1
+L228,R6,2348117701318,Other,meeting_booked,,,,,1
+L229,R1,2348121947147,,new,,,,2026-11-14T07:30,1
+L230,R2,2348147579339,,new,,,follow up,,1
+L231,R3,2348125026623,form,new,,,,,1
+L232,R4,2348124037918,WhatsApp,meeting_booked,,,follow up,,1
+L233,R5,2348181100229,Other,new,,,,2026-11-16T07:30,1
+L234,R6,2348123996567,WhatsApp,new,,,follow up,,1
+L235,R1,2348153364217,ad,proposal_sent,,,,,1
+L236,R2,2348117174713,Other,meeting_booked,,,follow up,,1
+L237,R3,2348139551500,,qualified,,,,,1
+L238,R4,2348167814427,field,lost,,,follow up,,1
+L239,R5,2348111699129,ad,meeting_booked,,,follow up,,1
+L240,R6,2348130026371,ad,new,,,,,1
+L241,R1,2348128929566,WhatsApp,lost,,,follow up,,1
+L242,R2,2348115196928,WhatsApp,meeting_booked,,,,,1
+L243,R3,2348121444053,Other,negotiation,16700000,,,,1
+L244,R4,2348166728906,ad,negotiation,45400000,Dr Nwachukwu,,,1
+L245,R5,2348147989959,form,proposal_sent,,,,,1
+L246,R6,2348174885494,WhatsApp,new,,,,,1
+L247,R1,2348117054469,Other,won,,Mrs Okafor,,,1
+L248,R2,2348176783598,,proposal_sent,5800000,,follow up,,1
+L249,R3,2348135395484,WhatsApp,meeting_booked,,,follow up,,1
+L250,R4,2348174905053,WhatsApp,meeting_booked,,,,,1
+L251,R5,2348165348965,Other,negotiation,3000000,,,,1
+L252,R6,2348127661586,ad,new,,,follow up,,1
+L253,R1,2348164210048,ad,meeting_booked,,,follow up,,1
+L254,R2,2348146499853,Other,meeting_booked,,,,,1
+L255,R3,2348157016944,,qualified,,,,,1
+L256,R4,2348188657396,ad,meeting_booked,,,,,1
+L257,R5,2348132904517,Other,meeting_booked,,,,,1
+L258,R6,2348168011229,organic,won,8199999,Mr Okafor,,,1
+L259,R1,2348178600944,,qualified,,,,,1
+L260,R2,2348167762517,WhatsApp,won,,,,,1
+L261,R3,2348138543301,ad,qualified,,,,,1
+L262,R4,2348145618582,field,meeting_booked,,,follow up,,1
+L263,R5,2348171409839,field,won,37300000,,follow up,,1
+L264,R6,2348198653322,,new,,,,,1
+L265,R1,2348145924554,WhatsApp,qualified,,,follow up,,1
+L266,R2,2348173669330,field,negotiation,,Mrs Danjuma,,,1
+L267,R3,2348180736128,Other,won,,,,,1
+L268,R4,2348187947854,Other,qualified,,,follow up,,1
+L269,R5,2348122013472,Other,new,,,,,1
+L270,R6,2348165705322,Other,won,11600000,,,,1
+L271,R1,2348164063337,Other,qualified,,,follow up,2026-10-31T07:30,1
+L272,R2,2348181353774,,lost,32700000,,,2026-11-03T07:30,1
+L273,R3,2348188937775,ad,meeting_booked,,,,,1
+L274,R4,2348119399513,Other,meeting_booked,,,follow up,,1
+L275,R5,2348163735998,Other,lost,,,,,1
+L276,R6,2348164215175,Other,meeting_booked,,,,,1
+L277,R1,2348114016448,,new,,,,,1
+L278,R2,2348162594442,WhatsApp,won,22200000,,,2026-11-10T07:30,1
+L279,R3,2348179811209,WhatsApp,lost,,,follow up,2026-11-20T07:30,1
+L280,R4,2348185304669,Other,new,,,follow up,,1
+L281,R5,2348189238401,Other,qualified,3700000,,,,1
+L282,R6,2348136407510,Other,proposal_sent,,,,,1
+L283,R1,2348147254001,field,new,,,,,1
+L284,R2,2348199828514,WhatsApp,negotiation,15600000,,,2026-11-10T07:30,1
+L285,R3,2348153096778,WhatsApp,qualified,,,,,1
+L286,R4,2348174629832,referral,qualified,,,,2026-11-12T07:30,1
+L287,R5,2348183829334,Other,meeting_booked,,,,,1
+L288,R6,2348172204095,Other,meeting_booked,,,,,1
+L289,R1,2348163551026,Other,meeting_booked,,,,,1
+L290,R2,2348159629342,Other,qualified,,Mr Ibekwe,follow up,,1
+L291,R3,2348127743284,Other,won,,,follow up,,1
+L292,R4,2348129678258,Other,new,,,,,1
+L293,R5,2348113231111,Other,new,,,,,1
+L294,R6,2348188142133,Other,new,,,follow up,,1
+L295,R1,2348114707916,ad,new,,,,,1
+L296,R2,2348138715423,field,lost,,Dr Okafor,,2026-11-10T07:30,1
+L297,R3,2348188739816,Other,qualified,,,follow up,,1
+L298,R4,2348189163656,ad,meeting_booked,,,,,1
+L299,R5,2348128002572,Other,new,,,,,1
+L300,R6,2348150816385,Other,negotiation,,,follow up,,1
+L301,R1,2348133950046,organic,new,,,follow up,,1
+L302,R2,2348179065843,field,negotiation,,,,2026-11-17T07:30,1
+L303,R3,2348149509296,ad,new,,,,,1
+L304,R4,2348197996068,,meeting_booked,,,follow up,,1
+L305,R5,2348164751262,Other,new,,,follow up,,1
+L306,R6,2348168513749,referral,won,,,,,1
+L307,R1,2348187231613,ad,lost,26900000,,,,1
+L308,R2,2348152731159,Other,won,,Dr Chukwu,,,1
+L309,R3,2348165821735,field,qualified,,,,,1
+L310,R4,2348120390539,WhatsApp,qualified,,,,,1
+L311,R5,2348194901572,Other,new,,,,,1
+L312,R6,2348165059636,WhatsApp,new,,,,,1
+L313,R1,2348179987692,Other,new,,,follow up,,1
+L314,R2,2348126595061,ad,qualified,,,follow up,2026-11-06T07:30,1
+L315,R3,2348164540215,Other,new,,,follow up,,1
+L316,R4,2348186396649,Other,new,,,,,1
+L317,R5,2348130321119,ad,new,,,,,1
+L318,R6,2348133799467,Other,lost,,Mr Uzor,,,1
+L319,R1,2348111731894,organic,won,,,,2026-10-31T07:30,1
+L320,R2,2348182747292,Other,meeting_booked,,,,,1

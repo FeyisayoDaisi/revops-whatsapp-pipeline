@@ -1,0 +1,16 @@
+{
+ "source_channel_accuracy": 100.0,
+ "source_detail_accuracy": 100.0,
+ "commitment_precision": 100.0,
+ "commitment_recall": 100.0,
+ "commitments_in_key": 490,
+ "broken_promise_precision": 100.0,
+ "broken_promise_recall": 97.1,
+ "broken_promises_planted": 69,
+ "amount_accuracy": 100.0,
+ "signer_accuracy": 100.0,
+ "contact_card_recall": 100.0,
+ "stage_accuracy": 100.0,
+ "messy_set_accuracy": 87.5,
+ "messy_set_size": 32
+}

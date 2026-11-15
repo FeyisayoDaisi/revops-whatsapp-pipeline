@@ -1,0 +1,53 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>WhatsApp Pipeline Capture: demo report</title>
+<style>
+body{font-family:Inter,system-ui,sans-serif;max-width:900px;margin:0 auto;padding:32px 20px;color:#14213d;line-height:1.55}
+h1{font-size:28px;margin:0 0 6px} h2{font-size:20px;margin-top:36px;border-bottom:2px solid #0D2B4E;padding-bottom:4px}
+.sub{color:#555} table{border-collapse:collapse;width:100%;margin:12px 0;font-size:14px}
+td,th{border-bottom:1px solid #e3e6ea;padding:8px;text-align:left} th{background:#F4F6F8}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:12px;margin:18px 0}
+.kpi{background:#F4F6F8;border-radius:10px;padding:14px} .kpi b{display:block;font-size:26px;color:#0D2B4E}
+.wa{background:#e7ddd3;border-radius:12px;padding:16px} .msg{background:#fff;border-radius:8px;padding:12px 14px;font-size:13.5px;max-width:560px}
+.lnk{color:#027eb5} .note{font-size:13px;color:#555} code{background:#F4F6F8;padding:1px 5px;border-radius:4px}
+</style></head><body>
+<h1>WhatsApp Pipeline Capture</h1>
+<p class="sub">Synthetic demo for a Lagos B2B services company: 320 leads, 2,991 WhatsApp messages,
+6 reps, leads from Click-to-WhatsApp ads, field agents, referrals, a web form and organic chats. Run date Monday 16 November 2026, 07:30.</p>
+<div class="kpis">
+<div class="kpi"><b>57.9% → 80.0%</b>meeting show rate on unseen Oct-Nov leads</div>
+<div class="kpi"><b>29</b>no-show meetings avoided, every win kept (12 of 12)</div>
+<div class="kpi"><b>22</b>open deals handed over with full context when a rep resigned</div>
+<div class="kpi"><b>19</b>broken promises to clients now visible (were invisible)</div>
+</div>
+<h2>Before and after, same leads</h2>
+<table><tr><th>Measure</th><th>CRM kept by hand</th><th>Captured from WhatsApp</th></tr><tr><td>Leads with a real source (not 'Other' or blank)</td><td>33.8%</td><td><b>100.0%</b></td></tr><tr><td>Quoted deals with the amount on record</td><td>44.0%</td><td><b>100.0%</b></td></tr><tr><td>Deals past proposal with the signer named</td><td>15.0%</td><td><b>100.0%</b></td></tr><tr><td>Active deals (open, touched in 30 days) with a dated next action</td><td>6.5%</td><td><b>100.0%</b></td></tr><tr><td>Stage matches what really happened</td><td>78.1%</td><td><b>100.0%</b></td></tr><tr><td>Contacts on record per deal (average)</td><td>1.00</td><td><b>1.26</b></td></tr><tr><td>Broken promises to clients a manager can see (last 21 days)</td><td>0</td><td><b>19</b></td></tr><tr><td>Departed rep's open deals with stage, amount, signer and next step</td><td>0.0%</td><td><b>100.0%</b></td></tr></table>
+<p class="note">The hand-kept CRM is simulated the way it usually looks: reps log the source a third of the time, stages lag, next steps say "follow up".</p>
+<h2>Who should get a meeting</h2>
+<p>Old rule: anyone who agrees to a call gets one. New rule: book when the chat score is 65 or more (size, timeline,
+specific time, price-first questions, source). Threshold picked on August-September leads, tested on October-November leads it never saw.</p>
+<table><tr><th>Oct-Nov test</th><th>Meetings</th><th>No-shows</th><th>Show rate</th><th>Wins from these meetings</th></tr>
+<tr><td>Book everyone who says yes</td><td>95</td><td>40</td><td>57.9%</td><td>12</td></tr>
+<tr><td><b>Book on score ≥ 65</b></td><td>55</td><td>11</td><td><b>80.0%</b></td><td>12</td></tr></table>
+<p class="note">Leads under the threshold go to nurture, not the bin. The test window is small (12 wins), so treat "every win kept" as encouraging, not proven.</p>
+<table><tr><th>Source</th><th>Meetings</th><th>Show rate</th><th>Wins</th></tr><tr><td>ad</td><td>94</td><td>51.1%</td><td>12</td></tr><tr><td>field</td><td>46</td><td>60.9%</td><td>10</td></tr><tr><td>form</td><td>28</td><td>60.7%</td><td>7</td></tr><tr><td>organic</td><td>20</td><td>65.0%</td><td>5</td></tr><tr><td>referral</td><td>40</td><td>75.0%</td><td>12</td></tr></table>
+<p class="note">This table only exists because the source is captured. When the CRM says "Other", nobody can see that ad leads show up least.</p>
+<h2>The 7:30am brief (one rep, real output)</h2>
+<div class="wa"><div class="msg">Good morning Amaka. Here&#x27;s today (Mon 16 Nov):<br><br><b>1. Due today</b>: Yusuf Nwachukwu<br>   the call they booked, today 10:00<br>   Draft: &quot;Good morning sir. As agreed, I&#x27;ll be calling you shortly. Is now still a good time?&quot;<br>   outside the 24-hour window: tap the link and send from your app<br><span class="lnk">https://wa.me/2348130364349?text=Good%20morning%…</span><br><br><b>2. Due today</b>: Ngozi Balogun<br>   the call they booked, today 14:00<br>   Draft: &quot;Good morning ma. As agreed, I&#x27;ll be calling you shortly. Is now still a good time?&quot;<br>   outside the 24-hour window: tap the link and send from your app<br><span class="lnk">https://wa.me/2348159629342?text=Good%20morning%…</span><br><br><b>3. Missed meeting</b>: Ibrahim Balogun<br>   the call they booked, no-show, 5 days ago<br>   Draft: &quot;Good morning sir. Sorry we missed each other earlier. Would Tuesday 10am or Wednesday 2pm work better for a quick call about your facility setup?&quot;<br>   outside the 24-hour window: tap the link and send from your app<br><span class="lnk">https://wa.me/2348192209062?text=Good%20morning%…</span><br><br><b>4. Going cold</b>: Funke Eze · inherited from Seun<br>   facility setup, 21 days with no reply (this stage should move within 3)<br>   Draft: &quot;Good morning ma. We&#x27;ve just finished a similar setup for another company in your area and I thought of you. Would a 10-minute call this week help you decide on the facility setup?&quot;<br>   outside the 24-hour window: tap the link and send from your app<br><span class="lnk">https://wa.me/2348138925445?text=Good%20morning%…</span><br><br><b>5. Going cold</b>: Hauwa Ogunleye · inherited from Seun<br>   facility setup, 24 days with no reply (this stage should move within 3)<br>   Draft: &quot;Good morning ma. We&#x27;ve just finished a similar setup for another company in your area and I thought of you. Would a 10-minute call this week help you decide on the facility setup?&quot;<br>   outside the 24-hour window: tap the link and send from your app<br><span class="lnk">https://wa.me/2348174629832?text=Good%20morning%…</span><br><br>+5 more on your list. Reply <b>more</b> to see them.<br><br>Reply <b>done 1</b>, <b>move 2 to Thursday</b>, or send a voice note with any update. I&#x27;ll log it.</div></div>
+<p class="note">Sent from the coaching agent's own number. The first message is a pre-approved template; once the rep replies, WhatsApp's 24-hour window is open.
+Each draft opens the client's chat with the text typed. Anything about price is written or edited by the rep.</p>
+<h2>Approval tiers</h2>
+<table><tr><th>Tier</th><th>Proposed updates</th><th>What happens</th></tr>
+<tr><td>auto</td><td>893</td><td>Source, contact cards, activities and commitments are logged straight away</td></tr>
+<tr><td>approve</td><td>587</td><td>Stage, amount and signer wait for a person to tap approve</td></tr>
+<tr><td>never auto</td><td>n/a</td><td>Any outgoing message about price, discounts or payment terms</td></tr></table>
+<h2>How accurate is the extraction?</h2>
+<table><tr><th>Check</th><th>Generated chats</th></tr>
+<tr><td>Who owes what, by when (precision / recall)</td><td>100.0% / 100.0% on 490</td></tr>
+<tr><td>Broken rep promises caught (precision / recall)</td><td>100.0% / 97.1% of 69</td></tr>
+<tr><td>Source, amount, signer, contact cards, stage</td><td>100.0%, 100.0%, 100.0%, 100.0%, 100.0%</td></tr>
+<tr><td><b>Hand-written messy set</b> (Pidgin, negations, reschedules)</td><td><b>87.5% of 32</b></td></tr></table>
+<p class="note">The generated chats use phrasing the rules were written for, so those scores prove the plumbing, not the language understanding.
+The messy set is the honest number. Its misses (a reschedule naming two days, "after 2", a request with no "me") are why the optional AI mode exists,
+and why AI output still goes through the same approval tiers.</p>
+<p class="note">All data is synthetic. Built by Feyisayo Daisi.</p>
+</body></html>

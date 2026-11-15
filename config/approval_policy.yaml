@@ -1,0 +1,18 @@
+# Who decides what. Three tiers, checked in this order: never_auto, approve, auto.
+
+auto:          # written straight to the CRM and logged; low risk, easy to undo
+  record_updates: [source, contact_added, activity_logged, commitment_logged]
+  sends: [meeting_reminder_client_requested]   # only inside WhatsApp's 24-hour window
+
+approve:       # rep or manager taps approve before it changes or goes out
+  record_updates: [stage_change, amount, signer, close_lost]
+  sends: [follow_up, check_in, re_engagement, proposal_follow_up, no_show_recovery]
+
+never_auto:    # a person writes or edits it, every time
+  send_if_text_mentions: [price, discount, "₦", naira, payment terms, rebate, refund]
+  sends: [negotiation]
+
+whatsapp_rules:
+  service_window_hours: 24      # outside this, an API send must be a pre-approved template
+  daily_brief_template: "daily_plan_ready"   # utility template that opens the window each morning
+  max_brief_items: 5

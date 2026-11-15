@@ -1,0 +1,27 @@
+# The synthetic company this demo runs on. Invented, not a client.
+company: "A Lagos B2B services company (annual facility and logistics service contracts)"
+currency: NGN
+timezone: Africa/Lagos
+today: "2026-11-16T07:30:00"     # Monday morning, when the briefs go out
+data_start: "2026-08-03"
+train_until: "2026-09-30"         # qualification rules are tuned on Aug-Sep, tested on Oct-Nov
+
+reps:
+  - {id: R1, name: Tunde Bakare,  number: "2348030000101"}
+  - {id: R2, name: Amaka Obi,     number: "2348030000102"}
+  - {id: R3, name: Ifeoma Nwosu,  number: "2348030000103"}
+  - {id: R4, name: Seun Adeyemi,  number: "2348030000104", left_on: "2026-11-13"}
+  - {id: R5, name: Chidi Eze,     number: "2348030000105"}
+  - {id: R6, name: Halima Bello,  number: "2348030000106"}
+
+agent_number: "2348030000900"     # the coaching agent's own WhatsApp number
+
+# Click-to-WhatsApp ads. Meta sends this source_id in the referral object.
+ads:
+  - {source_id: "120211450001", headline: "Facility management that never misses a visit"}
+  - {source_id: "120211450002", headline: "Cut your office running costs this quarter"}
+  - {source_id: "120211450003", headline: "Free site assessment for Lagos offices"}
+
+field_agents: [AGT-01, AGT-02, AGT-03, AGT-04, AGT-05]
+
+target_industries: [bank, fintech, hospital, school, manufacturing, logistics, oil and gas, telecoms, insurance, hotel]

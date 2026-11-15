@@ -1,0 +1,33 @@
+id,sent,direction,text,owner,due,note
+M01,2026-11-12T10:15,in,"Abeg call me Monday by 10, I no dey office before then",rep,2026-11-16T10:00,Pidgin request with bare hour
+M02,2026-11-12T10:15,in,"Monday no go work for me, make it Tuesday 11am",rep,2026-11-17T11:00,reschedule mentions two days
+M03,2026-11-12T10:15,in,"Don't call me on Friday, I'll be travelling.",,,negation
+M04,2026-11-12T10:15,in,"You said you'd send the proposal Monday, still waiting o",,,past promise (a complaint not a new commitment)
+M05,2026-11-12T10:15,in,"I'll think about it and let you know.",,,no date
+M06,2026-11-12T10:15,in,"We'll revert by Wednesday after our board meets",client,2026-11-18T17:00,client promise
+M07,2026-11-12T10:15,in,"Send me the revised quote before the end of the week please",rep,2026-11-13T17:00,end of week
+M08,2026-11-12T10:15,out,"I'll send the contract draft first thing tomorrow",rep,2026-11-13T09:00,rep promise
+M09,2026-11-12T10:15,out,"I go call you tomorrow afternoon sir",rep,2026-11-13T14:00,Pidgin rep promise
+M10,2026-11-12T10:15,in,"Talk to me next week",rep,2026-11-16T10:00,next week
+M11,2026-11-12T10:15,in,"Call me after 2 today",rep,2026-11-12T14:00,'after' as a time marker
+M12,2026-11-12T10:15,in,"Can you come by on Thursday at 3pm for the site visit?",rep,2026-11-19T15:00,same weekday means next week
+M13,2026-11-12T10:15,in,"Let me check with Oga and get back to you tomorrow",client,2026-11-13T17:00,client promise
+M14,2026-11-12T10:15,in,"The budget is around N4.5m, can you work with that?",,,amount not a time
+M15,2026-11-12T10:15,in,"Please call me at 8:30 a.m. on Monday",rep,2026-11-16T08:30,minutes
+M16,2026-11-12T10:15,out,"We'll share the SLA document on Tuesday",rep,2026-11-17T17:00,day only
+M17,2026-11-12T10:15,in,"Good morning, is the 15 staff option still available?",,,number not a time
+M18,2026-11-12T10:15,in,"Reach me on 08031234567 tomorrow",rep,2026-11-13T17:00,phone number in text
+M19,2026-11-12T10:15,in,"Thank you, we will be in touch",,,no date
+M20,2026-11-12T10:15,in,"I will confirm Friday morning whether MD approves",client,2026-11-13T09:00,client promise morning
+M21,2026-11-12T10:15,in,"Abeg no call me this week, call me next week Wednesday",rep,2026-11-18T17:00,negation then real request
+M22,2026-11-12T10:15,out,"Noted sir, I will reach out on Monday morning",rep,2026-11-16T09:00,rep promise
+M23,2026-11-12T10:15,in,"Can we do the call Tuesday by 4?",rep,2026-11-17T16:00,request without 'me'
+M24,2026-11-12T10:15,in,"My MD will sign once legal clears it, maybe next month",,,vague month
+M25,2026-11-12T10:15,out,"Sent the proposal yesterday sir, kindly confirm receipt",,,past
+M26,2026-11-12T10:15,in,"Ok tomorrow 9am works for me",rep,2026-11-13T09:00,acceptance
+M27,2026-11-12T10:15,in,"Text me the account details Monday",rep,2026-11-16T17:00,day only
+M28,2026-11-12T10:15,in,"We will revert on the pricing latest Thursday",client,2026-11-19T17:00,latest
+M29,2026-11-12T10:15,out,"I go send am before Friday",rep,2026-11-13T17:00,Pidgin rep promise
+M30,2026-11-12T10:15,in,"Call me when you're back in Lagos",,,condition not a date
+M31,2026-11-12T10:15,in,"Please call me tmrw by 11",rep,2026-11-13T11:00,abbreviation
+M32,2026-11-12T10:15,in,"we go get back to una on Tuesday",client,2026-11-17T17:00,Pidgin client promise

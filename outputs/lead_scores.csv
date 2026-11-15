@@ -1,0 +1,321 @@
+client_phone,lead_id,source,score,reasons,created,rep,source_o,accepted_meeting,meeting_time,showed,won,amount,closed
+2348154804120,L051,form,15,-25 asked price before sharing any need,2026-08-03 09:35:00,R3,form,0,,,0,27300000,
+2348139060265,L121,ad,60,+20 size: 155 staff; +10 2 sites; +5 target industry; -15 vague timeline,2026-08-03 12:44:00,R1,ad,0,,,0,13500000,
+2348199828514,L284,form,95,+20 size: 113 staff; +10 4 sites; +5 target industry; +20 clear timeline,2026-08-04 12:50:00,R2,form,1,2026-08-06 17:00:00,1.0,0,15600000,
+2348183829334,L287,referral,70,+20 size: 324 staff; +10 6 sites; +5 target industry; -15 vague timeline; +10 referral,2026-08-04 13:53:00,R5,referral,1,2026-08-07 17:00:00,0.0,0,48500000,
+2348170201850,L214,ad,15,-25 asked price before sharing any need,2026-08-04 19:29:00,R4,ad,1,2026-08-07 17:00:00,0.0,0,12900000,
+2348188739816,L297,ad,100,+20 size: 134 staff; +10 6 sites; +5 target industry; +20 clear timeline; +10 named a specific time,2026-08-04 19:52:00,R3,ad,1,2026-08-10 09:00:00,0.0,0,20800000,
+2348173669330,L266,field,95,+20 size: 29 staff; +10 3 sites; +5 target industry; +20 clear timeline,2026-08-04 20:27:00,R2,field,1,2026-08-12 09:00:00,1.0,0,14600000,
+2348182579724,L094,form,70,+20 size: 213 staff; +10 2 sites; +5 target industry; -15 vague timeline; +10 named a specific time,2026-08-05 12:27:00,R4,form,1,2026-08-06 11:00:00,0.0,0,12300000,
+2348183729932,L101,ad,15,-25 asked price before sharing any need,2026-08-05 16:40:00,R5,ad,0,,,0,24300000,
+2348121511865,L115,form,95,+20 size: 234 staff; +10 4 sites; +5 target industry; +20 clear timeline,2026-08-05 18:35:00,R1,form,1,2026-08-06 17:00:00,1.0,1,17600000,2026-08-23T14:00
+2348180280862,L223,referral,25,-25 asked price before sharing any need; +10 referral,2026-08-05 20:01:00,R1,referral,0,,,0,15400000,
+2348153869754,L122,field,50,+20 size: 102 staff; +5 target industry; -15 vague timeline,2026-08-05 20:54:00,R2,field,1,2026-08-10 17:00:00,0.0,0,6500000,
+2348112898154,L099,ad,15,-25 asked price before sharing any need,2026-08-06 09:12:00,R3,ad,0,,,0,13200000,
+2348113231111,L293,ad,60,+20 size: 169 staff; +10 4 sites; +5 target industry; -15 vague timeline,2026-08-06 09:29:00,R5,ad,0,,,0,17900000,
+2348124978703,L182,ad,25,-25 asked price before sharing any need; +10 named a specific time,2026-08-06 10:51:00,R2,ad,1,2026-08-07 09:00:00,1.0,0,23400000,
+2348197012349,L074,referral,100,+20 size: 348 staff; +10 3 sites; +5 target industry; +20 clear timeline; +10 referral,2026-08-06 11:03:00,R2,referral,1,2026-08-10 10:00:00,1.0,0,29500000,2026-09-05T09:00
+2348190742684,L190,field,15,-25 size: only 3 staff,2026-08-06 11:25:00,R4,field,1,2026-08-12 17:00:00,0.0,0,4099999,
+2348169482683,L064,form,85,+20 size: 348 staff; +5 target industry; +20 clear timeline,2026-08-06 11:29:00,R4,form,1,2026-08-13 09:00:00,1.0,1,8300000,2026-08-29T14:00
+2348113025108,L063,ad,25,-25 size: only 3 staff; +10 named a specific time,2026-08-06 17:25:00,R3,ad,1,2026-08-07 15:00:00,1.0,0,2800000,2026-08-26T16:00
+2348112283926,L153,ad,15,-25 asked price before sharing any need,2026-08-07 09:02:00,R3,ad,0,,,0,17000000,
+2348154230948,L166,referral,95,+20 size: 287 staff; +5 target industry; +20 clear timeline; +10 referral,2026-08-07 16:22:00,R4,referral,1,2026-08-14 17:00:00,1.0,1,16100000,2026-08-30T09:00
+2348174905053,L250,ad,70,+20 size: 20 staff; +10 2 sites; +5 target industry; -15 vague timeline; +10 named a specific time,2026-08-08 18:08:00,R4,ad,1,2026-08-10 09:00:00,0.0,0,10900000,
+2348153096778,L285,form,100,+20 size: 108 staff; +10 3 sites; +5 target industry; +20 clear timeline; +10 named a specific time,2026-08-09 08:37:00,R3,form,1,2026-08-12 12:00:00,0.0,0,11800000,
+2348135859106,L137,organic,15,-25 asked price before sharing any need,2026-08-09 14:02:00,R5,organic,0,,,0,27000000,
+2348164892138,L058,field,70,+20 size: 371 staff; +10 2 sites; +5 target industry; -15 vague timeline; +10 named a specific time,2026-08-09 16:20:00,R4,field,1,2026-08-10 16:00:00,1.0,0,12900000,2026-08-24T09:00
+2348128929566,L241,ad,25,-25 asked price before sharing any need; +10 named a specific time,2026-08-10 11:38:00,R1,ad,1,2026-08-11 08:00:00,1.0,0,5100000,2026-08-24T09:00
+2348162224554,L005,ad,60,+20 size: 214 staff; +10 6 sites; +5 target industry; -15 vague timeline,2026-08-10 15:32:00,R5,ad,1,2026-08-17 10:00:00,0.0,0,23900000,
+2348164381718,L156,form,95,+20 size: 188 staff; +10 2 sites; +5 target industry; +20 clear timeline,2026-08-10 15:47:00,R6,form,1,2026-08-12 09:00:00,1.0,0,18100000,2026-09-02T10:00
+2348179206119,L039,field,15,-25 size: only 4 staff,2026-08-10 15:54:00,R3,field,1,2026-08-17 17:00:00,0.0,0,3200000,
+2348147254001,L283,field,15,-25 size: only 6 staff,2026-08-11 11:50:00,R1,field,0,,,0,4000000,
+2348164606132,L085,organic,25,-25 size: only 6 staff; +10 named a specific time,2026-08-11 19:11:00,R1,organic,1,2026-08-19 15:00:00,0.0,0,3000000,
+2348198129201,L160,field,95,+20 size: 100 staff; +10 4 sites; +5 target industry; +20 clear timeline,2026-08-12 09:41:00,R4,field,1,2026-08-13 09:00:00,1.0,0,23100000,
+2348138715423,L296,field,15,-25 size: only 5 staff,2026-08-12 13:22:00,R2,field,1,2026-08-14 17:00:00,1.0,0,3600000,2026-09-07T17:00
+2348139614431,L070,ad,95,+20 size: 175 staff; +5 target industry; +20 clear timeline; +10 named a specific time,2026-08-12 17:20:00,R4,ad,1,2026-08-14 09:00:00,1.0,0,12400000,2026-08-26T17:00
+2348135395484,L249,ad,50,+20 size: 351 staff; +5 target industry; -15 vague timeline,2026-08-13 14:56:00,R3,ad,1,2026-08-17 09:00:00,0.0,0,15400000,
+2348146499853,L254,ad,25,-25 asked price before sharing any need; +10 named a specific time,2026-08-15 11:58:00,R2,ad,1,2026-08-16 14:00:00,0.0,0,16800000,
+2348163289670,L209,field,95,+20 size: 97 staff; +10 4 sites; +5 target industry; +20 clear timeline,2026-08-15 12:42:00,R5,field,1,2026-08-19 17:00:00,0.0,0,18600000,
+2348150500819,L173,form,70,+20 size: 364 staff; +10 6 sites; +5 target industry; -15 vague timeline; +10 named a specific time,2026-08-15 13:39:00,R5,form,1,2026-08-18 15:00:00,0.0,0,28100000,
+2348146725566,L187,ad,15,-25 asked price before sharing any need,2026-08-15 17:16:00,R1,ad,1,2026-08-17 09:00:00,0.0,0,15600000,
+2348177919031,L004,ad,85,+20 size: 254 staff; +5 target industry; +20 clear timeline,2026-08-15 19:56:00,R4,ad,1,2026-08-17 10:00:00,0.0,0,15200000,
+2348129734178,L219,ad,100,+20 size: 297 staff; +10 6 sites; +5 target industry; +20 clear timeline; +10 named a specific time,2026-08-16 11:00:00,R3,ad,1,2026-08-18 12:00:00,1.0,0,40100000,2026-09-02T09:00
+2348193784893,L204,referral,70,+20 size: 26 staff; +5 target industry; -15 vague timeline; +10 named a specific time; +10 referral,2026-08-16 12:07:00,R6,referral,1,2026-08-20 16:00:00,1.0,1,7300000,2026-09-04T17:00
+2348133934848,L007,referral,100,+20 size: 366 staff; +5 target industry; +20 clear timeline; +10 named a specific time; +10 referral,2026-08-16 13:25:00,R1,referral,1,2026-08-20 15:00:00,1.0,0,16700000,2026-09-03T09:00
+2348141045083,L002,field,15,-25 size: only 5 staff,2026-08-17 12:24:00,R2,field,0,,,0,4900000,
+2348118720263,L033,referral,95,+20 size: 82 staff; +5 target industry; +20 clear timeline; +10 referral,2026-08-17 12:25:00,R3,referral,1,2026-08-24 10:00:00,1.0,0,6300000,
+2348125026623,L231,form,15,-25 size: only 5 staff,2026-08-17 13:36:00,R3,form,0,,,0,4300000,
+2348145695101,L104,ad,15,-25 size: only 2 staff,2026-08-17 20:04:00,R2,ad,0,,,0,2000000,
+2348180085544,L061,ad,95,+20 size: 137 staff; +5 target industry; +20 clear timeline; +10 named a specific time,2026-08-18 12:50:00,R1,ad,1,2026-08-24 08:00:00,0.0,0,7500000,
+2348155802855,L186,ad,85,+20 size: 257 staff; +5 target industry; +20 clear timeline,2026-08-18 20:28:00,R6,ad,1,2026-08-21 17:00:00,1.0,0,12400000,2026-09-06T09:00
+2348162594442,L278,ad,95,+20 size: 125 staff; +10 4 sites; +5 target industry; +20 clear timeline,2026-08-19 08:11:00,R2,ad,1,2026-08-24 09:00:00,1.0,1,22200000,2026-09-08T17:00
+2348110331954,L154,ad,25,-25 asked price before sharing any need; +10 named a specific time,2026-08-19 10:13:00,R4,ad,1,2026-08-20 12:00:00,0.0,0,38900000,
+2348133950046,L301,organic,15,-25 asked price before sharing any need,2026-08-19 13:22:00,R1,organic,0,,,0,20900000,
+2348139609256,L029,ad,15,-25 asked price before sharing any need,2026-08-19 18:00:00,R5,ad,0,,,0,8400000,
+2348182747292,L320,ad,60,+20 size: 268 staff; +5 target industry; -15 vague timeline; +10 named a specific time,2026-08-19 18:03:00,R2,ad,1,2026-08-25 12:00:00,0.0,0,15700000,
+2348176783598,L248,ad,85,+20 size: 129 staff; +5 target industry; +20 clear timeline,2026-08-19 19:03:00,R2,ad,1,2026-08-24 10:00:00,1.0,0,5800000,
+2348188982073,L014,organic,95,+20 size: 98 staff; +5 target industry; +20 clear timeline; +10 named a specific time,2026-08-20 10:33:00,R2,organic,1,2026-08-27 16:00:00,0.0,0,5900000,
+2348191949417,L211,referral,100,+20 size: 209 staff; +10 3 sites; +5 target industry; +20 clear timeline; +10 referral,2026-08-20 13:26:00,R1,referral,1,2026-08-24 17:00:00,1.0,0,24800000,
+2348123996567,L234,organic,15,-25 size: only 2 staff,2026-08-20 15:31:00,R6,organic,0,,,0,2500000,
+2348186396649,L316,ad,15,-25 size: only 8 staff,2026-08-20 17:18:00,R4,ad,0,,,0,5200000,
+2348112397361,L199,referral,100,+20 size: 134 staff; +10 6 sites; +5 target industry; +20 clear timeline; +10 referral,2026-08-21 08:59:00,R1,referral,1,2026-08-22 09:00:00,1.0,1,25200000,2026-09-05T16:00
+2348115795525,L012,ad,15,-25 asked price before sharing any need,2026-08-21 09:33:00,R6,ad,0,,,0,22400000,
+2348188657396,L256,ad,25,-25 asked price before sharing any need; +10 named a specific time,2026-08-21 11:17:00,R4,ad,1,2026-08-22 12:00:00,0.0,0,24400000,
+2348185304669,L280,field,60,+20 size: 221 staff; +10 4 sites; +5 target industry; -15 vague timeline,2026-08-21 13:01:00,R4,field,0,,,0,32600000,
+2348187947854,L268,field,70,+20 size: 396 staff; +10 4 sites; +5 target industry; -15 vague timeline; +10 named a specific time,2026-08-21 13:45:00,R4,field,1,2026-08-22 15:00:00,0.0,0,26700000,
+2348188937775,L273,ad,60,+20 size: 128 staff; +5 target industry; -15 vague timeline; +10 named a specific time,2026-08-21 16:51:00,R3,ad,1,2026-08-22 10:00:00,0.0,0,12300000,
+2348147989959,L245,form,85,+20 size: 53 staff; +5 target industry; +20 clear timeline,2026-08-22 13:07:00,R5,form,1,2026-08-24 10:00:00,1.0,0,8500000,
+2348138559511,L103,form,60,+20 size: 24 staff; +10 3 sites; +5 target industry; -15 vague timeline,2026-08-22 15:00:00,R1,form,1,2026-08-24 10:00:00,0.0,0,14500000,
+2348154652878,L133,organic,50,+20 size: 183 staff; +5 target industry; -15 vague timeline,2026-08-22 17:03:00,R1,organic,0,,,0,9500000,
+2348154514203,L128,ad,15,-25 asked price before sharing any need,2026-08-22 18:41:00,R2,ad,0,,,0,9400000,
+2348158405978,L084,field,100,+20 size: 388 staff; +10 3 sites; +5 target industry; +20 clear timeline; +10 named a specific time,2026-08-22 20:34:00,R6,field,1,2026-08-24 14:00:00,1.0,1,30400000,2026-09-15T17:00
+2348177073198,L091,ad,25,-25 asked price before sharing any need; +10 named a specific time,2026-08-23 11:52:00,R1,ad,1,2026-08-24 12:00:00,0.0,0,20900000,
+2348119677255,L188,referral,100,+20 size: 287 staff; +5 target industry; +20 clear timeline; +10 named a specific time; +10 referral,2026-08-24 09:22:00,R2,referral,1,2026-08-27 14:00:00,1.0,0,13900000,
+2348140465833,L135,ad,85,+20 size: 128 staff; +5 target industry; +20 clear timeline,2026-08-24 13:00:00,R3,ad,1,2026-08-26 17:00:00,1.0,1,11500000,2026-09-13T09:00
+2348158581104,L168,organic,95,+20 size: 140 staff; +10 6 sites; +5 target industry; +20 clear timeline,2026-08-24 17:39:00,R6,organic,1,2026-08-27 09:00:00,1.0,0,18400000,2026-09-21T17:00
+2348135067418,L193,ad,50,+20 size: 277 staff; +5 target industry; -15 vague timeline,2026-08-24 18:30:00,R1,ad,1,2026-08-31 10:00:00,0.0,0,7800000,
+2348131355552,L145,referral,100,+20 size: 343 staff; +10 6 sites; +5 target industry; +20 clear timeline; +10 referral,2026-08-24 20:28:00,R1,referral,1,2026-08-27 17:00:00,1.0,1,37400000,2026-09-14T17:00
+2348173517378,L157,field,50,+20 size: 382 staff; +5 target industry; -15 vague timeline,2026-08-25 11:23:00,R1,field,0,,,0,8800000,
+2348146251541,L179,referral,100,+20 size: 387 staff; +10 3 sites; +5 target industry; +20 clear timeline; +10 named a specific time; +10 referral,2026-08-25 11:23:00,R5,referral,1,2026-08-27 15:00:00,1.0,1,28800000,2026-09-16T17:00
+2348180691374,L111,form,15,-25 size: only 7 staff,2026-08-25 12:54:00,R3,form,0,,,0,3400000,
+2348120419388,L069,field,15,-25 size: only 5 staff,2026-08-25 15:09:00,R3,field,0,,,0,4700000,
+2348120278119,L126,organic,15,-25 size: only 8 staff,2026-08-25 18:56:00,R6,organic,0,,,0,3800000,
+2348165808835,L118,ad,50,+20 size: 196 staff; +5 target industry; -15 vague timeline,2026-08-26 11:02:00,R4,ad,0,,,0,12500000,
+2348147734683,L057,ad,15,-25 asked price before sharing any need,2026-08-26 13:57:00,R3,ad,0,,,0,11700000,
+2348127743284,L291,form,95,+20 size: 130 staff; +5 target industry; +20 clear timeline; +10 named a specific time,2026-08-26 19:40:00,R3,form,1,2026-09-02 12:00:00,1.0,1,6300000,2026-09-18T16:00
+2348167762517,L260,field,95,+20 size: 70 staff; +10 3 sites; +5 target industry; +20 clear timeline,2026-08-27 12:55:00,R2,field,1,2026-08-28 17:00:00,1.0,1,9500000,2026-09-20T10:00
+2348187503618,L172,ad,15,-25 size: only 2 staff,2026-08-27 14:09:00,R4,ad,0,,,0,2000000,
+2348198653322,L264,form,95,+20 size: 224 staff; +10 4 sites; +5 target industry; +20 clear timeline,2026-08-27 15:08:00,R6,form,0,,,0,14200000,
+2348145210823,L159,referral,80,+20 size: 284 staff; +10 2 sites; +5 target industry; -15 vague timeline; +10 named a specific time; +10 referral,2026-08-28 10:00:00,R3,referral,1,2026-08-29 15:00:00,0.0,0,12900000,
+2348181100229,L233,field,15,-25 size: only 7 staff,2026-08-28 11:02:00,R5,field,0,,,0,4500000,
+2348144311589,L013,field,85,+20 size: 171 staff; +5 target industry; +20 clear timeline,2026-08-28 12:59:00,R1,field,1,2026-08-31 10:00:00,1.0,0,13800000,
+2348122635046,L015,ad,85,+20 size: 262 staff; +5 target industry; +20 clear timeline,2026-08-28 15:06:00,R3,ad,1,2026-08-31 09:00:00,1.0,1,8500000,2026-09-17T14:00
+2348179065843,L302,field,95,+20 size: 345 staff; +10 3 sites; +5 target industry; +20 clear timeline,2026-08-28 20:17:00,R2,field,1,2026-09-04 17:00:00,1.0,0,20100000,
+2348116275591,L056,organic,60,+20 size: 151 staff; +5 target industry; -15 vague timeline; +10 named a specific time,2026-08-29 08:09:00,R2,organic,1,2026-08-30 09:00:00,1.0,0,12700000,2026-09-16T10:00
+2348147579339,L230,ad,15,-25 asked price before sharing any need,2026-08-30 13:44:00,R2,ad,0,,,0,12700000,
+2348152731159,L308,field,50,+20 size: 178 staff; +5 target industry; -15 vague timeline,2026-08-30 14:45:00,R2,field,1,2026-09-03 17:00:00,1.0,1,7700000,2026-09-17T14:00
+2348164056896,L127,ad,15,-25 asked price before sharing any need,2026-08-30 19:38:00,R1,ad,1,2026-09-04 17:00:00,0.0,0,16900000,
+2348133494132,L065,organic,85,+20 size: 277 staff; +5 target industry; +20 clear timeline,2026-08-30 19:43:00,R5,organic,1,2026-09-07 10:00:00,0.0,0,6700000,
+2348199412179,L008,ad,95,+20 size: 211 staff; +5 target industry; +20 clear timeline; +10 named a specific time,2026-08-30 20:27:00,R2,ad,1,2026-09-07 15:00:00,1.0,1,13900000,2026-09-27T15:00
+2348115173308,L185,referral,100,+20 size: 234 staff; +5 target industry; +20 clear timeline; +10 named a specific time; +10 referral,2026-08-30 20:33:00,R5,referral,1,2026-09-07 09:00:00,1.0,0,8800000,2026-09-18T10:00
+2348160233013,L178,field,15,-25 size: only 5 staff,2026-08-31 09:39:00,R4,field,0,,,0,2900000,
+2348198755462,L161,field,95,+20 size: 55 staff; +10 6 sites; +5 target industry; +20 clear timeline,2026-08-31 14:54:00,R5,field,1,2026-09-07 10:00:00,1.0,0,19100000,
+2348147483556,L183,ad,100,+20 size: 230 staff; +10 4 sites; +5 target industry; +20 clear timeline; +10 named a specific time,2026-08-31 15:07:00,R3,ad,1,2026-09-08 10:00:00,1.0,0,14900000,
+2348164210048,L253,ad,15,-25 asked price before sharing any need,2026-09-01 13:17:00,R1,ad,1,2026-09-07 10:00:00,0.0,0,20300000,
+2348111731894,L319,organic,95,+20 size: 336 staff; +10 3 sites; +5 target industry; +20 clear timeline,2026-09-01 15:20:00,R1,organic,1,2026-09-04 17:00:00,1.0,1,24800000,2026-09-25T09:00
+2348118271869,L006,organic,85,+20 size: 28 staff; +5 target industry; +20 clear timeline,2026-09-01 18:34:00,R6,organic,1,2026-09-02 17:00:00,1.0,0,4200000,2026-09-18T17:00
+2348188142133,L294,organic,15,-25 asked price before sharing any need,2026-09-02 09:56:00,R6,organic,0,,,0,10600000,
+2348160843631,L210,ad,15,-25 asked price before sharing any need,2026-09-03 13:01:00,R6,ad,1,2026-09-08 17:00:00,0.0,0,16100000,
+2348116939088,L088,form,70,+20 size: 327 staff; +10 2 sites; +5 target industry; -15 vague timeline; +10 named a specific time,2026-09-03 19:51:00,R4,form,1,2026-09-08 14:00:00,0.0,0,12300000,
+2348182513052,L134,ad,95,+20 size: 233 staff; +10 6 sites; +5 target industry; +20 clear timeline,2026-09-05 13:19:00,R2,ad,1,2026-09-06 09:00:00,1.0,0,30000000,2026-09-22T11:00
+2348182741836,L073,field,100,+20 size: 200 staff; +10 6 sites; +5 target industry; +20 clear timeline; +10 named a specific time,2026-09-05 19:31:00,R1,field,1,2026-09-07 09:00:00,1.0,1,39000000,2026-09-23T09:00
+2348118411569,L011,ad,95,+20 size: 210 staff; +5 target industry; +20 clear timeline; +10 named a specific time,2026-09-06 11:34:00,R5,ad,1,2026-09-07 09:00:00,1.0,0,9700000,
+2348127204135,L055,ad,85,+20 size: 393 staff; +5 target industry; +20 clear timeline,2026-09-06 14:11:00,R1,ad,1,2026-09-07 09:00:00,1.0,1,16399999,2026-09-21T09:00
+2348132904517,L257,organic,25,-25 asked price before sharing any need; +10 named a specific time,2026-09-07 12:58:00,R5,organic,1,2026-09-11 16:00:00,0.0,0,38500000,
+2348159838904,L059,field,25,-25 asked price before sharing any need; +10 named a specific time,2026-09-07 16:09:00,R5,field,1,2026-09-10 15:00:00,0.0,0,8500000,
+2348126595061,L314,ad,25,-25 asked price before sharing any need; +10 named a specific time,2026-09-07 18:58:00,R2,ad,1,2026-09-11 15:00:00,0.0,0,15500000,
+2348174513339,L020,ad,15,-25 size: only 7 staff,2026-09-07 19:25:00,R2,ad,0,,,0,5300000,
+2348152062232,L046,form,85,+20 size: 152 staff; +5 target industry; +20 clear timeline,2026-09-08 11:06:00,R4,form,1,2026-09-14 10:00:00,0.0,0,12700000,
+2348183887357,L221,field,95,+20 size: 201 staff; +5 target industry; +20 clear timeline; +10 named a specific time,2026-09-08 15:35:00,R5,field,1,2026-09-10 15:00:00,1.0,1,11800000,2026-10-04T16:00
+2348143598249,L079,ad,15,-25 size: only 5 staff,2026-09-08 16:03:00,R1,ad,1,2026-09-15 17:00:00,0.0,0,4700000,
+2348183030034,L158,referral,95,+20 size: 372 staff; +5 target industry; +20 clear timeline; +10 referral,2026-09-08 16:18:00,R2,referral,1,2026-09-11 17:00:00,1.0,1,14700000,2026-09-29T14:00
+2348128964935,L042,field,25,-25 asked price before sharing any need; +10 named a specific time,2026-09-09 10:35:00,R6,field,1,2026-09-15 15:00:00,0.0,0,13000000,
+2348158527799,L195,ad,60,+20 size: 299 staff; +10 3 sites; +5 target industry; -15 vague timeline,2026-09-09 13:37:00,R3,ad,1,2026-09-11 17:00:00,0.0,0,18600000,
+2348141914730,L076,ad,15,-25 size: only 8 staff,2026-09-09 20:36:00,R4,ad,1,2026-09-17 17:00:00,1.0,0,2500000,2026-10-08T10:00
+2348177951270,L075,field,95,+20 size: 256 staff; +10 2 sites; +5 target industry; +20 clear timeline,2026-09-10 11:49:00,R3,field,1,2026-09-14 10:00:00,1.0,1,14700000,2026-09-28T08:00
+2348192367346,L216,ad,60,+20 size: 21 staff; +5 target industry; -15 vague timeline; +10 named a specific time,2026-09-10 16:31:00,R6,ad,1,2026-09-16 14:00:00,0.0,0,4800000,
+2348175347580,L071,ad,100,+20 size: 292 staff; +10 4 sites; +5 target industry; +20 clear timeline; +10 named a specific time,2026-09-10 17:14:00,R5,ad,1,2026-09-12 16:00:00,1.0,0,26000000,2026-09-29T14:00
+2348168513749,L306,referral,100,+20 size: 330 staff; +10 4 sites; +5 target industry; +20 clear timeline; +10 named a specific time; +10 referral,2026-09-10 17:52:00,R6,referral,1,2026-09-16 16:00:00,1.0,1,23800000,2026-09-27T10:00
+2348186900824,L227,field,60,+20 size: 145 staff; +10 6 sites; +5 target industry; -15 vague timeline,2026-09-11 17:15:00,R5,field,0,,,0,31400000,
+2348178600944,L259,organic,15,-25 asked price before sharing any need,2026-09-12 09:09:00,R1,organic,1,2026-09-13 09:00:00,0.0,0,19300000,
+2348186903543,L089,ad,95,+20 size: 370 staff; +10 4 sites; +5 target industry; +20 clear timeline,2026-09-12 09:34:00,R5,ad,1,2026-09-16 17:00:00,1.0,1,39200000,2026-10-02T17:00
+2348150816385,L300,form,70,+20 size: 397 staff; +10 2 sites; +5 target industry; -15 vague timeline; +10 named a specific time,2026-09-12 09:56:00,R6,form,1,2026-09-13 11:00:00,1.0,0,14200000,
+2348156012800,L132,referral,95,+20 size: 363 staff; +5 target industry; +20 clear timeline; +10 referral,2026-09-12 13:16:00,R6,referral,1,2026-09-13 09:00:00,1.0,0,11300000,2026-09-30T11:00
+2348187231613,L307,ad,60,+20 size: 187 staff; +10 4 sites; +5 target industry; -15 vague timeline,2026-09-12 18:12:00,R1,ad,1,2026-09-17 17:00:00,1.0,0,26900000,2026-10-03T09:00
+2348196679333,L181,ad,15,-25 asked price before sharing any need,2026-09-12 19:04:00,R1,ad,0,,,0,16800000,
+2348165821735,L309,field,15,-25 asked price before sharing any need,2026-09-13 13:12:00,R3,field,1,2026-09-14 09:00:00,0.0,0,9000000,
+2348116004630,L036,ad,25,-25 asked price before sharing any need; +10 named a specific time,2026-09-13 15:02:00,R6,ad,1,2026-09-15 10:00:00,0.0,0,29000000,
+2348115124223,L009,ad,100,+20 size: 136 staff; +10 4 sites; +5 target industry; +20 clear timeline; +10 named a specific time,2026-09-13 16:16:00,R3,ad,1,2026-09-17 11:00:00,1.0,0,23000000,2026-10-07T09:00
+2348128002572,L299,ad,15,-25 asked price before sharing any need,2026-09-14 16:38:00,R5,ad,0,,,0,14500000,
+2348181353774,L272,ad,100,+20 size: 374 staff; +10 6 sites; +5 target industry; +20 clear timeline; +10 named a specific time,2026-09-15 09:26:00,R2,ad,1,2026-09-21 11:00:00,1.0,0,32700000,2026-10-19T09:00
+2348179987692,L313,form,15,-25 asked price before sharing any need,2026-09-15 11:58:00,R1,form,0,,,0,13900000,
+2348161731160,L068,form,60,+20 size: 290 staff; +10 3 sites; +5 target industry; -15 vague timeline,2026-09-15 13:21:00,R2,form,1,2026-09-21 10:00:00,1.0,0,30100000,
+2348180736128,L267,organic,95,+20 size: 355 staff; +10 6 sites; +5 target industry; +20 clear timeline,2026-09-15 14:47:00,R3,organic,1,2026-09-21 10:00:00,1.0,1,23300000,2026-10-08T10:00
+2348197996068,L304,field,70,+20 size: 261 staff; +10 4 sites; +5 target industry; -15 vague timeline; +10 named a specific time,2026-09-16 09:13:00,R4,field,1,2026-09-17 14:00:00,0.0,0,27300000,
+2348136126160,L022,form,15,-25 asked price before sharing any need,2026-09-16 14:50:00,R4,form,0,,,0,23500000,
+2348116473078,L109,ad,15,-25 asked price before sharing any need,2026-09-16 18:28:00,R1,ad,0,,,0,28100000,
+2348113229378,L043,organic,15,-25 size: only 4 staff,2026-09-16 20:46:00,R1,organic,0,,,0,2400000,
+2348124037918,L232,ad,60,+20 size: 59 staff; +10 4 sites; +5 target industry; -15 vague timeline,2026-09-17 13:31:00,R4,ad,1,2026-09-22 09:00:00,0.0,0,10700000,
+2348118098514,L017,referral,60,+20 size: 118 staff; +5 target industry; -15 vague timeline; +10 referral,2026-09-17 13:52:00,R5,referral,0,,,0,9900000,
+2348190702377,L010,ad,15,-25 size: only 2 staff,2026-09-18 08:10:00,R4,ad,0,,,0,1800000,
+2348137225651,L189,form,95,+20 size: 332 staff; +10 4 sites; +5 target industry; +20 clear timeline,2026-09-19 11:49:00,R3,form,1,2026-09-22 17:00:00,1.0,1,21500000,2026-10-10T10:00
+2348135889052,L026,ad,15,-25 asked price before sharing any need,2026-09-19 17:08:00,R2,ad,0,,,0,28400000,
+2348174616473,L150,field,25,-25 asked price before sharing any need; +10 named a specific time,2026-09-19 20:39:00,R6,field,1,2026-09-23 08:00:00,0.0,0,37900000,
+2348193129277,L174,organic,95,+20 size: 87 staff; +10 4 sites; +5 target industry; +20 clear timeline,2026-09-20 10:29:00,R6,organic,1,2026-09-21 09:00:00,1.0,1,24100000,2026-10-04T17:00
+2348195511296,L067,ad,100,+20 size: 52 staff; +10 4 sites; +5 target industry; +20 clear timeline; +10 named a specific time,2026-09-20 15:19:00,R1,ad,1,2026-09-25 09:00:00,1.0,1,9900000,2026-10-10T10:00
+2348130871364,L139,form,100,+20 size: 100 staff; +10 3 sites; +5 target industry; +20 clear timeline; +10 named a specific time,2026-09-20 17:50:00,R1,form,1,2026-09-22 15:00:00,1.0,1,19400000,2026-10-08T10:00
+2348188464105,L197,form,50,+20 size: 296 staff; +5 target industry; -15 vague timeline,2026-09-21 10:10:00,R5,form,0,,,0,11400000,
+2348127816813,L206,ad,15,-25 asked price before sharing any need,2026-09-21 10:24:00,R2,ad,0,,,0,22500000,
+2348129864553,L106,field,60,+20 size: 116 staff; +5 target industry; -15 vague timeline; +10 named a specific time,2026-09-21 11:39:00,R4,field,1,2026-09-22 12:00:00,1.0,0,9500000,
+2348172257931,L028,form,100,+20 size: 148 staff; +10 3 sites; +5 target industry; +20 clear timeline; +10 named a specific time,2026-09-21 13:27:00,R4,form,1,2026-09-24 09:00:00,1.0,1,25600000,2026-10-05T15:00
+2348117296238,L207,ad,95,+20 size: 197 staff; +10 2 sites; +5 target industry; +20 clear timeline,2026-09-22 10:54:00,R3,ad,1,2026-09-24 17:00:00,1.0,0,10400000,2026-10-06T14:00
+2348171159968,L124,referral,70,+20 size: 354 staff; +10 3 sites; +5 target industry; -15 vague timeline; +10 referral,2026-09-22 15:48:00,R4,referral,1,2026-09-28 17:00:00,0.0,0,25900000,
+2348145432675,L208,field,15,-25 asked price before sharing any need,2026-09-22 17:01:00,R4,field,0,,,0,9000000,
+2348111234240,L003,referral,100,+20 size: 207 staff; +10 3 sites; +5 target industry; +20 clear timeline; +10 named a specific time; +10 referral,2026-09-22 17:19:00,R3,referral,1,2026-09-24 16:00:00,0.0,0,11600000,
+2348121497246,L096,ad,15,-25 asked price before sharing any need,2026-09-22 18:07:00,R6,ad,0,,,0,22400000,
+2348160753531,L023,field,85,+20 size: 147 staff; +5 target industry; +20 clear timeline,2026-09-23 13:05:00,R5,field,1,2026-09-25 17:00:00,1.0,0,6700000,2026-10-17T10:00
+2348183616250,L149,referral,100,+20 size: 84 staff; +10 4 sites; +5 target industry; +20 clear timeline; +10 named a specific time; +10 referral,2026-09-23 13:49:00,R5,referral,1,2026-09-28 11:00:00,1.0,0,11500000,
+2348178875430,L031,referral,35,-25 size: only 8 staff; +10 named a specific time; +10 referral,2026-09-23 16:04:00,R1,referral,1,2026-09-24 10:00:00,1.0,1,2900000,2026-10-10T11:00
+2348157016944,L255,ad,15,-25 size: only 8 staff,2026-09-23 16:22:00,R3,ad,1,2026-09-25 17:00:00,0.0,0,4000000,
+2348121215903,L090,ad,95,+20 size: 257 staff; +10 6 sites; +5 target industry; +20 clear timeline,2026-09-23 20:11:00,R6,ad,1,2026-09-28 10:00:00,1.0,0,21500000,2026-10-20T17:00
+2348192920417,L112,field,60,+20 size: 371 staff; +10 4 sites; +5 target industry; -15 vague timeline,2026-09-23 20:32:00,R4,field,0,,,0,26100000,
+2348114016448,L277,ad,15,-25 asked price before sharing any need,2026-09-24 16:26:00,R1,ad,0,,,0,34000000,
+2348134557605,L038,field,100,+20 size: 188 staff; +10 6 sites; +5 target industry; +20 clear timeline; +10 named a specific time,2026-09-24 19:16:00,R2,field,1,2026-09-26 16:00:00,1.0,0,31700000,
+2348143379211,L117,form,95,+20 size: 67 staff; +5 target industry; +20 clear timeline; +10 named a specific time,2026-09-25 09:06:00,R3,form,1,2026-10-01 10:00:00,1.0,0,9800000,2026-10-20T09:00
+2348160616039,L049,ad,15,-25 asked price before sharing any need,2026-09-25 16:38:00,R1,ad,1,2026-09-26 09:00:00,1.0,0,16200000,
+2348187394027,L175,ad,25,-25 size: only 2 staff; +10 named a specific time,2026-09-26 12:15:00,R1,ad,1,2026-09-27 10:00:00,1.0,0,1900000,
+2348145983616,L176,form,60,+20 size: 375 staff; +5 target industry; -15 vague timeline; +10 named a specific time,2026-09-26 12:39:00,R2,form,1,2026-09-27 09:00:00,0.0,0,9200000,
+2348121947147,L229,ad,15,-25 asked price before sharing any need,2026-09-27 16:57:00,R1,ad,0,,,0,15500000,
+2348158000831,L224,field,15,-25 size: only 3 staff,2026-09-28 09:06:00,R2,field,1,2026-09-29 09:00:00,0.0,0,3800000,
+2348128282420,L052,field,85,+20 size: 344 staff; +5 target industry; +20 clear timeline,2026-09-28 17:38:00,R4,field,1,2026-10-01 17:00:00,1.0,1,12200000,2026-10-19T17:00
+2348153308170,L215,ad,60,+20 size: 353 staff; +10 3 sites; +5 target industry; -15 vague timeline,2026-09-28 18:10:00,R5,ad,1,2026-10-05 17:00:00,1.0,0,24000000,2026-11-01T09:00
+2348143321539,L087,ad,100,+20 size: 28 staff; +10 4 sites; +5 target industry; +20 clear timeline; +10 named a specific time,2026-09-28 19:45:00,R3,ad,1,2026-09-30 12:00:00,1.0,1,17900000,2026-10-17T17:00
+2348158492048,L083,ad,95,+20 size: 128 staff; +5 target industry; +20 clear timeline; +10 named a specific time,2026-09-28 19:58:00,R5,ad,1,2026-09-30 16:00:00,1.0,1,12100000,2026-10-18T09:00
+2348177081699,L044,ad,60,+20 size: 399 staff; +10 4 sites; +5 target industry; -15 vague timeline,2026-09-30 14:25:00,R2,ad,1,2026-10-05 10:00:00,1.0,1,29700000,2026-10-17T10:00
+2348154466111,L050,field,50,+20 size: 306 staff; +5 target industry; -15 vague timeline,2026-09-30 18:38:00,R2,field,0,,,0,14700000,
+2348148817492,L163,organic,60,+20 size: 126 staff; +10 3 sites; +5 target industry; -15 vague timeline,2026-09-30 19:06:00,R1,organic,0,,,0,14900000,
+2348164215175,L276,ad,15,-25 size: only 8 staff,2026-10-01 09:37:00,R6,ad,1,2026-10-05 10:00:00,0.0,0,2500000,
+2348175209394,L001,field,100,+20 size: 131 staff; +10 4 sites; +5 target industry; +20 clear timeline; +10 named a specific time,2026-10-01 11:11:00,R1,field,1,2026-10-02 09:00:00,0.0,0,24800000,
+2348179798356,L030,ad,15,-25 size: only 4 staff,2026-10-01 18:17:00,R6,ad,0,,,0,2400000,
+2348174885494,L246,ad,15,-25 asked price before sharing any need,2026-10-02 10:29:00,R6,ad,0,,,0,9100000,
+2348145924554,L265,ad,60,+20 size: 377 staff; +10 6 sites; +5 target industry; -15 vague timeline,2026-10-03 12:36:00,R1,ad,1,2026-10-07 09:00:00,0.0,0,43200000,
+2348142632596,L107,ad,95,+20 size: 23 staff; +5 target industry; +20 clear timeline; +10 named a specific time,2026-10-03 13:49:00,R5,ad,1,2026-10-07 11:00:00,1.0,0,4900000,
+2348133156271,L162,ad,15,-25 asked price before sharing any need,2026-10-03 20:13:00,R6,ad,1,2026-10-06 09:00:00,0.0,0,19000000,
+2348197830351,L201,ad,95,+20 size: 357 staff; +5 target industry; +20 clear timeline; +10 named a specific time,2026-10-03 20:23:00,R3,ad,1,2026-10-08 12:00:00,1.0,0,9600000,2026-10-28T14:00
+2348197042812,L167,ad,15,-25 asked price before sharing any need,2026-10-04 08:24:00,R5,ad,1,2026-10-08 17:00:00,0.0,0,5500000,
+2348194901572,L311,ad,60,+20 size: 329 staff; +10 3 sites; +5 target industry; -15 vague timeline,2026-10-04 17:13:00,R5,ad,0,,,0,21900000,
+2348133799467,L318,ad,100,+20 size: 48 staff; +10 6 sites; +5 target industry; +20 clear timeline; +10 named a specific time,2026-10-05 09:42:00,R6,ad,1,2026-10-06 10:00:00,1.0,0,14300000,2026-10-22T10:00
+2348112902322,L192,ad,95,+20 size: 99 staff; +5 target industry; +20 clear timeline; +10 named a specific time,2026-10-05 16:50:00,R6,ad,1,2026-10-13 10:00:00,1.0,0,5300000,
+2348135804542,L116,organic,60,+20 size: 188 staff; +10 3 sites; +5 target industry; -15 vague timeline,2026-10-06 08:02:00,R2,organic,1,2026-10-12 10:00:00,0.0,0,21800000,
+2348182932657,L105,referral,100,+20 size: 334 staff; +10 3 sites; +5 target industry; +20 clear timeline; +10 referral,2026-10-06 18:43:00,R3,referral,1,2026-10-08 09:00:00,1.0,0,25900000,2026-10-22T17:00
+2348139352040,L165,field,95,+20 size: 392 staff; +10 3 sites; +5 target industry; +20 clear timeline,2026-10-06 19:04:00,R3,field,1,2026-10-08 09:00:00,1.0,1,23000000,2026-10-27T09:00
+2348120390539,L310,referral,100,+20 size: 78 staff; +5 target industry; +20 clear timeline; +10 named a specific time; +10 referral,2026-10-08 08:25:00,R4,referral,1,2026-10-09 14:00:00,0.0,0,6900000,
+2348177149529,L041,ad,60,+20 size: 27 staff; +10 3 sites; +5 target industry; -15 vague timeline,2026-10-08 12:08:00,R5,ad,0,,,0,6600000,
+2348188290391,L037,field,100,+20 size: 309 staff; +10 6 sites; +5 target industry; +20 clear timeline; +10 named a specific time,2026-10-08 12:16:00,R1,field,1,2026-10-15 09:00:00,1.0,0,24200000,2026-11-07T17:00
+2348158023419,L147,ad,95,+20 size: 18 staff; +10 2 sites; +5 target industry; +20 clear timeline,2026-10-08 16:15:00,R3,ad,1,2026-10-10 09:00:00,1.0,1,5100000,2026-10-29T11:00
+2348187234308,L200,field,25,-25 size: only 3 staff; +10 named a specific time,2026-10-08 19:41:00,R2,field,1,2026-10-10 10:00:00,0.0,0,3100000,
+2348172204095,L288,field,60,+20 size: 29 staff; +10 6 sites; +5 target industry; -15 vague timeline,2026-10-09 17:13:00,R6,field,1,2026-10-12 10:00:00,0.0,0,14100000,
+2348152081840,L125,referral,100,+20 size: 281 staff; +10 3 sites; +5 target industry; +20 clear timeline; +10 referral,2026-10-10 09:24:00,R5,referral,1,2026-10-14 17:00:00,1.0,1,28500000,2026-11-02T12:00
+2348165059636,L312,ad,15,-25 asked price before sharing any need,2026-10-11 11:54:00,R6,ad,0,,,0,10900000,
+2348117174713,L236,form,25,-25 asked price before sharing any need; +10 named a specific time,2026-10-11 16:58:00,R2,form,1,2026-10-12 09:00:00,0.0,0,17900000,
+2348156313354,L196,ad,15,-25 asked price before sharing any need,2026-10-12 13:09:00,R4,ad,0,,,0,8500000,
+2348174982252,L040,organic,95,+20 size: 86 staff; +10 3 sites; +5 target industry; +20 clear timeline,2026-10-12 17:00:00,R4,organic,1,2026-10-13 09:00:00,1.0,0,17800000,
+2348179811209,L279,organic,15,-25 size: only 8 staff,2026-10-12 18:22:00,R3,organic,1,2026-10-16 17:00:00,1.0,0,4000000,2026-11-13T09:00
+2348156588753,L078,form,25,-25 asked price before sharing any need; +10 named a specific time,2026-10-13 12:21:00,R6,form,1,2026-10-15 09:00:00,0.0,0,26500000,
+2348146710109,L066,ad,60,+20 size: 292 staff; +10 2 sites; +5 target industry; -15 vague timeline,2026-10-13 13:23:00,R6,ad,1,2026-10-16 17:00:00,0.0,0,13700000,
+2348165705322,L270,form,85,+20 size: 162 staff; +5 target industry; +20 clear timeline,2026-10-13 18:45:00,R6,form,1,2026-10-20 17:00:00,1.0,1,11600000,2026-11-08T15:00
+2348115196928,L242,ad,70,+20 size: 309 staff; +10 4 sites; +5 target industry; -15 vague timeline; +10 named a specific time,2026-10-14 08:51:00,R2,ad,1,2026-10-15 09:00:00,0.0,0,26000000,
+2348142673700,L129,field,95,+20 size: 140 staff; +10 6 sites; +5 target industry; +20 clear timeline,2026-10-15 14:12:00,R3,field,1,2026-10-19 10:00:00,1.0,1,25500000,2026-11-11T09:00
+2348168011229,L258,organic,85,+20 size: 191 staff; +5 target industry; +20 clear timeline,2026-10-16 16:05:00,R6,organic,1,2026-10-21 09:00:00,1.0,1,8199999,2026-11-01T14:00
+2348149547761,L203,field,25,-25 size: only 3 staff; +10 named a specific time,2026-10-16 16:24:00,R5,field,1,2026-10-19 08:00:00,0.0,0,3500000,
+2348124642809,L053,ad,60,+20 size: 138 staff; +10 4 sites; +5 target industry; -15 vague timeline,2026-10-16 20:46:00,R5,ad,1,2026-10-18 09:00:00,1.0,0,27400000,
+2348119001808,L169,ad,15,-25 asked price before sharing any need,2026-10-16 20:57:00,R1,ad,1,2026-10-19 17:00:00,0.0,0,7000000,
+2348190057869,L152,ad,15,-25 asked price before sharing any need,2026-10-17 08:41:00,R2,ad,0,,,0,13000000,
+2348128237929,L171,ad,85,+20 size: 126 staff; +5 target industry; +20 clear timeline,2026-10-17 09:21:00,R3,ad,1,2026-10-18 09:00:00,1.0,0,6800000,2026-11-01T17:00
+2348172192754,L155,organic,15,-25 size: only 6 staff,2026-10-17 11:46:00,R5,organic,1,2026-10-23 17:00:00,1.0,0,3800000,2026-11-10T08:00
+2348163551026,L289,ad,15,-25 asked price before sharing any need,2026-10-17 12:57:00,R1,ad,1,2026-10-19 10:00:00,0.0,0,24000000,
+2348127899739,L212,ad,95,+20 size: 280 staff; +10 3 sites; +5 target industry; +20 clear timeline,2026-10-17 13:03:00,R2,ad,1,2026-10-22 09:00:00,1.0,0,26900000,2026-11-10T10:00
+2348130321119,L317,ad,15,-25 asked price before sharing any need,2026-10-17 15:08:00,R5,ad,0,,,0,16000000,
+2348179565961,L035,referral,100,+20 size: 354 staff; +10 6 sites; +5 target industry; +20 clear timeline; +10 named a specific time; +10 referral,2026-10-18 14:53:00,R5,referral,1,2026-10-19 12:00:00,1.0,0,39700000,
+2348154414256,L027,ad,85,+20 size: 338 staff; +5 target industry; +20 clear timeline,2026-10-19 08:04:00,R3,ad,1,2026-10-20 09:00:00,0.0,0,7000000,
+2348117701318,L228,ad,15,-25 size: only 5 staff,2026-10-19 08:09:00,R6,ad,1,2026-10-21 17:00:00,0.0,0,3500000,
+2348164063337,L271,form,25,-25 size: only 3 staff; +10 named a specific time,2026-10-19 11:54:00,R1,form,1,2026-10-21 16:00:00,0.0,0,2800000,
+2348189163656,L298,ad,70,+20 size: 235 staff; +10 2 sites; +5 target industry; -15 vague timeline; +10 named a specific time,2026-10-19 13:16:00,R4,ad,1,2026-10-22 08:00:00,0.0,0,14100000,
+2348170671281,L113,referral,100,+20 size: 49 staff; +10 6 sites; +5 target industry; +20 clear timeline; +10 named a specific time; +10 referral,2026-10-19 16:06:00,R5,referral,1,2026-10-22 14:00:00,0.0,0,16399999,
+2348134051025,L164,referral,100,+20 size: 338 staff; +10 2 sites; +5 target industry; +20 clear timeline; +10 referral,2026-10-19 20:17:00,R2,referral,1,2026-10-26 10:00:00,1.0,1,22800000,2026-11-11T17:00
+2348138925445,L034,ad,15,-25 asked price before sharing any need,2026-10-20 12:16:00,R4,ad,1,2026-10-26 17:00:00,0.0,0,17600000,
+2348126392741,L092,referral,95,+20 size: 137 staff; +5 target industry; +20 clear timeline; +10 referral,2026-10-20 12:22:00,R2,referral,1,2026-10-23 17:00:00,0.0,0,5500000,
+2348143940774,L108,ad,85,+20 size: 58 staff; +5 target industry; +20 clear timeline,2026-10-20 15:34:00,R6,ad,1,2026-10-26 10:00:00,1.0,1,10100000,2026-11-11T09:00
+2348174629832,L286,referral,70,+20 size: 213 staff; +5 target industry; -15 vague timeline; +10 named a specific time; +10 referral,2026-10-20 16:20:00,R4,referral,1,2026-10-23 12:00:00,0.0,0,11600000,
+2348115934117,L025,field,85,+20 size: 306 staff; +5 target industry; +20 clear timeline,2026-10-21 09:42:00,R1,field,0,,,0,8199999,
+2348167814427,L238,field,85,+20 size: 26 staff; +5 target industry; +20 clear timeline,2026-10-21 11:11:00,R4,field,1,2026-10-26 17:00:00,1.0,0,6400000,2026-11-13T15:00
+2348166728906,L244,ad,95,+20 size: 265 staff; +10 6 sites; +5 target industry; +20 clear timeline,2026-10-21 18:41:00,R4,ad,1,2026-10-26 10:00:00,1.0,0,45400000,
+2348171409839,L263,field,95,+20 size: 209 staff; +10 6 sites; +5 target industry; +20 clear timeline,2026-10-21 19:50:00,R5,field,1,2026-10-23 09:00:00,1.0,1,37300000,2026-11-12T17:00
+2348164654940,L140,ad,95,+20 size: 380 staff; +10 2 sites; +5 target industry; +20 clear timeline,2026-10-22 11:18:00,R2,ad,0,,,0,25000000,
+2348122716124,L217,ad,60,+20 size: 248 staff; +10 4 sites; +5 target industry; -15 vague timeline,2026-10-22 14:34:00,R1,ad,0,,,0,29000000,
+2348117054469,L247,organic,70,+20 size: 392 staff; +10 4 sites; +5 target industry; -15 vague timeline; +10 named a specific time,2026-10-22 16:05:00,R1,organic,1,2026-10-26 08:00:00,1.0,1,21200000,2026-11-09T08:00
+2348134730696,L218,field,60,+20 size: 342 staff; +10 3 sites; +5 target industry; -15 vague timeline,2026-10-22 16:34:00,R2,field,0,,,0,14700000,
+2348160949598,L016,organic,25,-25 asked price before sharing any need; +10 named a specific time,2026-10-22 17:53:00,R4,organic,1,2026-10-27 16:00:00,0.0,0,27500000,
+2348160192601,L119,ad,50,+20 size: 315 staff; +5 target industry; -15 vague timeline,2026-10-23 08:55:00,R5,ad,1,2026-10-27 09:00:00,1.0,0,9500000,2026-11-12T17:00
+2348114707916,L295,ad,15,-25 asked price before sharing any need,2026-10-23 14:40:00,R1,ad,0,,,0,32100000,
+2348166103678,L146,field,60,+20 size: 251 staff; +10 3 sites; +5 target industry; -15 vague timeline,2026-10-23 19:19:00,R2,field,0,,,0,23700000,
+2348163735998,L275,form,95,+20 size: 235 staff; +5 target industry; +20 clear timeline; +10 named a specific time,2026-10-23 19:50:00,R5,form,1,2026-10-25 11:00:00,1.0,0,9300000,2026-11-14T14:00
+2348185277703,L198,ad,25,-25 asked price before sharing any need; +10 named a specific time,2026-10-24 10:12:00,R6,ad,1,2026-10-27 16:00:00,0.0,0,5600000,
+2348179765179,L047,referral,100,+20 size: 343 staff; +10 6 sites; +5 target industry; +20 clear timeline; +10 named a specific time; +10 referral,2026-10-25 14:52:00,R5,referral,1,2026-10-26 09:00:00,1.0,1,30500000,2026-11-12T17:00
+2348121391457,L095,ad,60,+20 size: 110 staff; +10 3 sites; +5 target industry; -15 vague timeline,2026-10-25 15:47:00,R5,ad,0,,,0,11200000,
+2348117183944,L080,ad,100,+20 size: 285 staff; +10 3 sites; +5 target industry; +20 clear timeline; +10 named a specific time,2026-10-25 19:16:00,R2,ad,1,2026-10-30 14:00:00,0.0,0,20100000,
+2348174891789,L077,form,100,+20 size: 35 staff; +10 3 sites; +5 target industry; +20 clear timeline; +10 named a specific time,2026-10-25 20:43:00,R5,form,1,2026-10-28 11:00:00,1.0,0,9500000,
+2348138543301,L261,ad,25,-25 asked price before sharing any need; +10 named a specific time,2026-10-26 10:04:00,R3,ad,1,2026-10-30 10:00:00,0.0,0,14100000,
+2348111699129,L239,ad,15,-25 asked price before sharing any need,2026-10-26 16:54:00,R5,ad,1,2026-10-27 09:00:00,0.0,0,11600000,
+2348178269930,L110,field,95,+20 size: 266 staff; +10 4 sites; +5 target industry; +20 clear timeline,2026-10-26 17:14:00,R2,field,0,,,0,35000000,
+2348140648899,L141,ad,60,+20 size: 248 staff; +10 4 sites; +5 target industry; -15 vague timeline,2026-10-26 19:56:00,R3,ad,0,,,0,23400000,
+2348168652014,L021,referral,100,+20 size: 318 staff; +10 4 sites; +5 target industry; +20 clear timeline; +10 referral,2026-10-26 20:45:00,R3,referral,1,2026-10-29 17:00:00,1.0,0,16500000,
+2348153364217,L235,ad,95,+20 size: 352 staff; +10 3 sites; +5 target industry; +20 clear timeline,2026-10-27 10:40:00,R1,ad,1,2026-10-30 17:00:00,1.0,0,31300000,
+2348127661586,L252,ad,15,-25 asked price before sharing any need,2026-10-27 10:53:00,R6,ad,0,,,0,40400000,
+2348119810808,L098,referral,100,+20 size: 127 staff; +5 target industry; +20 clear timeline; +10 named a specific time; +10 referral,2026-10-27 13:55:00,R2,referral,1,2026-10-28 10:00:00,1.0,1,11100000,2026-11-15T11:00
+2348115795989,L045,ad,100,+20 size: 184 staff; +10 3 sites; +5 target industry; +20 clear timeline; +10 named a specific time,2026-10-27 17:36:00,R3,ad,1,2026-11-04 11:00:00,0.0,0,25100000,
+2348183562456,L138,ad,25,-25 size: only 2 staff; +10 named a specific time,2026-10-27 18:28:00,R6,ad,1,2026-10-30 16:00:00,0.0,0,1600000,
+2348130026371,L240,ad,15,-25 asked price before sharing any need,2026-10-27 20:57:00,R6,ad,0,,,0,17900000,
+2348161283059,L143,ad,95,+20 size: 389 staff; +10 6 sites; +5 target industry; +20 clear timeline,2026-10-28 11:18:00,R5,ad,1,2026-11-02 10:00:00,1.0,0,37500000,
+2348150636792,L194,ad,15,-25 size: only 7 staff,2026-10-29 11:05:00,R2,ad,1,2026-11-03 17:00:00,1.0,0,2500000,
+2348119691547,L220,ad,95,+20 size: 211 staff; +10 3 sites; +5 target industry; +20 clear timeline,2026-10-29 12:42:00,R4,ad,1,2026-11-05 17:00:00,1.0,0,16000000,
+2348122013472,L269,organic,15,-25 asked price before sharing any need,2026-10-29 17:30:00,R5,organic,0,,,0,8600000,
+2348139551500,L237,ad,60,+20 size: 228 staff; +5 target industry; -15 vague timeline; +10 named a specific time,2026-10-30 13:58:00,R3,ad,1,2026-11-06 16:00:00,0.0,0,8900000,
+2348138301901,L062,referral,100,+20 size: 44 staff; +10 4 sites; +5 target industry; +20 clear timeline; +10 named a specific time; +10 referral,2026-10-31 09:40:00,R2,referral,1,2026-11-05 12:00:00,1.0,0,20600000,
+2348195632232,L093,field,50,+20 size: 215 staff; +5 target industry; -15 vague timeline,2026-10-31 14:30:00,R3,field,1,2026-11-05 09:00:00,0.0,0,11800000,
+2348119917090,L148,referral,100,+20 size: 261 staff; +10 3 sites; +5 target industry; +20 clear timeline; +10 referral,2026-11-01 08:25:00,R4,referral,1,2026-11-02 09:00:00,1.0,0,25900000,
+2348127526568,L100,field,50,+20 size: 338 staff; +5 target industry; -15 vague timeline,2026-11-01 19:51:00,R4,field,1,2026-11-04 09:00:00,1.0,0,10500000,
+2348196036205,L151,form,15,-25 size: only 6 staff,2026-11-02 12:22:00,R1,form,0,,,0,3800000,
+2348119220946,L213,referral,60,+20 size: 125 staff; +5 target industry; -15 vague timeline; +10 referral,2026-11-02 12:46:00,R3,referral,1,2026-11-05 17:00:00,0.0,0,7700000,
+2348149743613,L144,referral,95,+20 size: 76 staff; +5 target industry; +20 clear timeline; +10 referral,2026-11-02 13:21:00,R6,referral,1,2026-11-05 09:00:00,1.0,0,6900000,
+2348153178396,L019,ad,15,-25 size: only 3 staff,2026-11-02 13:55:00,R1,ad,0,,,0,2800000,
+2348150826115,L191,referral,100,+20 size: 115 staff; +10 6 sites; +5 target industry; +20 clear timeline; +10 referral,2026-11-02 19:37:00,R5,referral,1,2026-11-10 17:00:00,0.0,0,20600000,
+2348158802712,L081,form,15,-25 asked price before sharing any need,2026-11-03 08:02:00,R3,form,1,2026-11-09 10:00:00,0.0,0,31600000,
+2348119399513,L274,field,60,+20 size: 71 staff; +10 3 sites; +5 target industry; -15 vague timeline,2026-11-03 08:18:00,R4,field,1,2026-11-04 09:00:00,0.0,0,16500000,
+2348160283167,L114,ad,25,-25 asked price before sharing any need; +10 named a specific time,2026-11-03 09:39:00,R6,ad,1,2026-11-05 09:00:00,0.0,0,6100000,
+2348164751262,L305,referral,25,-25 asked price before sharing any need; +10 referral,2026-11-03 11:18:00,R5,referral,0,,,0,10600000,
+2348121444053,L243,form,100,+20 size: 216 staff; +10 2 sites; +5 target industry; +20 clear timeline; +10 named a specific time,2026-11-03 11:41:00,R3,form,1,2026-11-04 12:00:00,1.0,0,16700000,
+2348134158982,L032,referral,95,+20 size: 278 staff; +5 target industry; +20 clear timeline; +10 referral,2026-11-03 13:25:00,R2,referral,0,,,0,15200000,
+2348145198462,L226,ad,100,+20 size: 371 staff; +10 2 sites; +5 target industry; +20 clear timeline; +10 named a specific time,2026-11-03 13:29:00,R4,ad,1,2026-11-09 15:00:00,1.0,0,12800000,
+2348196095006,L097,field,50,+20 size: 42 staff; +5 target industry; -15 vague timeline,2026-11-03 18:20:00,R1,field,1,2026-11-06 09:00:00,0.0,0,4800000,
+2348130507414,L222,field,60,+20 size: 29 staff; +10 6 sites; +5 target industry; -15 vague timeline,2026-11-03 19:12:00,R6,field,0,,,0,16800000,
+2348150698391,L205,ad,60,+20 size: 279 staff; +10 2 sites; +5 target industry; -15 vague timeline,2026-11-03 19:21:00,R1,ad,0,,,0,11400000,
+2348186220631,L123,field,95,+20 size: 41 staff; +10 6 sites; +5 target industry; +20 clear timeline,2026-11-03 20:28:00,R3,field,1,2026-11-06 17:00:00,1.0,0,13700000,
+2348121051893,L060,organic,70,+20 size: 243 staff; +10 3 sites; +5 target industry; -15 vague timeline; +10 named a specific time,2026-11-04 11:20:00,R6,organic,1,2026-11-05 11:00:00,1.0,0,15900000,
+2348136407510,L282,referral,100,+20 size: 240 staff; +10 4 sites; +5 target industry; +20 clear timeline; +10 named a specific time; +10 referral,2026-11-05 14:37:00,R6,referral,1,2026-11-12 12:00:00,1.0,0,16500000,
+2348126384685,L120,referral,25,-25 size: only 8 staff; +10 referral,2026-11-05 18:24:00,R6,referral,1,2026-11-09 09:00:00,1.0,0,4200000,
+2348171506990,L130,field,25,-25 size: only 8 staff; +10 named a specific time,2026-11-05 19:39:00,R4,field,1,2026-11-07 09:00:00,1.0,0,4900000,
+2348158877523,L177,field,95,+20 size: 129 staff; +10 3 sites; +5 target industry; +20 clear timeline,2026-11-06 09:18:00,R3,field,1,2026-11-13 17:00:00,1.0,0,19700000,
+2348129678258,L292,ad,60,+20 size: 308 staff; +10 6 sites; +5 target industry; -15 vague timeline,2026-11-07 09:04:00,R4,ad,0,,,0,30300000,
+2348157850314,L018,ad,70,+20 size: 73 staff; +10 6 sites; +5 target industry; -15 vague timeline; +10 named a specific time,2026-11-07 15:46:00,R6,ad,1,2026-11-09 10:00:00,1.0,0,22600000,
+2348138213003,L072,referral,100,+20 size: 98 staff; +10 3 sites; +5 target industry; +20 clear timeline; +10 named a specific time; +10 referral,2026-11-07 17:19:00,R6,referral,1,2026-11-09 14:00:00,1.0,0,19800000,
+2348182123634,L136,organic,15,-25 asked price before sharing any need,2026-11-08 08:57:00,R4,organic,0,,,0,5600000,
+2348128505696,L225,ad,15,-25 asked price before sharing any need,2026-11-08 09:58:00,R3,ad,0,,,0,43100000,
+2348143739572,L180,organic,85,+20 size: 346 staff; +5 target industry; +20 clear timeline,2026-11-08 12:50:00,R6,organic,0,,,0,9400000,
+2348181586801,L142,form,85,+20 size: 305 staff; +5 target industry; +20 clear timeline,2026-11-08 14:49:00,R4,form,1,2026-11-13 17:00:00,1.0,0,7100000,
+2348155688844,L024,field,95,+20 size: 339 staff; +10 2 sites; +5 target industry; +20 clear timeline,2026-11-09 09:50:00,R6,field,1,2026-11-13 17:00:00,1.0,0,16200000,
+2348130364349,L170,field,95,+20 size: 117 staff; +10 4 sites; +5 target industry; +20 clear timeline,2026-11-09 10:45:00,R2,field,1,2026-11-16 10:00:00,,0,25600000,
+2348161209599,L082,field,60,+20 size: 282 staff; +10 6 sites; +5 target industry; -15 vague timeline,2026-11-09 12:57:00,R4,field,0,,,0,19500000,
+2348149509296,L303,ad,15,-25 size: only 7 staff,2026-11-09 16:02:00,R3,ad,0,,,0,4700000,
+2348130692503,L048,referral,100,+20 size: 372 staff; +10 6 sites; +5 target industry; +20 clear timeline; +10 referral,2026-11-09 16:52:00,R6,referral,1,2026-11-13 17:00:00,1.0,0,45300000,
+2348165348965,L251,field,25,-25 size: only 8 staff; +10 named a specific time,2026-11-09 20:58:00,R5,field,1,2026-11-11 14:00:00,1.0,0,3000000,
+2348171523335,L131,ad,15,-25 asked price before sharing any need,2026-11-10 11:01:00,R5,ad,0,,,0,11200000,
+2348192209062,L086,ad,25,-25 asked price before sharing any need; +10 named a specific time,2026-11-10 17:39:00,R2,ad,1,2026-11-11 11:00:00,0.0,0,25200000,
+2348189238401,L281,ad,85,+20 size: 27 staff; +5 target industry; +20 clear timeline,2026-11-11 10:17:00,R5,ad,1,2026-11-16 17:00:00,,0,3700000,
+2348159629342,L290,form,100,+20 size: 301 staff; +10 3 sites; +5 target industry; +20 clear timeline; +10 named a specific time,2026-11-11 14:25:00,R2,form,1,2026-11-16 14:00:00,,0,27400000,
+2348143832038,L202,ad,25,-25 size: only 8 staff; +10 named a specific time,2026-11-11 15:32:00,R4,ad,1,2026-11-12 10:00:00,1.0,0,2800000,
+2348152167946,L054,field,15,-25 asked price before sharing any need,2026-11-11 19:34:00,R6,field,1,2026-11-16 10:00:00,,0,9600000,
+2348148813171,L102,ad,95,+20 size: 91 staff; +10 2 sites; +5 target industry; +20 clear timeline,2026-11-12 16:07:00,R6,ad,1,2026-11-18 17:00:00,,0,8600000,
+2348145618582,L262,field,25,-25 asked price before sharing any need; +10 named a specific time,2026-11-12 18:29:00,R4,field,1,2026-11-18 12:00:00,,0,27900000,
+2348120186988,L184,organic,25,-25 size: only 3 staff; +10 named a specific time,2026-11-13 11:03:00,R4,organic,1,2026-11-14 12:00:00,1.0,0,1900000,
+2348164540215,L315,referral,70,+20 size: 25 staff; +10 3 sites; +5 target industry; -15 vague timeline; +10 referral,2026-11-13 19:50:00,R3,referral,0,,,0,13800000,

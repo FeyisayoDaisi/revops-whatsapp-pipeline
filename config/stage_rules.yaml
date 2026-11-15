@@ -1,0 +1,36 @@
+# What each stage means, what moves a deal into it, and how long it may stay quiet.
+# The capture system only PROPOSES a stage change when the chat shows the entry signal.
+# A person approves it. AI fills the record; it does not decide what a stage means.
+stages:
+  - name: new
+    meaning: "A person has messaged us. Nothing confirmed yet."
+    entry_signal: "first inbound message"
+    max_quiet_days: 2
+  - name: qualified
+    meaning: "Need, rough size and timeline are stated in the chat."
+    entry_signal: "need + size or timeline stated"
+    max_quiet_days: 5
+  - name: meeting_booked
+    meaning: "A specific date and time for a call or visit is agreed."
+    entry_signal: "client accepts or proposes a dated meeting"
+    max_quiet_days: 3
+  - name: meeting_held
+    meaning: "The call or site visit happened."
+    entry_signal: "rep confirms meeting took place"
+    max_quiet_days: 4
+  - name: proposal_sent
+    meaning: "A priced proposal is in the client's hands."
+    entry_signal: "rep sends a price for the contract"
+    max_quiet_days: 6
+  - name: negotiation
+    meaning: "Client is discussing terms, revisions or the signer is engaged."
+    entry_signal: "client asks for revision or names who signs"
+    max_quiet_days: 7
+  - name: won
+    meaning: "Client confirms, sends PO or pays."
+    entry_signal: "confirmation, PO or payment"
+    max_quiet_days: 999
+  - name: lost
+    meaning: "Client says no, or chose someone else."
+    entry_signal: "explicit no"
+    max_quiet_days: 999

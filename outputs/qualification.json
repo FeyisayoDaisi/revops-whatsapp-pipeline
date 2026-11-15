@@ -1,0 +1,75 @@
+{
+ "threshold": 65,
+ "rule": "book a meeting when score >= threshold; below it, nurture first",
+ "train": {
+  "book_everyone": {
+   "meetings": 133,
+   "showed": 81,
+   "no_shows": 52,
+   "show_rate": 60.9,
+   "wins_from_meetings": 34,
+   "wins_available": 34
+  },
+  "scored": {
+   "meetings": 84,
+   "showed": 66,
+   "no_shows": 18,
+   "show_rate": 78.6,
+   "wins_from_meetings": 31,
+   "wins_available": 34
+  }
+ },
+ "test": {
+  "book_everyone": {
+   "meetings": 95,
+   "showed": 55,
+   "no_shows": 40,
+   "show_rate": 57.9,
+   "wins_from_meetings": 12,
+   "wins_available": 12
+  },
+  "scored": {
+   "meetings": 55,
+   "showed": 44,
+   "no_shows": 11,
+   "show_rate": 80.0,
+   "wins_from_meetings": 12,
+   "wins_available": 12
+  },
+  "meetings_saved": 40,
+  "no_shows_avoided": 29,
+  "wins_kept_pct": 100.0
+ },
+ "show_rate_by_source": [
+  {
+   "source": "ad",
+   "meetings": 94,
+   "show_rate": 51.1,
+   "wins": 12
+  },
+  {
+   "source": "field",
+   "meetings": 46,
+   "show_rate": 60.9,
+   "wins": 10
+  },
+  {
+   "source": "form",
+   "meetings": 28,
+   "show_rate": 60.7,
+   "wins": 7
+  },
+  {
+   "source": "organic",
+   "meetings": 20,
+   "show_rate": 65.0,
+   "wins": 5
+  },
+  {
+   "source": "referral",
+   "meetings": 40,
+   "show_rate": 75.0,
+   "wins": 12
+  }
+ ]
+}

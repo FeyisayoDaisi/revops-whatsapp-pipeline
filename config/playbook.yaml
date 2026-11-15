@@ -1,0 +1,24 @@
+# The messaging library. Sales enablement delivered inside the chat, not in a PDF.
+# {greeting} adds the honorific ("Good morning sir" / "Good morning ma").
+# Drafts are starting points: the rep reads, edits if needed, and sends from their own app.
+
+situations:
+  rep_promise_overdue:
+    goal: "Deliver what you promised, own the delay in one line, no long apology."
+    template: "{greeting}. Apologies for the delay on the {topic} I promised. Sending it over now, and I'm available to walk you through it today if that helps."
+  scheduled_call_due:
+    goal: "Arrive exactly when they asked. Confirm, don't ask permission again."
+    template: "{greeting}. As agreed, I'm reaching out about the {topic}. Is now still a good time for a quick call?"
+    template_call: "{greeting}. As agreed, I'll be calling you shortly. Is now still a good time?"
+  client_promise_lapsed:
+    goal: "They said they'd come back and didn't. Make replying easy, give one clear next step."
+    template: "{greeting}. Just checking in on the {topic} we discussed. If it helps, I can hold a slot this week to answer any questions from your side."
+  proposal_quiet:
+    goal: "Proposal is with them and it's gone quiet. Find the blocker, don't re-send the PDF."
+    template: "{greeting}. Hope the proposal was clear. Is there anything on it you or your team would like me to adjust before it goes for approval?"
+  going_cold:
+    goal: "No movement for longer than this stage allows. Re-open with something useful, not 'just following up'."
+    template: "{greeting}. We've just finished a similar setup for another company in your area and I thought of you. Would a 10-minute call this week help you decide on the {topic}?"
+  no_show_recovery:
+    goal: "They missed the meeting. No guilt, offer two specific times."
+    template: "{greeting}. Sorry we missed each other earlier. Would Tuesday 10am or Wednesday 2pm work better for a quick call about your facility setup?"

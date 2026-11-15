@@ -1,0 +1,491 @@
+owner,due,topic,client_phone,rep,msg_id,made_at,said,status
+rep,2026-08-06 17:00:00,call,2348199828514,R2,wamid.L284.05,2026-08-04 19:30:00,Let's talk before Thursday.,kept
+rep,2026-08-12 10:00:00,pricing,2348199828514,R2,wamid.L284.12,2026-08-11 21:10:00,Noted. I'll send the pricing tomorrow 10am.,overdue
+rep,2026-08-21 17:00:00,proposal,2348199828514,R2,wamid.L284.14,2026-08-14 12:00:00,Please call me by Friday so we close the proposal.,kept
+rep,2026-08-07 17:00:00,call,2348183829334,R5,wamid.L287.05,2026-08-04 19:56:00,Let's talk latest Friday.,kept
+rep,2026-08-07 17:00:00,call,2348170201850,R4,wamid.L214.05,2026-08-05 03:37:00,"Abeg call me before the end of the week, I go dey office.",kept
+rep,2026-08-10 09:00:00,call,2348188739816,R3,wamid.L297.05,2026-08-05 05:08:00,Monday 9 a.m. works for me.,kept
+rep,2026-08-12 09:00:00,call,2348173669330,R2,wamid.L266.05,2026-08-05 03:22:00,First thing Wednesday works for me.,kept
+rep,2026-08-21 09:00:00,sla document,2348173669330,R2,wamid.L266.10,2026-08-18 11:48:00,"Okay, I'll get back to you with the SLA document Friday morning.",overdue
+rep,2026-08-24 16:00:00,proposal,2348173669330,R2,wamid.L266.12,2026-08-23 09:00:00,Please call me tomorrow at 4pm so we close the proposal.,overdue
+rep,2026-08-06 11:00:00,call,2348182579724,R4,wamid.L094.05,2026-08-05 23:25:00,Call me tomorrow by 11am.,kept
+rep,2026-08-06 17:00:00,call,2348121511865,R1,wamid.L115.05,2026-08-05 23:00:00,By Thursday works for me.,kept
+rep,2026-08-13 14:00:00,sla document,2348121511865,R1,wamid.L115.12,2026-08-10 19:15:00,Noted. I'll send the SLA document Thursday 2pm.,overdue
+client,2026-08-16 14:00:00,proposal,2348121511865,R1,wamid.L115.13,2026-08-15 01:00:00,Let me discuss the proposal with my COO and get back to you tomorrow by 2 o'clock.,lapsed
+rep,2026-08-10 17:00:00,call,2348153869754,R2,wamid.L122.05,2026-08-06 02:59:00,Call me by Monday.,kept
+rep,2026-08-07 09:00:00,call,2348124978703,R2,wamid.L182.05,2026-08-06 18:08:00,Tomorrow 9am works for me.,kept
+rep,2026-08-18 09:00:00,site visit,2348124978703,R2,wamid.L182.12,2026-08-11 20:11:00,"Okay, I'll get back to you with the site visit first thing Tuesday.",kept
+client,2026-08-26 17:00:00,site visit,2348124978703,R2,wamid.L182.14,2026-08-20 09:00:00,I will revert on the site visit latest Wednesday.,lapsed
+rep,2026-08-10 10:00:00,call,2348197012349,R2,wamid.L074.05,2026-08-06 19:55:00,Let's talk early next week.,kept
+rep,2026-08-20 17:00:00,sla document,2348197012349,R2,wamid.L074.10,2026-08-15 14:48:00,I go send the SLA document by Thursday.,overdue
+client,2026-08-24 09:00:00,site visit,2348197012349,R2,wamid.L074.12,2026-08-21 08:00:00,Let me discuss the site visit with my COO and get back to you first thing Monday.,lapsed
+rep,2026-08-12 17:00:00,call,2348190742684,R4,wamid.L190.05,2026-08-06 15:48:00,"Abeg call me latest Wednesday, I go dey office.",kept
+rep,2026-08-13 09:00:00,call,2348169482683,R4,wamid.L064.05,2026-08-06 18:18:00,Thursday morning works for me.,kept
+rep,2026-08-20 17:00:00,revised quote,2348169482683,R4,wamid.L064.12,2026-08-16 16:32:00,I go send the revised quote by Thursday.,kept
+rep,2026-08-27 14:00:00,proposal,2348169482683,R4,wamid.L064.14,2026-08-22 15:00:00,Talk to me on Thursday at 2pm on the proposal.,kept
+rep,2026-08-07 15:00:00,call,2348113025108,R3,wamid.L063.05,2026-08-06 21:50:00,Let's talk tomorrow 3pm.,kept
+rep,2026-08-13 16:00:00,proposal,2348113025108,R3,wamid.L063.12,2026-08-11 17:08:00,"Okay, I'll get back to you with the proposal Thursday 4pm.",kept
+rep,2026-08-18 16:00:00,sla document,2348113025108,R3,wamid.L063.14,2026-08-14 02:00:00,Reach out to me Tuesday by 4pm about the SLA document.,kept
+rep,2026-08-14 17:00:00,call,2348154230948,R4,wamid.L166.05,2026-08-07 23:23:00,Call me latest Friday.,kept
+rep,2026-08-19 09:00:00,pricing,2348154230948,R4,wamid.L166.12,2026-08-17 20:39:00,"Okay, I'll get back to you with the pricing Wednesday 9am.",kept
+client,2026-08-26 09:00:00,site visit,2348154230948,R4,wamid.L166.14,2026-08-20 12:00:00,Let me discuss the site visit with my MD and get back to you first thing Wednesday.,lapsed
+rep,2026-08-10 09:00:00,call,2348174905053,R4,wamid.L250.05,2026-08-09 01:40:00,Tomorrow 9am works for me.,kept
+rep,2026-08-12 12:00:00,call,2348153096778,R3,wamid.L285.05,2026-08-09 14:32:00,"Abeg call me Wednesday 12pm, I go dey office.",kept
+rep,2026-08-10 16:00:00,call,2348164892138,R4,wamid.L058.05,2026-08-09 22:51:00,Let's talk tomorrow by 4:00pm.,kept
+rep,2026-08-14 15:00:00,pricing,2348164892138,R4,wamid.L058.10,2026-08-13 21:21:00,I go send the pricing tomorrow by 3pm.,overdue
+rep,2026-08-17 09:00:00,contract draft,2348164892138,R4,wamid.L058.11,2026-08-16 02:00:00,Talk to me tomorrow by 9 a.m. on the contract draft.,kept
+rep,2026-08-11 08:00:00,call,2348128929566,R1,wamid.L241.05,2026-08-10 14:56:00,On Tuesday at 8:00am works for me.,kept
+rep,2026-08-20 10:00:00,proposal,2348128929566,R1,wamid.L241.12,2026-08-16 13:45:00,I go send the proposal Thursday by 10am.,kept
+client,2026-08-22 09:00:00,revised quote,2348128929566,R1,wamid.L241.14,2026-08-21 01:00:00,I will revert on the revised quote first thing tomorrow.,kept
+rep,2026-08-17 10:00:00,call,2348162224554,R5,wamid.L005.05,2026-08-10 23:04:00,Let's talk next week.,kept
+rep,2026-08-12 09:00:00,call,2348164381718,R6,wamid.L156.05,2026-08-10 22:51:00,Wednesday morning works for me.,kept
+rep,2026-08-21 12:00:00,contract draft,2348164381718,R6,wamid.L156.12,2026-08-15 05:04:00,Noted. I'll send the contract draft Friday 12 p.m..,overdue
+client,2026-08-24 10:00:00,revised quote,2348164381718,R6,wamid.L156.14,2026-08-22 16:00:00,Let me discuss the revised quote with my Head of Admin and get back to you early next week.,lapsed
+rep,2026-08-17 17:00:00,call,2348179206119,R3,wamid.L039.05,2026-08-10 22:47:00,Call me latest Monday.,kept
+rep,2026-08-19 15:00:00,call,2348164606132,R1,wamid.L085.05,2026-08-12 03:29:00,Wednesday 3pm works for me.,kept
+rep,2026-08-13 09:00:00,call,2348198129201,R4,wamid.L160.05,2026-08-12 18:26:00,Call me tomorrow morning.,kept
+rep,2026-08-18 10:00:00,contract draft,2348198129201,R4,wamid.L160.12,2026-08-16 10:11:00,Noted. I'll send the contract draft on Tuesday at 10am.,kept
+client,2026-08-24 11:00:00,contract draft,2348198129201,R4,wamid.L160.14,2026-08-20 13:00:00,I will revert on the contract draft Monday 11am.,lapsed
+rep,2026-08-14 17:00:00,call,2348138715423,R2,wamid.L296.05,2026-08-12 21:19:00,Call me before the end of the week.,kept
+rep,2026-08-24 09:00:00,site visit,2348138715423,R2,wamid.L296.12,2026-08-17 20:51:00,"Okay, I'll get back to you with the site visit Monday morning.",overdue
+rep,2026-09-01 17:00:00,contract draft,2348138715423,R2,wamid.L296.14,2026-08-25 12:00:00,Reach out to me by Tuesday about the contract draft.,kept
+rep,2026-08-14 09:00:00,call,2348139614431,R4,wamid.L070.05,2026-08-13 00:24:00,Let's talk on Friday at 9 a.m..,kept
+rep,2026-08-19 09:00:00,pricing,2348139614431,R4,wamid.L070.10,2026-08-18 05:07:00,I go send the pricing tomorrow morning.,overdue
+rep,2026-08-21 17:00:00,site visit,2348139614431,R4,wamid.L070.12,2026-08-19 18:00:00,Reach out to me by end of week about the site visit.,overdue
+rep,2026-08-17 09:00:00,call,2348135395484,R3,wamid.L249.05,2026-08-13 22:49:00,Let's talk first thing Monday.,kept
+rep,2026-08-16 14:00:00,call,2348146499853,R2,wamid.L254.05,2026-08-15 17:32:00,Let's talk tomorrow by 2 o'clock.,kept
+rep,2026-08-19 17:00:00,call,2348163289670,R5,wamid.L209.05,2026-08-15 21:36:00,"Abeg call me before Wednesday, I go dey office.",kept
+rep,2026-08-18 15:00:00,call,2348150500819,R5,wamid.L173.05,2026-08-15 19:20:00,Tuesday by 3pm works for me.,kept
+rep,2026-08-17 09:00:00,call,2348146725566,R1,wamid.L187.05,2026-08-16 01:41:00,Tomorrow morning works for me.,kept
+rep,2026-08-17 10:00:00,call,2348177919031,R4,wamid.L004.05,2026-08-16 00:41:00,"Abeg call me early next week, I go dey office.",kept
+rep,2026-08-18 12:00:00,call,2348129734178,R3,wamid.L219.05,2026-08-16 19:13:00,Let's talk Tuesday by 12pm.,kept
+rep,2026-08-22 09:00:00,revised quote,2348129734178,R3,wamid.L219.10,2026-08-21 04:41:00,I go send the revised quote tomorrow morning.,kept
+rep,2026-08-25 09:00:00,revised quote,2348129734178,R3,wamid.L219.12,2026-08-24 16:00:00,Talk to me first thing tomorrow on the revised quote.,kept
+rep,2026-08-20 16:00:00,call,2348193784893,R6,wamid.L204.05,2026-08-16 17:43:00,"Abeg call me Thursday by 4 o'clock, I go dey office.",kept
+rep,2026-08-26 17:00:00,sla document,2348193784893,R6,wamid.L204.12,2026-08-23 09:18:00,Noted. I'll send the SLA document before Wednesday.,kept
+rep,2026-09-03 17:00:00,site visit,2348193784893,R6,wamid.L204.14,2026-08-27 05:00:00,Please call me before Thursday so we close the site visit.,overdue
+rep,2026-08-20 15:00:00,call,2348133934848,R1,wamid.L007.05,2026-08-16 19:28:00,Let's talk on Thursday at 3pm.,kept
+rep,2026-08-28 09:00:00,proposal,2348133934848,R1,wamid.L007.10,2026-08-24 17:34:00,I go send the proposal Friday 9:00am.,kept
+rep,2026-08-30 09:00:00,pricing,2348133934848,R1,wamid.L007.12,2026-08-29 12:00:00,Please call me first thing tomorrow so we close the pricing.,kept
+rep,2026-08-24 10:00:00,call,2348118720263,R3,wamid.L033.05,2026-08-17 17:15:00,"Abeg call me early next week, I go dey office.",kept
+rep,2026-09-02 17:00:00,pricing,2348118720263,R3,wamid.L033.10,2026-08-29 05:45:00,"Okay, I'll get back to you with the pricing before Wednesday.",kept
+client,2026-09-05 16:00:00,revised quote,2348118720263,R3,wamid.L033.12,2026-09-04 16:00:00,Let me discuss the revised quote with my COO and get back to you tomorrow 4pm.,kept
+rep,2026-08-24 08:00:00,call,2348180085544,R1,wamid.L061.05,2026-08-18 14:30:00,Call me on Monday at 8am.,kept
+rep,2026-08-21 17:00:00,call,2348155802855,R6,wamid.L186.05,2026-08-19 01:47:00,By end of week works for me.,kept
+rep,2026-08-27 09:00:00,contract draft,2348155802855,R6,wamid.L186.12,2026-08-24 16:50:00,I go send the contract draft first thing Thursday.,overdue
+rep,2026-09-01 09:00:00,sla document,2348155802855,R6,wamid.L186.13,2026-08-27 16:00:00,Reach out to me Tuesday by 9am about the SLA document.,overdue
+rep,2026-08-24 09:00:00,call,2348162594442,R2,wamid.L278.05,2026-08-19 15:03:00,Call me Monday morning.,kept
+rep,2026-08-31 10:00:00,site visit,2348162594442,R2,wamid.L278.12,2026-08-30 03:15:00,"Okay, I'll get back to you with the site visit next week.",kept
+client,2026-09-03 17:00:00,proposal,2348162594442,R2,wamid.L278.14,2026-08-31 15:00:00,Give me till Thursday to review the proposal.,lapsed
+rep,2026-08-20 12:00:00,call,2348110331954,R4,wamid.L154.05,2026-08-19 19:43:00,"Abeg call me Thursday 12pm, I go dey office.",kept
+rep,2026-08-25 12:00:00,call,2348182747292,R2,wamid.L320.05,2026-08-20 03:19:00,Let's talk Tuesday 12pm.,kept
+rep,2026-08-24 10:00:00,call,2348176783598,R2,wamid.L248.05,2026-08-20 00:03:00,Let's talk next week.,kept
+rep,2026-08-28 09:00:00,proposal,2348176783598,R2,wamid.L248.10,2026-08-27 11:46:00,I go send the proposal Friday morning.,kept
+rep,2026-08-29 14:00:00,sla document,2348176783598,R2,wamid.L248.12,2026-08-28 19:00:00,Talk to me tomorrow by 2pm on the SLA document.,overdue
+rep,2026-08-27 16:00:00,call,2348188982073,R2,wamid.L014.05,2026-08-20 15:07:00,Call me Thursday by 4 p.m..,kept
+rep,2026-08-24 17:00:00,call,2348191949417,R1,wamid.L211.05,2026-08-20 19:17:00,Call me before Monday.,kept
+rep,2026-09-03 16:00:00,site visit,2348191949417,R1,wamid.L211.10,2026-08-28 12:37:00,"Okay, I'll get back to you with the site visit Thursday 4pm.",kept
+client,2026-09-09 09:00:00,proposal,2348191949417,R1,wamid.L211.12,2026-09-06 02:00:00,I will revert on the proposal first thing Wednesday.,lapsed
+rep,2026-08-22 09:00:00,call,2348112397361,R1,wamid.L199.05,2026-08-21 17:29:00,Call me first thing tomorrow.,kept
+rep,2026-08-31 08:00:00,proposal,2348112397361,R1,wamid.L199.12,2026-08-27 00:16:00,I go send the proposal Monday by 8am.,kept
+client,2026-09-01 16:00:00,pricing,2348112397361,R1,wamid.L199.14,2026-08-31 23:00:00,I will revert on the pricing tomorrow 4pm.,lapsed
+rep,2026-08-22 12:00:00,call,2348188657396,R4,wamid.L256.05,2026-08-21 18:06:00,Call me tomorrow at 12pm.,kept
+rep,2026-08-22 15:00:00,call,2348187947854,R4,wamid.L268.05,2026-08-21 22:00:00,"Abeg call me tomorrow at 3:00pm, I go dey office.",kept
+rep,2026-08-22 10:00:00,call,2348188937775,R3,wamid.L273.05,2026-08-21 19:43:00,Tomorrow at 10 a.m. works for me.,kept
+rep,2026-08-24 10:00:00,call,2348147989959,R5,wamid.L245.05,2026-08-22 19:09:00,Early next week works for me.,kept
+rep,2026-09-04 17:00:00,proposal,2348147989959,R5,wamid.L245.12,2026-08-30 15:17:00,I go send the proposal by Friday.,kept
+rep,2026-09-07 10:00:00,pricing,2348147989959,R5,wamid.L245.14,2026-09-06 15:00:00,Please call me tomorrow 10 a.m. so we close the pricing.,overdue
+rep,2026-08-24 10:00:00,call,2348138559511,R1,wamid.L103.05,2026-08-23 00:11:00,"Abeg call me early next week, I go dey office.",kept
+rep,2026-08-24 14:00:00,call,2348158405978,R6,wamid.L084.05,2026-08-23 03:28:00,Call me Monday 2pm.,kept
+rep,2026-09-02 09:00:00,pricing,2348158405978,R6,wamid.L084.10,2026-08-28 08:51:00,"Okay, I'll get back to you with the pricing first thing Wednesday.",kept
+rep,2026-09-10 17:00:00,contract draft,2348158405978,R6,wamid.L084.12,2026-09-03 03:00:00,Please call me latest Thursday so we close the contract draft.,kept
+rep,2026-08-24 12:00:00,call,2348177073198,R1,wamid.L091.05,2026-08-23 21:00:00,Call me tomorrow by 12 p.m..,kept
+rep,2026-08-27 14:00:00,call,2348119677255,R2,wamid.L188.05,2026-08-24 14:46:00,"Abeg call me Thursday by 2:00pm, I go dey office.",kept
+rep,2026-09-04 09:00:00,revised quote,2348119677255,R2,wamid.L188.10,2026-09-03 22:01:00,Noted. I'll send the revised quote tomorrow morning.,kept
+rep,2026-09-11 17:00:00,proposal,2348119677255,R2,wamid.L188.12,2026-09-04 21:00:00,Talk to me by Friday on the proposal.,kept
+rep,2026-08-26 17:00:00,call,2348140465833,R3,wamid.L135.05,2026-08-24 19:00:00,Call me latest Wednesday.,kept
+rep,2026-09-02 17:00:00,revised quote,2348140465833,R3,wamid.L135.10,2026-08-31 18:48:00,"Okay, I'll get back to you with the revised quote before Wednesday.",kept
+client,2026-09-11 09:00:00,site visit,2348140465833,R3,wamid.L135.12,2026-09-04 14:00:00,I will revert on the site visit on Friday at 9am.,kept
+rep,2026-08-27 09:00:00,call,2348158581104,R6,wamid.L168.05,2026-08-24 22:38:00,Let's talk Thursday morning.,kept
+rep,2026-09-07 10:00:00,revised quote,2348158581104,R6,wamid.L168.12,2026-09-01 09:28:00,I go send the revised quote early next week.,kept
+client,2026-09-15 17:00:00,pricing,2348158581104,R6,wamid.L168.14,2026-09-09 14:00:00,I will revert on the pricing before Tuesday.,lapsed
+rep,2026-08-31 10:00:00,call,2348135067418,R1,wamid.L193.05,2026-08-24 23:05:00,"Abeg call me early next week, I go dey office.",kept
+rep,2026-08-27 17:00:00,call,2348131355552,R1,wamid.L145.05,2026-08-25 05:46:00,"Abeg call me latest Thursday, I go dey office.",kept
+rep,2026-09-03 17:00:00,contract draft,2348131355552,R1,wamid.L145.12,2026-09-01 12:39:00,Noted. I'll send the contract draft by Thursday.,overdue
+rep,2026-09-10 17:00:00,revised quote,2348131355552,R1,wamid.L145.13,2026-09-06 01:00:00,Reach out to me by Thursday about the revised quote.,kept
+rep,2026-08-27 15:00:00,call,2348146251541,R5,wamid.L179.05,2026-08-25 16:59:00,Call me on Thursday at 3:00pm.,kept
+rep,2026-09-03 09:00:00,sla document,2348146251541,R5,wamid.L179.10,2026-08-30 18:48:00,Noted. I'll send the SLA document Thursday morning.,overdue
+rep,2026-09-08 17:00:00,site visit,2348146251541,R5,wamid.L179.11,2026-09-04 01:00:00,Talk to me before Tuesday on the site visit.,kept
+rep,2026-09-02 12:00:00,call,2348127743284,R3,wamid.L291.05,2026-08-27 02:30:00,Wednesday 12pm works for me.,kept
+rep,2026-09-07 10:00:00,sla document,2348127743284,R3,wamid.L291.12,2026-09-05 04:16:00,I go send the SLA document early next week.,kept
+client,2026-09-11 16:00:00,contract draft,2348127743284,R3,wamid.L291.14,2026-09-09 17:00:00,I will revert on the contract draft Friday by 4pm.,kept
+rep,2026-08-28 17:00:00,call,2348167762517,R2,wamid.L260.05,2026-08-27 20:43:00,Call me before Friday.,kept
+rep,2026-09-07 15:00:00,proposal,2348167762517,R2,wamid.L260.12,2026-09-02 17:15:00,Noted. I'll send the proposal Monday by 3 p.m..,kept
+rep,2026-09-14 10:00:00,revised quote,2348167762517,R2,wamid.L260.14,2026-09-08 05:00:00,Please call me next week so we close the revised quote.,overdue
+rep,2026-08-29 15:00:00,call,2348145210823,R3,wamid.L159.05,2026-08-28 16:44:00,Call me tomorrow at 3 p.m..,kept
+rep,2026-08-31 10:00:00,call,2348144311589,R1,wamid.L013.05,2026-08-28 16:46:00,Call me early next week.,kept
+rep,2026-09-05 14:00:00,proposal,2348144311589,R1,wamid.L013.12,2026-09-04 23:16:00,I go send the proposal tomorrow at 2 p.m..,overdue
+rep,2026-09-07 12:00:00,proposal,2348144311589,R1,wamid.L013.13,2026-09-06 20:00:00,Reach out to me tomorrow by 12pm about the proposal.,kept
+rep,2026-08-31 09:00:00,call,2348122635046,R3,wamid.L015.05,2026-08-28 21:10:00,Monday morning works for me.,kept
+rep,2026-09-08 17:00:00,proposal,2348122635046,R3,wamid.L015.12,2026-09-04 20:19:00,I go send the proposal by Tuesday.,kept
+client,2026-09-14 14:00:00,revised quote,2348122635046,R3,wamid.L015.14,2026-09-09 23:00:00,Let me discuss the revised quote with my COO and get back to you Monday 2 o'clock.,lapsed
+rep,2026-09-04 17:00:00,call,2348179065843,R2,wamid.L302.05,2026-08-29 01:47:00,Call me before Friday.,kept
+rep,2026-09-11 09:00:00,revised quote,2348179065843,R2,wamid.L302.12,2026-09-09 09:34:00,"Okay, I'll get back to you with the revised quote Friday morning.",overdue
+client,2026-09-15 14:00:00,contract draft,2348179065843,R2,wamid.L302.13,2026-09-12 12:00:00,Let me discuss the contract draft with my Head of Admin and get back to you Tuesday by 2 p.m..,lapsed
+rep,2026-08-30 09:00:00,call,2348116275591,R2,wamid.L056.05,2026-08-29 15:02:00,"Abeg call me tomorrow at 9 o'clock, I go dey office.",kept
+rep,2026-09-03 09:00:00,pricing,2348116275591,R2,wamid.L056.10,2026-09-02 21:31:00,"Okay, I'll get back to you with the pricing first thing tomorrow.",kept
+client,2026-09-05 10:00:00,contract draft,2348116275591,R2,wamid.L056.12,2026-09-04 12:00:00,Let me discuss the contract draft with my MD and get back to you tomorrow at 10am.,lapsed
+rep,2026-09-03 17:00:00,call,2348152731159,R2,wamid.L308.05,2026-08-30 21:43:00,Call me by Thursday.,kept
+rep,2026-09-11 12:00:00,pricing,2348152731159,R2,wamid.L308.10,2026-09-06 15:20:00,"Okay, I'll get back to you with the pricing Friday 12 p.m..",kept
+rep,2026-09-15 14:00:00,revised quote,2348152731159,R2,wamid.L308.12,2026-09-13 15:00:00,Talk to me on Tuesday at 2 o'clock on the revised quote.,overdue
+rep,2026-09-04 17:00:00,call,2348164056896,R1,wamid.L127.05,2026-08-31 03:36:00,Let's talk latest Friday.,kept
+rep,2026-09-07 10:00:00,call,2348133494132,R5,wamid.L065.05,2026-08-31 03:13:00,Next week works for me.,kept
+rep,2026-09-07 15:00:00,call,2348199412179,R2,wamid.L008.05,2026-08-31 03:33:00,"Abeg call me Monday 3pm, I go dey office.",kept
+rep,2026-09-17 09:00:00,site visit,2348199412179,R2,wamid.L008.12,2026-09-13 04:09:00,I go send the site visit first thing Thursday.,overdue
+client,2026-09-19 15:00:00,sla document,2348199412179,R2,wamid.L008.14,2026-09-18 07:00:00,I will revert on the SLA document tomorrow 3pm.,kept
+rep,2026-09-07 09:00:00,call,2348115173308,R5,wamid.L185.05,2026-08-31 03:38:00,"Abeg call me on Monday at 9:00am, I go dey office.",kept
+rep,2026-09-13 09:00:00,sla document,2348115173308,R5,wamid.L185.12,2026-09-12 03:15:00,"Okay, I'll get back to you with the SLA document first thing tomorrow.",kept
+client,2026-09-14 10:00:00,contract draft,2348115173308,R5,wamid.L185.14,2026-09-13 14:00:00,I will revert on the contract draft tomorrow at 10am.,lapsed
+rep,2026-09-07 10:00:00,call,2348198755462,R5,wamid.L161.05,2026-08-31 22:00:00,"Abeg call me next week, I go dey office.",kept
+rep,2026-09-16 16:00:00,revised quote,2348198755462,R5,wamid.L161.10,2026-09-12 06:38:00,I go send the revised quote Wednesday 4pm.,kept
+client,2026-09-21 10:00:00,proposal,2348198755462,R5,wamid.L161.12,2026-09-19 00:00:00,Let me discuss the proposal with my Head of Admin and get back to you next week.,kept
+rep,2026-09-08 10:00:00,call,2348147483556,R3,wamid.L183.05,2026-09-01 00:01:00,Call me Tuesday 10 a.m..,kept
+rep,2026-09-14 10:00:00,site visit,2348147483556,R3,wamid.L183.10,2026-09-12 10:29:00,Noted. I'll send the site visit next week.,kept
+rep,2026-09-22 15:00:00,pricing,2348147483556,R3,wamid.L183.12,2026-09-16 13:00:00,Please call me Tuesday 3 p.m. so we close the pricing.,overdue
+rep,2026-09-07 10:00:00,call,2348164210048,R1,wamid.L253.05,2026-09-01 22:47:00,Early next week works for me.,kept
+rep,2026-09-04 17:00:00,call,2348111731894,R1,wamid.L319.05,2026-09-01 20:05:00,Before weekend works for me.,kept
+rep,2026-09-16 14:00:00,proposal,2348111731894,R1,wamid.L319.12,2026-09-09 04:48:00,Noted. I'll send the proposal Wednesday 2pm.,kept
+rep,2026-09-19 09:00:00,site visit,2348111731894,R1,wamid.L319.14,2026-09-18 10:00:00,Reach out to me tomorrow by 9am about the site visit.,kept
+rep,2026-09-02 17:00:00,call,2348118271869,R6,wamid.L006.05,2026-09-01 23:57:00,Call me by Wednesday.,kept
+rep,2026-09-10 17:00:00,pricing,2348118271869,R6,wamid.L006.10,2026-09-08 19:07:00,I go send the pricing latest Thursday.,kept
+client,2026-09-11 17:00:00,revised quote,2348118271869,R6,wamid.L006.12,2026-09-10 21:00:00,Let me discuss the revised quote with my Head of Admin and get back to you by Friday.,lapsed
+rep,2026-09-08 17:00:00,call,2348160843631,R6,wamid.L210.05,2026-09-03 20:06:00,Let's talk latest Tuesday.,kept
+rep,2026-09-08 14:00:00,call,2348116939088,R4,wamid.L088.05,2026-09-04 04:23:00,"Abeg call me Tuesday 2:00pm, I go dey office.",kept
+rep,2026-09-06 09:00:00,call,2348182513052,R2,wamid.L134.05,2026-09-05 14:40:00,First thing tomorrow works for me.,kept
+rep,2026-09-15 17:00:00,pricing,2348182513052,R2,wamid.L134.12,2026-09-11 06:31:00,Noted. I'll send the pricing before Tuesday.,overdue
+client,2026-09-17 11:00:00,sla document,2348182513052,R2,wamid.L134.13,2026-09-16 06:00:00,Let me discuss the SLA document with my Head of Admin and get back to you tomorrow by 11am.,lapsed
+rep,2026-09-07 09:00:00,call,2348182741836,R1,wamid.L073.05,2026-09-06 00:14:00,Call me tomorrow at 9 a.m..,kept
+rep,2026-09-16 12:00:00,contract draft,2348182741836,R1,wamid.L073.12,2026-09-11 09:35:00,"Okay, I'll get back to you with the contract draft Wednesday 12pm.",kept
+client,2026-09-21 09:00:00,revised quote,2348182741836,R1,wamid.L073.14,2026-09-18 20:00:00,Let me discuss the revised quote with my MD and get back to you Monday morning.,kept
+rep,2026-09-07 09:00:00,call,2348118411569,R5,wamid.L011.05,2026-09-06 19:05:00,Tomorrow at 9am works for me.,kept
+rep,2026-09-14 16:00:00,sla document,2348118411569,R5,wamid.L011.12,2026-09-12 18:11:00,Noted. I'll send the SLA document Monday by 4:00pm.,kept
+rep,2026-09-22 17:00:00,site visit,2348118411569,R5,wamid.L011.14,2026-09-16 00:00:00,Reach out to me by Tuesday about the site visit.,overdue
+rep,2026-09-07 09:00:00,call,2348127204135,R1,wamid.L055.05,2026-09-06 21:11:00,Let's talk tomorrow morning.,kept
+rep,2026-09-14 10:00:00,contract draft,2348127204135,R1,wamid.L055.12,2026-09-11 10:41:00,I go send the contract draft early next week.,overdue
+rep,2026-09-17 09:00:00,revised quote,2348127204135,R1,wamid.L055.13,2026-09-16 03:00:00,Please call me tomorrow by 9am so we close the revised quote.,kept
+rep,2026-09-11 16:00:00,call,2348132904517,R5,wamid.L257.05,2026-09-07 22:58:00,Friday 4pm works for me.,kept
+rep,2026-09-10 15:00:00,call,2348159838904,R5,wamid.L059.05,2026-09-08 01:52:00,"Abeg call me Thursday 3pm, I go dey office.",kept
+rep,2026-09-11 15:00:00,call,2348126595061,R2,wamid.L314.05,2026-09-07 21:39:00,Friday by 3pm works for me.,kept
+rep,2026-09-14 10:00:00,call,2348152062232,R4,wamid.L046.05,2026-09-08 19:04:00,Let's talk early next week.,kept
+rep,2026-09-10 15:00:00,call,2348183887357,R5,wamid.L221.05,2026-09-08 21:03:00,Let's talk Thursday by 3 p.m..,kept
+rep,2026-09-23 17:00:00,contract draft,2348183887357,R5,wamid.L221.12,2026-09-16 08:12:00,I go send the contract draft by Wednesday.,overdue
+client,2026-09-28 16:00:00,site visit,2348183887357,R5,wamid.L221.13,2026-09-24 22:00:00,I will revert on the site visit Monday 4pm.,lapsed
+rep,2026-09-15 17:00:00,call,2348143598249,R1,wamid.L079.05,2026-09-08 22:09:00,"Abeg call me before Tuesday, I go dey office.",kept
+rep,2026-09-11 17:00:00,call,2348183030034,R2,wamid.L158.05,2026-09-08 20:06:00,Call me by Friday.,kept
+rep,2026-09-19 16:00:00,revised quote,2348183030034,R2,wamid.L158.12,2026-09-18 11:35:00,"Okay, I'll get back to you with the revised quote tomorrow by 4 p.m..",kept
+rep,2026-09-25 14:00:00,pricing,2348183030034,R2,wamid.L158.14,2026-09-20 18:00:00,Please call me Friday by 2pm so we close the pricing.,kept
+rep,2026-09-15 15:00:00,call,2348128964935,R6,wamid.L042.05,2026-09-09 19:39:00,Call me Tuesday 3pm.,kept
+rep,2026-09-11 17:00:00,call,2348158527799,R3,wamid.L195.05,2026-09-09 21:20:00,By end of week works for me.,kept
+rep,2026-09-17 17:00:00,call,2348141914730,R4,wamid.L076.05,2026-09-10 02:31:00,Let's talk by Thursday.,kept
+rep,2026-09-25 10:00:00,pricing,2348141914730,R4,wamid.L076.10,2026-09-23 08:39:00,"Okay, I'll get back to you with the pricing Friday by 10:00am.",kept
+rep,2026-09-28 10:00:00,proposal,2348141914730,R4,wamid.L076.12,2026-09-26 08:00:00,Please call me next week so we close the proposal.,overdue
+rep,2026-09-14 10:00:00,call,2348177951270,R3,wamid.L075.05,2026-09-10 15:50:00,Let's talk next week.,kept
+rep,2026-09-18 15:00:00,contract draft,2348177951270,R3,wamid.L075.10,2026-09-17 12:08:00,I go send the contract draft tomorrow by 3:00pm.,overdue
+rep,2026-09-22 08:00:00,sla document,2348177951270,R3,wamid.L075.12,2026-09-20 10:00:00,Talk to me Tuesday 8 a.m. on the SLA document.,kept
+rep,2026-09-16 14:00:00,call,2348192367346,R6,wamid.L216.05,2026-09-11 03:39:00,Call me Wednesday by 2pm.,kept
+rep,2026-09-12 16:00:00,call,2348175347580,R5,wamid.L071.05,2026-09-11 01:37:00,Let's talk tomorrow 4pm.,kept
+rep,2026-09-21 11:00:00,sla document,2348175347580,R5,wamid.L071.12,2026-09-16 22:36:00,Noted. I'll send the SLA document Monday by 11 o'clock.,kept
+client,2026-09-25 14:00:00,contract draft,2348175347580,R5,wamid.L071.14,2026-09-22 07:00:00,I will revert on the contract draft Friday 2pm.,kept
+rep,2026-09-16 16:00:00,call,2348168513749,R6,wamid.L306.05,2026-09-11 03:00:00,Let's talk Wednesday by 4pm.,kept
+rep,2026-09-21 17:00:00,site visit,2348168513749,R6,wamid.L306.10,2026-09-20 18:53:00,Noted. I'll send the site visit by Monday.,kept
+rep,2026-09-23 10:00:00,site visit,2348168513749,R6,wamid.L306.12,2026-09-22 15:00:00,Please call me Wednesday 10:00am so we close the site visit.,kept
+rep,2026-09-13 09:00:00,call,2348178600944,R1,wamid.L259.05,2026-09-12 15:20:00,First thing tomorrow works for me.,kept
+rep,2026-09-16 17:00:00,call,2348186903543,R5,wamid.L089.05,2026-09-12 14:07:00,"Abeg call me latest Wednesday, I go dey office.",kept
+rep,2026-09-24 17:00:00,pricing,2348186903543,R5,wamid.L089.12,2026-09-20 19:40:00,I go send the pricing by Thursday.,overdue
+rep,2026-09-30 17:00:00,site visit,2348186903543,R5,wamid.L089.14,2026-09-26 06:00:00,Talk to me by Wednesday on the site visit.,kept
+rep,2026-09-13 11:00:00,call,2348150816385,R6,wamid.L300.05,2026-09-12 15:57:00,Call me tomorrow 11:00am.,kept
+rep,2026-09-21 10:00:00,revised quote,2348150816385,R6,wamid.L300.12,2026-09-16 15:16:00,"Okay, I'll get back to you with the revised quote early next week.",kept
+client,2026-09-22 11:00:00,sla document,2348150816385,R6,wamid.L300.14,2026-09-21 14:00:00,I will revert on the SLA document Tuesday 11am.,kept
+rep,2026-09-13 09:00:00,call,2348156012800,R6,wamid.L132.05,2026-09-12 19:12:00,"Abeg call me first thing tomorrow, I go dey office.",kept
+rep,2026-09-17 09:00:00,sla document,2348156012800,R6,wamid.L132.12,2026-09-15 22:18:00,I go send the SLA document Thursday morning.,kept
+rep,2026-09-22 11:00:00,revised quote,2348156012800,R6,wamid.L132.14,2026-09-19 04:00:00,Talk to me Tuesday 11am on the revised quote.,overdue
+rep,2026-09-17 17:00:00,call,2348187231613,R1,wamid.L307.05,2026-09-13 02:19:00,Before Thursday works for me.,kept
+rep,2026-09-25 10:00:00,proposal,2348187231613,R1,wamid.L307.12,2026-09-22 19:39:00,I go send the proposal Friday 10am.,kept
+client,2026-09-29 09:00:00,pricing,2348187231613,R1,wamid.L307.14,2026-09-27 00:00:00,I will revert on the pricing first thing Tuesday.,lapsed
+rep,2026-09-14 09:00:00,call,2348165821735,R3,wamid.L309.05,2026-09-13 22:25:00,Call me first thing tomorrow.,kept
+rep,2026-09-15 10:00:00,call,2348116004630,R6,wamid.L036.05,2026-09-13 20:27:00,Call me Tuesday 10 a.m..,kept
+rep,2026-09-17 11:00:00,call,2348115124223,R3,wamid.L009.05,2026-09-13 21:33:00,Call me Thursday by 11 a.m..,kept
+rep,2026-09-23 16:00:00,revised quote,2348115124223,R3,wamid.L009.12,2026-09-22 20:36:00,I go send the revised quote tomorrow at 4pm.,overdue
+client,2026-09-25 09:00:00,site visit,2348115124223,R3,wamid.L009.13,2026-09-24 21:00:00,I will revert on the site visit first thing tomorrow.,lapsed
+rep,2026-09-21 11:00:00,call,2348181353774,R2,wamid.L272.05,2026-09-15 15:24:00,Monday 11am works for me.,kept
+rep,2026-09-28 10:00:00,pricing,2348181353774,R2,wamid.L272.12,2026-09-24 16:59:00,Noted. I'll send the pricing next week.,overdue
+rep,2026-10-07 09:00:00,revised quote,2348181353774,R2,wamid.L272.13,2026-09-30 19:00:00,Reach out to me Wednesday morning about the revised quote.,kept
+rep,2026-09-21 10:00:00,call,2348161731160,R2,wamid.L068.05,2026-09-15 20:11:00,Call me early next week.,kept
+rep,2026-09-27 12:00:00,revised quote,2348161731160,R2,wamid.L068.10,2026-09-26 10:59:00,"Okay, I'll get back to you with the revised quote tomorrow at 12pm.",kept
+rep,2026-09-29 16:00:00,proposal,2348161731160,R2,wamid.L068.12,2026-09-28 01:00:00,Talk to me tomorrow by 4 p.m. on the proposal.,kept
+rep,2026-09-21 10:00:00,call,2348180736128,R3,wamid.L267.05,2026-09-15 23:00:00,Let's talk next week.,kept
+rep,2026-10-01 08:00:00,revised quote,2348180736128,R3,wamid.L267.10,2026-09-24 13:40:00,Noted. I'll send the revised quote Thursday 8 a.m..,overdue
+rep,2026-10-05 10:00:00,contract draft,2348180736128,R3,wamid.L267.11,2026-10-03 17:00:00,Please call me early next week so we close the contract draft.,kept
+rep,2026-09-17 14:00:00,call,2348197996068,R4,wamid.L304.05,2026-09-16 17:47:00,Tomorrow 2pm works for me.,kept
+rep,2026-09-22 09:00:00,call,2348124037918,R4,wamid.L232.05,2026-09-17 21:56:00,Let's talk Tuesday morning.,kept
+rep,2026-09-22 17:00:00,call,2348137225651,R3,wamid.L189.05,2026-09-19 17:31:00,Call me before Tuesday.,kept
+rep,2026-10-01 09:00:00,contract draft,2348137225651,R3,wamid.L189.12,2026-09-26 07:32:00,I go send the contract draft Thursday 9 a.m..,overdue
+rep,2026-10-05 10:00:00,contract draft,2348137225651,R3,wamid.L189.13,2026-10-03 20:00:00,Talk to me early next week on the contract draft.,overdue
+rep,2026-09-23 08:00:00,call,2348174616473,R6,wamid.L150.05,2026-09-20 05:51:00,Call me Wednesday by 8:00am.,kept
+rep,2026-09-21 09:00:00,call,2348193129277,R6,wamid.L174.05,2026-09-20 15:10:00,Let's talk first thing tomorrow.,kept
+rep,2026-09-26 14:00:00,revised quote,2348193129277,R6,wamid.L174.10,2026-09-25 12:36:00,"Okay, I'll get back to you with the revised quote tomorrow by 2pm.",overdue
+rep,2026-10-02 17:00:00,site visit,2348193129277,R6,wamid.L174.12,2026-09-28 02:00:00,Please call me before the end of the week so we close the site visit.,kept
+rep,2026-09-25 09:00:00,call,2348195511296,R1,wamid.L067.05,2026-09-21 00:39:00,"Abeg call me on Friday at 9am, I go dey office.",kept
+rep,2026-10-02 09:00:00,revised quote,2348195511296,R1,wamid.L067.10,2026-09-29 21:26:00,"Okay, I'll get back to you with the revised quote first thing Friday.",kept
+client,2026-10-05 10:00:00,sla document,2348195511296,R1,wamid.L067.12,2026-10-04 07:00:00,I will revert on the SLA document tomorrow 10am.,lapsed
+rep,2026-09-22 15:00:00,call,2348130871364,R1,wamid.L139.05,2026-09-21 00:49:00,Let's talk tomorrow at 3pm.,kept
+rep,2026-09-30 09:00:00,site visit,2348130871364,R1,wamid.L139.12,2026-09-24 13:41:00,"Okay, I'll get back to you with the site visit first thing Wednesday.",kept
+rep,2026-10-05 10:00:00,pricing,2348130871364,R1,wamid.L139.14,2026-10-01 11:00:00,Reach out to me early next week about the pricing.,overdue
+rep,2026-09-22 12:00:00,call,2348129864553,R4,wamid.L106.05,2026-09-21 14:49:00,Let's talk tomorrow at 12pm.,kept
+rep,2026-09-28 15:00:00,site visit,2348129864553,R4,wamid.L106.10,2026-09-25 07:00:00,"Okay, I'll get back to you with the site visit Monday 3:00pm.",kept
+client,2026-10-08 17:00:00,pricing,2348129864553,R4,wamid.L106.12,2026-10-01 03:00:00,Let me discuss the pricing with my Head of Admin and get back to you before Thursday.,kept
+rep,2026-09-24 09:00:00,call,2348172257931,R4,wamid.L028.05,2026-09-21 20:24:00,Thursday 9 a.m. works for me.,kept
+rep,2026-09-29 09:00:00,sla document,2348172257931,R4,wamid.L028.12,2026-09-28 15:43:00,"Okay, I'll get back to you with the SLA document tomorrow morning.",kept
+client,2026-10-02 15:00:00,pricing,2348172257931,R4,wamid.L028.14,2026-10-01 06:00:00,I will revert on the pricing tomorrow 3pm.,lapsed
+rep,2026-09-24 17:00:00,call,2348117296238,R3,wamid.L207.05,2026-09-22 18:30:00,By Thursday works for me.,kept
+rep,2026-10-01 15:00:00,revised quote,2348117296238,R3,wamid.L207.12,2026-09-28 18:24:00,"Okay, I'll get back to you with the revised quote Thursday 3:00pm.",kept
+rep,2026-10-04 14:00:00,sla document,2348117296238,R3,wamid.L207.14,2026-10-03 13:00:00,Reach out to me tomorrow at 2pm about the SLA document.,overdue
+rep,2026-09-28 17:00:00,call,2348171159968,R4,wamid.L124.05,2026-09-22 22:18:00,Call me by Monday.,kept
+rep,2026-09-24 16:00:00,call,2348111234240,R3,wamid.L003.05,2026-09-22 20:34:00,"Abeg call me Thursday by 4pm, I go dey office.",kept
+rep,2026-09-25 17:00:00,call,2348160753531,R5,wamid.L023.05,2026-09-23 16:08:00,"Abeg call me by end of week, I go dey office.",kept
+rep,2026-09-30 14:00:00,revised quote,2348160753531,R5,wamid.L023.12,2026-09-28 19:08:00,Noted. I'll send the revised quote Wednesday by 2pm.,kept
+rep,2026-10-07 10:00:00,contract draft,2348160753531,R5,wamid.L023.14,2026-10-01 15:00:00,Please call me on Wednesday at 10am so we close the contract draft.,overdue
+rep,2026-09-28 11:00:00,call,2348183616250,R5,wamid.L149.05,2026-09-23 22:14:00,Call me on Monday at 11 a.m..,kept
+rep,2026-10-01 12:00:00,contract draft,2348183616250,R5,wamid.L149.12,2026-09-30 22:30:00,"Okay, I'll get back to you with the contract draft Thursday 12pm.",overdue
+rep,2026-10-08 11:00:00,sla document,2348183616250,R5,wamid.L149.13,2026-10-03 03:00:00,Talk to me Thursday 11am on the SLA document.,kept
+rep,2026-09-24 10:00:00,call,2348178875430,R1,wamid.L031.05,2026-09-23 17:37:00,"Abeg call me tomorrow at 10 o'clock, I go dey office.",kept
+rep,2026-10-01 17:00:00,contract draft,2348178875430,R1,wamid.L031.12,2026-09-28 02:47:00,"Okay, I'll get back to you with the contract draft latest Thursday.",kept
+client,2026-10-07 11:00:00,contract draft,2348178875430,R1,wamid.L031.14,2026-10-03 04:00:00,I will revert on the contract draft on Wednesday at 11 o'clock.,lapsed
+rep,2026-09-25 17:00:00,call,2348157016944,R3,wamid.L255.05,2026-09-23 20:57:00,By Friday works for me.,kept
+rep,2026-09-28 10:00:00,call,2348121215903,R6,wamid.L090.05,2026-09-24 03:14:00,"Abeg call me next week, I go dey office.",kept
+rep,2026-10-04 09:00:00,site visit,2348121215903,R6,wamid.L090.12,2026-10-03 23:01:00,I go send the site visit tomorrow morning.,kept
+rep,2026-10-09 17:00:00,proposal,2348121215903,R6,wamid.L090.14,2026-10-04 22:00:00,Talk to me latest Friday on the proposal.,kept
+rep,2026-09-26 16:00:00,call,2348134557605,R2,wamid.L038.05,2026-09-25 04:03:00,Let's talk tomorrow at 4:00pm.,kept
+rep,2026-10-05 17:00:00,site visit,2348134557605,R2,wamid.L038.12,2026-09-30 15:14:00,Noted. I'll send the site visit by Monday.,overdue
+rep,2026-10-12 12:00:00,contract draft,2348134557605,R2,wamid.L038.13,2026-10-07 02:00:00,Reach out to me Monday 12pm about the contract draft.,kept
+rep,2026-10-01 10:00:00,call,2348143379211,R3,wamid.L117.05,2026-09-25 13:47:00,Let's talk Thursday by 10am.,kept
+rep,2026-10-12 10:00:00,sla document,2348143379211,R3,wamid.L117.10,2026-10-07 19:19:00,"Okay, I'll get back to you with the SLA document next week.",kept
+client,2026-10-14 09:00:00,revised quote,2348143379211,R3,wamid.L117.12,2026-10-13 22:00:00,I will revert on the revised quote tomorrow by 9am.,lapsed
+rep,2026-09-26 09:00:00,call,2348160616039,R1,wamid.L049.05,2026-09-25 20:40:00,Let's talk tomorrow morning.,kept
+rep,2026-10-02 17:00:00,sla document,2348160616039,R1,wamid.L049.10,2026-10-01 01:18:00,"Okay, I'll get back to you with the SLA document before Friday.",overdue
+client,2026-10-05 09:00:00,revised quote,2348160616039,R1,wamid.L049.12,2026-10-04 19:00:00,Let me discuss the revised quote with my COO and get back to you tomorrow morning.,kept
+rep,2026-09-27 10:00:00,call,2348187394027,R1,wamid.L175.05,2026-09-26 21:10:00,Let's talk tomorrow by 10 a.m..,kept
+rep,2026-10-05 10:00:00,pricing,2348187394027,R1,wamid.L175.12,2026-09-30 22:27:00,Noted. I'll send the pricing next week.,kept
+client,2026-10-07 17:00:00,sla document,2348187394027,R1,wamid.L175.14,2026-10-06 01:00:00,Let me discuss the SLA document with my Head of Admin and get back to you before Wednesday.,kept
+rep,2026-09-27 09:00:00,call,2348145983616,R2,wamid.L176.05,2026-09-26 19:01:00,Call me tomorrow 9:00am.,kept
+rep,2026-09-29 09:00:00,call,2348158000831,R2,wamid.L224.05,2026-09-28 15:01:00,Let's talk first thing tomorrow.,kept
+rep,2026-10-01 17:00:00,call,2348128282420,R4,wamid.L052.05,2026-09-29 01:12:00,Latest Thursday works for me.,kept
+rep,2026-10-09 11:00:00,contract draft,2348128282420,R4,wamid.L052.12,2026-10-05 08:42:00,"Okay, I'll get back to you with the contract draft Friday 11am.",overdue
+client,2026-10-16 17:00:00,pricing,2348128282420,R4,wamid.L052.13,2026-10-11 21:00:00,Give me till Friday to review the pricing.,kept
+rep,2026-10-05 17:00:00,call,2348153308170,R5,wamid.L215.05,2026-09-29 04:31:00,Call me latest Monday.,kept
+rep,2026-10-12 16:00:00,contract draft,2348153308170,R5,wamid.L215.12,2026-10-10 14:02:00,I go send the contract draft on Monday at 4:00pm.,kept
+client,2026-10-21 09:00:00,revised quote,2348153308170,R5,wamid.L215.14,2026-10-14 17:00:00,I will revert on the revised quote first thing Wednesday.,lapsed
+rep,2026-09-30 12:00:00,call,2348143321539,R3,wamid.L087.05,2026-09-29 03:55:00,On Wednesday at 12pm works for me.,kept
+rep,2026-10-07 08:00:00,sla document,2348143321539,R3,wamid.L087.12,2026-10-04 21:50:00,I go send the SLA document Wednesday by 8am.,overdue
+client,2026-10-12 17:00:00,revised quote,2348143321539,R3,wamid.L087.14,2026-10-08 20:00:00,Let me discuss the revised quote with my MD and get back to you latest Monday.,lapsed
+rep,2026-09-30 16:00:00,call,2348158492048,R5,wamid.L083.05,2026-09-28 23:34:00,"Abeg call me Wednesday 4:00pm, I go dey office.",kept
+rep,2026-10-07 11:00:00,sla document,2348158492048,R5,wamid.L083.10,2026-10-03 18:07:00,"Okay, I'll get back to you with the SLA document Wednesday 11am.",kept
+client,2026-10-15 09:00:00,proposal,2348158492048,R5,wamid.L083.12,2026-10-09 17:00:00,I will revert on the proposal first thing Thursday.,lapsed
+rep,2026-10-05 10:00:00,call,2348177081699,R2,wamid.L044.05,2026-09-30 21:30:00,Early next week works for me.,kept
+rep,2026-10-12 10:00:00,sla document,2348177081699,R2,wamid.L044.12,2026-10-10 20:03:00,I go send the SLA document early next week.,kept
+rep,2026-10-15 10:00:00,proposal,2348177081699,R2,wamid.L044.14,2026-10-14 22:00:00,Reach out to me tomorrow at 10am about the proposal.,kept
+rep,2026-10-05 10:00:00,call,2348164215175,R6,wamid.L276.05,2026-10-01 14:24:00,Next week works for me.,kept
+rep,2026-10-02 09:00:00,call,2348175209394,R1,wamid.L001.05,2026-10-01 16:06:00,"Abeg call me tomorrow at 9am, I go dey office.",kept
+rep,2026-10-07 09:00:00,call,2348145924554,R1,wamid.L265.05,2026-10-03 19:19:00,"Abeg call me Wednesday morning, I go dey office.",kept
+rep,2026-10-07 11:00:00,call,2348142632596,R5,wamid.L107.05,2026-10-03 21:08:00,"Abeg call me Wednesday 11am, I go dey office.",kept
+rep,2026-10-19 10:00:00,proposal,2348142632596,R5,wamid.L107.12,2026-10-12 12:53:00,I go send the proposal next week.,kept
+client,2026-10-22 08:00:00,revised quote,2348142632596,R5,wamid.L107.14,2026-10-19 22:00:00,I will revert on the revised quote Thursday 8am.,lapsed
+rep,2026-10-06 09:00:00,call,2348133156271,R6,wamid.L162.05,2026-10-04 03:54:00,Tuesday morning works for me.,kept
+rep,2026-10-08 12:00:00,call,2348197830351,R3,wamid.L201.05,2026-10-04 00:41:00,"Abeg call me on Thursday at 12pm, I go dey office.",kept
+rep,2026-10-19 09:00:00,revised quote,2348197830351,R3,wamid.L201.10,2026-10-14 14:07:00,Noted. I'll send the revised quote first thing Monday.,overdue
+rep,2026-10-23 14:00:00,proposal,2348197830351,R3,wamid.L201.11,2026-10-20 04:00:00,Talk to me on Friday at 2pm on the proposal.,kept
+rep,2026-10-08 17:00:00,call,2348197042812,R5,wamid.L167.05,2026-10-04 14:42:00,Call me by Thursday.,kept
+rep,2026-10-06 10:00:00,call,2348133799467,R6,wamid.L318.05,2026-10-05 12:24:00,"Abeg call me tomorrow 10am, I go dey office.",kept
+rep,2026-10-11 09:00:00,proposal,2348133799467,R6,wamid.L318.12,2026-10-10 18:34:00,Noted. I'll send the proposal first thing tomorrow.,kept
+client,2026-10-16 10:00:00,site visit,2348133799467,R6,wamid.L318.14,2026-10-12 11:00:00,I will revert on the site visit on Friday at 10:00am.,lapsed
+rep,2026-10-13 10:00:00,call,2348112902322,R6,wamid.L192.05,2026-10-06 01:02:00,Call me Tuesday by 10am.,kept
+rep,2026-10-22 17:00:00,pricing,2348112902322,R6,wamid.L192.12,2026-10-16 05:16:00,I go send the pricing by Thursday.,kept
+client,2026-10-26 10:00:00,contract draft,2348112902322,R6,wamid.L192.14,2026-10-23 16:00:00,I will revert on the contract draft next week.,kept
+rep,2026-10-12 10:00:00,call,2348135804542,R2,wamid.L116.05,2026-10-06 12:40:00,Call me next week.,kept
+rep,2026-10-08 09:00:00,call,2348182932657,R3,wamid.L105.05,2026-10-07 01:06:00,Let's talk Thursday morning.,kept
+rep,2026-10-14 09:00:00,pricing,2348182932657,R3,wamid.L105.10,2026-10-11 21:26:00,"Okay, I'll get back to you with the pricing Wednesday morning.",kept
+client,2026-10-19 17:00:00,proposal,2348182932657,R3,wamid.L105.12,2026-10-14 17:00:00,Let me discuss the proposal with my MD and get back to you by Monday.,lapsed
+rep,2026-10-08 09:00:00,call,2348139352040,R3,wamid.L165.05,2026-10-07 01:56:00,Let's talk tomorrow morning.,kept
+rep,2026-10-15 09:00:00,site visit,2348139352040,R3,wamid.L165.10,2026-10-13 03:05:00,Noted. I'll send the site visit first thing Thursday.,overdue
+rep,2026-10-20 09:00:00,revised quote,2348139352040,R3,wamid.L165.11,2026-10-16 09:00:00,Talk to me first thing Tuesday on the revised quote.,overdue
+rep,2026-10-09 14:00:00,call,2348120390539,R4,wamid.L310.05,2026-10-08 14:31:00,Let's talk tomorrow 2pm.,kept
+rep,2026-10-15 09:00:00,call,2348188290391,R1,wamid.L037.05,2026-10-08 17:33:00,"Abeg call me Thursday 9am, I go dey office.",kept
+rep,2026-10-26 10:00:00,pricing,2348188290391,R1,wamid.L037.12,2026-10-20 09:35:00,"Okay, I'll get back to you with the pricing early next week.",kept
+rep,2026-11-03 17:00:00,proposal,2348188290391,R1,wamid.L037.14,2026-10-27 09:00:00,Please call me by Tuesday so we close the proposal.,kept
+rep,2026-10-10 09:00:00,call,2348158023419,R3,wamid.L147.05,2026-10-09 01:46:00,Tomorrow morning works for me.,kept
+rep,2026-10-19 10:00:00,proposal,2348158023419,R3,wamid.L147.12,2026-10-14 12:32:00,"Okay, I'll get back to you with the proposal early next week.",kept
+rep,2026-10-22 11:00:00,sla document,2348158023419,R3,wamid.L147.14,2026-10-21 16:00:00,Reach out to me tomorrow at 11am about the SLA document.,kept
+rep,2026-10-10 10:00:00,call,2348187234308,R2,wamid.L200.05,2026-10-09 01:50:00,Let's talk tomorrow by 10 a.m..,kept
+rep,2026-10-12 10:00:00,call,2348172204095,R6,wamid.L288.05,2026-10-09 23:09:00,Let's talk next week.,kept
+rep,2026-10-14 17:00:00,call,2348152081840,R5,wamid.L125.05,2026-10-10 14:34:00,Call me by Wednesday.,kept
+rep,2026-10-21 09:00:00,sla document,2348152081840,R5,wamid.L125.10,2026-10-17 09:10:00,I go send the SLA document Wednesday morning.,kept
+client,2026-10-26 12:00:00,contract draft,2348152081840,R5,wamid.L125.12,2026-10-23 19:00:00,Let me discuss the contract draft with my MD and get back to you Monday 12pm.,lapsed
+rep,2026-10-12 09:00:00,call,2348117174713,R2,wamid.L236.05,2026-10-11 23:08:00,"Abeg call me tomorrow 9am, I go dey office.",kept
+rep,2026-10-13 09:00:00,call,2348174982252,R4,wamid.L040.05,2026-10-12 22:04:00,Let's talk tomorrow morning.,kept
+rep,2026-10-26 10:00:00,proposal,2348174982252,R4,wamid.L040.12,2026-10-19 04:38:00,Noted. I'll send the proposal next week.,kept
+rep,2026-10-29 17:00:00,contract draft,2348174982252,R4,wamid.L040.14,2026-10-27 20:00:00,Please call me by Thursday so we close the contract draft.,kept
+rep,2026-10-16 17:00:00,call,2348179811209,R3,wamid.L279.05,2026-10-13 00:39:00,Call me before the end of the week.,kept
+rep,2026-10-26 10:00:00,proposal,2348179811209,R3,wamid.L279.10,2026-10-20 09:59:00,"Okay, I'll get back to you with the proposal next week.",kept
+client,2026-11-03 09:00:00,revised quote,2348179811209,R3,wamid.L279.12,2026-10-28 06:00:00,I will revert on the revised quote first thing Tuesday.,lapsed
+rep,2026-10-15 09:00:00,call,2348156588753,R6,wamid.L078.05,2026-10-13 18:05:00,Let's talk Thursday 9 o'clock.,kept
+rep,2026-10-16 17:00:00,call,2348146710109,R6,wamid.L066.05,2026-10-13 18:56:00,"Abeg call me before weekend, I go dey office.",kept
+rep,2026-10-20 17:00:00,call,2348165705322,R6,wamid.L270.05,2026-10-14 01:21:00,Latest Tuesday works for me.,kept
+rep,2026-10-30 17:00:00,contract draft,2348165705322,R6,wamid.L270.10,2026-10-26 12:03:00,I go send the contract draft before weekend.,kept
+rep,2026-11-04 15:00:00,revised quote,2348165705322,R6,wamid.L270.12,2026-10-31 03:00:00,Talk to me Wednesday 3pm on the revised quote.,kept
+rep,2026-10-15 09:00:00,call,2348115196928,R2,wamid.L242.05,2026-10-14 15:11:00,Tomorrow by 9am works for me.,kept
+rep,2026-10-19 10:00:00,call,2348142673700,R3,wamid.L129.05,2026-10-15 21:52:00,Next week works for me.,kept
+rep,2026-10-29 17:00:00,revised quote,2348142673700,R3,wamid.L129.12,2026-10-24 06:44:00,Noted. I'll send the revised quote by Thursday.,overdue
+rep,2026-11-04 09:00:00,site visit,2348142673700,R3,wamid.L129.13,2026-10-30 21:00:00,Talk to me Wednesday 9am on the site visit.,kept
+rep,2026-10-21 09:00:00,call,2348168011229,R6,wamid.L258.05,2026-10-16 23:59:00,Call me first thing Wednesday.,kept
+rep,2026-10-26 10:00:00,contract draft,2348168011229,R6,wamid.L258.10,2026-10-24 20:43:00,Noted. I'll send the contract draft early next week.,overdue
+rep,2026-10-30 14:00:00,proposal,2348168011229,R6,wamid.L258.12,2026-10-27 13:00:00,Reach out to me Friday 2 p.m. about the proposal.,kept
+rep,2026-10-19 08:00:00,call,2348149547761,R5,wamid.L203.05,2026-10-16 22:35:00,Call me Monday by 8am.,kept
+rep,2026-10-18 09:00:00,call,2348124642809,R5,wamid.L053.05,2026-10-17 03:11:00,Let's talk tomorrow morning.,kept
+rep,2026-10-23 11:00:00,pricing,2348124642809,R5,wamid.L053.12,2026-10-22 22:32:00,Noted. I'll send the pricing Friday 11:00am.,kept
+client,2026-10-26 09:00:00,site visit,2348124642809,R5,wamid.L053.14,2026-10-24 12:00:00,I will revert on the site visit Monday morning.,kept
+rep,2026-10-19 17:00:00,call,2348119001808,R1,wamid.L169.05,2026-10-17 02:21:00,Let's talk by Monday.,kept
+rep,2026-10-18 09:00:00,call,2348128237929,R3,wamid.L171.05,2026-10-17 16:58:00,Let's talk tomorrow morning.,kept
+rep,2026-10-26 17:00:00,proposal,2348128237929,R3,wamid.L171.10,2026-10-21 20:46:00,Noted. I'll send the proposal before Monday.,overdue
+rep,2026-10-30 17:00:00,pricing,2348128237929,R3,wamid.L171.11,2026-10-27 04:00:00,Talk to me before the end of the week on the pricing.,overdue
+rep,2026-10-23 17:00:00,call,2348172192754,R5,wamid.L155.05,2026-10-17 14:13:00,Let's talk by Friday.,kept
+rep,2026-10-28 09:00:00,site visit,2348172192754,R5,wamid.L155.12,2026-10-27 07:40:00,"Okay, I'll get back to you with the site visit tomorrow morning.",overdue
+client,2026-11-05 08:00:00,contract draft,2348172192754,R5,wamid.L155.13,2026-10-30 21:00:00,I will revert on the contract draft Thursday by 8:00am.,lapsed
+rep,2026-10-19 10:00:00,call,2348163551026,R1,wamid.L289.05,2026-10-17 16:53:00,Call me next week.,kept
+rep,2026-10-22 09:00:00,call,2348127899739,R2,wamid.L212.05,2026-10-17 19:03:00,"Abeg call me first thing Thursday, I go dey office.",kept
+rep,2026-10-26 16:00:00,revised quote,2348127899739,R2,wamid.L212.12,2026-10-25 05:21:00,"Okay, I'll get back to you with the revised quote on Monday at 4:00pm.",kept
+rep,2026-11-02 10:00:00,proposal,2348127899739,R2,wamid.L212.14,2026-10-28 01:00:00,Talk to me next week on the proposal.,overdue
+rep,2026-10-19 12:00:00,call,2348179565961,R5,wamid.L035.05,2026-10-18 20:19:00,"Abeg call me tomorrow 12 p.m., I go dey office.",kept
+rep,2026-10-28 09:00:00,sla document,2348179565961,R5,wamid.L035.10,2026-10-24 13:39:00,I go send the SLA document Wednesday 9am.,kept
+rep,2026-10-30 09:00:00,pricing,2348179565961,R5,wamid.L035.12,2026-10-29 10:00:00,Please call me tomorrow morning so we close the pricing.,kept
+rep,2026-10-20 09:00:00,call,2348154414256,R3,wamid.L027.05,2026-10-19 14:18:00,"Abeg call me tomorrow morning, I go dey office.",kept
+rep,2026-10-21 17:00:00,call,2348117701318,R6,wamid.L228.05,2026-10-19 13:32:00,Call me before Wednesday.,kept
+rep,2026-10-21 16:00:00,call,2348164063337,R1,wamid.L271.05,2026-10-19 18:49:00,Let's talk Wednesday 4 o'clock.,kept
+rep,2026-10-22 08:00:00,call,2348189163656,R4,wamid.L298.05,2026-10-19 22:04:00,Thursday 8 a.m. works for me.,kept
+rep,2026-10-22 14:00:00,call,2348170671281,R5,wamid.L113.05,2026-10-20 01:09:00,"Abeg call me Thursday 2pm, I go dey office.",kept
+rep,2026-10-26 10:00:00,call,2348134051025,R2,wamid.L164.05,2026-10-19 23:59:00,Let's talk next week.,kept
+rep,2026-11-02 15:00:00,pricing,2348134051025,R2,wamid.L164.12,2026-10-28 18:28:00,"Okay, I'll get back to you with the pricing on Monday at 3pm.",kept
+client,2026-11-10 17:00:00,sla document,2348134051025,R2,wamid.L164.14,2026-11-04 18:00:00,Let me discuss the SLA document with my COO and get back to you before Tuesday.,kept
+rep,2026-10-26 17:00:00,call,2348138925445,R4,wamid.L034.05,2026-10-20 17:34:00,Latest Monday works for me.,kept
+rep,2026-10-23 17:00:00,call,2348126392741,R2,wamid.L092.05,2026-10-20 17:09:00,Let's talk by end of week.,kept
+rep,2026-10-26 10:00:00,call,2348143940774,R6,wamid.L108.05,2026-10-20 20:51:00,Call me early next week.,kept
+rep,2026-11-05 10:00:00,site visit,2348143940774,R6,wamid.L108.12,2026-10-29 16:52:00,I go send the site visit Thursday by 10 o'clock.,kept
+rep,2026-11-09 09:00:00,proposal,2348143940774,R6,wamid.L108.14,2026-11-07 18:00:00,Reach out to me Monday morning about the proposal.,kept
+rep,2026-10-23 12:00:00,call,2348174629832,R4,wamid.L286.05,2026-10-21 01:51:00,Call me Friday by 12pm.,kept
+rep,2026-10-26 17:00:00,call,2348167814427,R4,wamid.L238.05,2026-10-21 16:42:00,Let's talk latest Monday.,kept
+rep,2026-10-30 17:00:00,sla document,2348167814427,R4,wamid.L238.10,2026-10-29 15:06:00,"Okay, I'll get back to you with the SLA document before Friday.",overdue
+client,2026-11-06 15:00:00,site visit,2348167814427,R4,wamid.L238.12,2026-11-01 06:00:00,Let me discuss the site visit with my MD and get back to you Friday by 3pm.,lapsed
+rep,2026-10-26 10:00:00,call,2348166728906,R4,wamid.L244.05,2026-10-22 01:33:00,"Abeg call me next week, I go dey office.",kept
+rep,2026-11-01 12:00:00,revised quote,2348166728906,R4,wamid.L244.10,2026-10-31 18:20:00,"Okay, I'll get back to you with the revised quote tomorrow by 12pm.",kept
+rep,2026-11-06 17:00:00,sla document,2348166728906,R4,wamid.L244.12,2026-11-03 19:00:00,Please call me before weekend so we close the SLA document.,kept
+rep,2026-10-23 09:00:00,call,2348171409839,R5,wamid.L263.05,2026-10-22 05:01:00,"Abeg call me first thing tomorrow, I go dey office.",kept
+rep,2026-11-02 11:00:00,revised quote,2348171409839,R5,wamid.L263.12,2026-10-28 08:54:00,I go send the revised quote Monday 11:00am.,overdue
+rep,2026-11-06 17:00:00,revised quote,2348171409839,R5,wamid.L263.13,2026-11-04 11:00:00,Please call me before weekend so we close the revised quote.,kept
+rep,2026-10-26 08:00:00,call,2348117054469,R1,wamid.L247.05,2026-10-22 23:08:00,"Abeg call me Monday 8am, I go dey office.",kept
+rep,2026-10-30 17:00:00,site visit,2348117054469,R1,wamid.L247.12,2026-10-29 02:58:00,Noted. I'll send the site visit by Friday.,kept
+rep,2026-11-06 08:00:00,sla document,2348117054469,R1,wamid.L247.14,2026-11-01 12:00:00,Talk to me Friday 8 a.m. on the SLA document.,kept
+rep,2026-10-27 16:00:00,call,2348160949598,R4,wamid.L016.05,2026-10-23 02:08:00,"Abeg call me on Tuesday at 4pm, I go dey office.",kept
+rep,2026-10-27 09:00:00,call,2348160192601,R5,wamid.L119.05,2026-10-23 16:29:00,"Abeg call me first thing Tuesday, I go dey office.",kept
+rep,2026-11-04 17:00:00,site visit,2348160192601,R5,wamid.L119.12,2026-11-02 04:49:00,Noted. I'll send the site visit by Wednesday.,kept
+client,2026-11-10 17:00:00,contract draft,2348160192601,R5,wamid.L119.14,2026-11-06 19:00:00,I will revert on the contract draft before Tuesday.,lapsed
+rep,2026-10-25 11:00:00,call,2348163735998,R5,wamid.L275.05,2026-10-24 01:17:00,Let's talk tomorrow at 11am.,kept
+rep,2026-11-03 09:00:00,proposal,2348163735998,R5,wamid.L275.12,2026-11-01 02:13:00,Noted. I'll send the proposal first thing Tuesday.,overdue
+client,2026-11-09 14:00:00,site visit,2348163735998,R5,wamid.L275.14,2026-11-04 18:00:00,I will revert on the site visit Monday 2pm.,kept
+rep,2026-10-27 16:00:00,call,2348185277703,R6,wamid.L198.05,2026-10-24 17:46:00,Let's talk Tuesday 4pm.,kept
+rep,2026-10-26 09:00:00,call,2348179765179,R5,wamid.L047.05,2026-10-25 22:25:00,"Abeg call me tomorrow at 9am, I go dey office.",kept
+rep,2026-11-06 09:00:00,contract draft,2348179765179,R5,wamid.L047.12,2026-10-31 23:24:00,"Okay, I'll get back to you with the contract draft first thing Friday.",overdue
+client,2026-11-11 17:00:00,revised quote,2348179765179,R5,wamid.L047.13,2026-11-08 20:00:00,I will revert on the revised quote before Wednesday.,kept
+rep,2026-10-30 14:00:00,call,2348117183944,R2,wamid.L080.05,2026-10-26 01:18:00,Let's talk on Friday at 2:00pm.,kept
+rep,2026-10-28 11:00:00,call,2348174891789,R5,wamid.L077.05,2026-10-26 04:30:00,"Abeg call me on Wednesday at 11am, I go dey office.",kept
+rep,2026-11-04 16:00:00,pricing,2348174891789,R5,wamid.L077.12,2026-10-30 18:28:00,"Okay, I'll get back to you with the pricing Wednesday 4pm.",overdue
+client,2026-11-09 09:00:00,sla document,2348174891789,R5,wamid.L077.13,2026-11-05 13:00:00,Let me discuss the SLA document with my Head of Admin and get back to you Monday 9am.,kept
+rep,2026-10-30 10:00:00,call,2348138543301,R3,wamid.L261.05,2026-10-26 16:52:00,"Abeg call me Friday 10:00am, I go dey office.",kept
+rep,2026-10-27 09:00:00,call,2348111699129,R5,wamid.L239.05,2026-10-26 23:23:00,Let's talk tomorrow morning.,kept
+rep,2026-10-29 17:00:00,call,2348168652014,R3,wamid.L021.05,2026-10-27 05:11:00,Call me before Thursday.,kept
+rep,2026-11-09 12:00:00,proposal,2348168652014,R3,wamid.L021.10,2026-11-04 09:31:00,Noted. I'll send the proposal Monday 12 p.m..,overdue
+client,2026-11-13 17:00:00,contract draft,2348168652014,R3,wamid.L021.12,2026-11-10 04:00:00,I will revert on the contract draft before weekend.,kept
+rep,2026-10-30 17:00:00,call,2348153364217,R1,wamid.L235.05,2026-10-27 18:19:00,Before Friday works for me.,kept
+rep,2026-11-06 09:00:00,pricing,2348153364217,R1,wamid.L235.12,2026-11-05 00:00:00,"Okay, I'll get back to you with the pricing first thing tomorrow.",kept
+rep,2026-11-09 10:00:00,proposal,2348153364217,R1,wamid.L235.14,2026-11-07 10:00:00,Talk to me early next week on the proposal.,kept
+rep,2026-10-28 10:00:00,call,2348119810808,R2,wamid.L098.05,2026-10-27 16:58:00,Let's talk tomorrow at 10:00am.,kept
+rep,2026-11-02 17:00:00,contract draft,2348119810808,R2,wamid.L098.12,2026-11-01 18:34:00,I go send the contract draft latest Monday.,kept
+rep,2026-11-09 11:00:00,contract draft,2348119810808,R2,wamid.L098.14,2026-11-04 18:00:00,Talk to me Monday 11am on the contract draft.,kept
+rep,2026-11-04 11:00:00,call,2348115795989,R3,wamid.L045.05,2026-10-28 03:22:00,"Abeg call me on Wednesday at 11 a.m., I go dey office.",kept
+rep,2026-10-30 16:00:00,call,2348183562456,R6,wamid.L138.05,2026-10-28 00:10:00,Let's talk Friday 4pm.,kept
+rep,2026-11-02 10:00:00,call,2348161283059,R5,wamid.L143.05,2026-10-28 18:47:00,Let's talk next week.,kept
+rep,2026-11-09 09:00:00,proposal,2348161283059,R5,wamid.L143.12,2026-11-08 01:59:00,"Okay, I'll get back to you with the proposal tomorrow 9am.",kept
+rep,2026-11-13 12:00:00,pricing,2348161283059,R5,wamid.L143.14,2026-11-10 15:00:00,Please call me Friday by 12 p.m. so we close the pricing.,kept
+rep,2026-11-03 17:00:00,call,2348150636792,R2,wamid.L194.05,2026-10-29 17:07:00,"Abeg call me latest Tuesday, I go dey office.",kept
+rep,2026-11-11 16:00:00,sla document,2348150636792,R2,wamid.L194.12,2026-11-06 12:53:00,Noted. I'll send the SLA document Wednesday 4 p.m..,overdue
+rep,2026-11-13 08:00:00,revised quote,2348150636792,R2,wamid.L194.14,2026-11-12 14:00:00,Reach out to me Friday by 8am about the revised quote.,overdue
+rep,2026-11-05 17:00:00,call,2348119691547,R4,wamid.L220.05,2026-10-29 16:24:00,"Abeg call me before Thursday, I go dey office.",kept
+rep,2026-11-10 11:00:00,contract draft,2348119691547,R4,wamid.L220.12,2026-11-09 07:21:00,"Okay, I'll get back to you with the contract draft Tuesday 11am.",kept
+client,2026-11-16 10:00:00,contract draft,2348119691547,R4,wamid.L220.14,2026-11-12 18:00:00,I will revert on the contract draft Monday by 10am.,pending
+rep,2026-11-06 16:00:00,call,2348139551500,R3,wamid.L237.05,2026-10-30 19:07:00,"Abeg call me Friday 4pm, I go dey office.",kept
+rep,2026-11-05 12:00:00,call,2348138301901,R2,wamid.L062.05,2026-10-31 15:05:00,On Thursday at 12pm works for me.,kept
+rep,2026-11-09 15:00:00,proposal,2348138301901,R2,wamid.L062.10,2026-11-08 21:28:00,I go send the proposal tomorrow 3pm.,overdue
+rep,2026-11-18 11:00:00,contract draft,2348138301901,R2,wamid.L062.12,2026-11-11 23:00:00,Reach out to me on Wednesday at 11:00am about the contract draft.,kept
+rep,2026-11-05 09:00:00,call,2348195632232,R3,wamid.L093.05,2026-10-31 19:58:00,Let's talk first thing Thursday.,kept
+rep,2026-11-02 09:00:00,call,2348119917090,R4,wamid.L148.05,2026-11-01 14:32:00,Tomorrow morning works for me.,kept
+rep,2026-11-12 11:00:00,sla document,2348119917090,R4,wamid.L148.12,2026-11-08 11:20:00,Noted. I'll send the SLA document Thursday 11 a.m..,kept
+client,2026-11-18 09:00:00,site visit,2348119917090,R4,wamid.L148.14,2026-11-13 14:00:00,Let me discuss the site visit with my COO and get back to you first thing Wednesday.,pending
+rep,2026-11-04 09:00:00,call,2348127526568,R4,wamid.L100.05,2026-11-02 03:14:00,Wednesday morning works for me.,kept
+rep,2026-11-09 09:00:00,contract draft,2348127526568,R4,wamid.L100.10,2026-11-08 02:13:00,"Okay, I'll get back to you with the contract draft first thing tomorrow.",overdue
+rep,2026-11-16 09:00:00,proposal,2348127526568,R4,wamid.L100.11,2026-11-09 20:00:00,Please call me Monday morning so we close the proposal.,pending
+rep,2026-11-05 17:00:00,call,2348119220946,R3,wamid.L213.05,2026-11-02 23:03:00,Let's talk by Thursday.,kept
+rep,2026-11-05 09:00:00,call,2348149743613,R6,wamid.L144.05,2026-11-02 20:59:00,Let's talk Thursday morning.,kept
+rep,2026-11-09 15:00:00,site visit,2348149743613,R6,wamid.L144.12,2026-11-08 02:11:00,"Okay, I'll get back to you with the site visit tomorrow by 3:00pm.",kept
+rep,2026-11-13 09:00:00,site visit,2348149743613,R6,wamid.L144.14,2026-11-10 19:00:00,Reach out to me Friday by 9am about the site visit.,kept
+rep,2026-11-10 17:00:00,call,2348150826115,R5,wamid.L191.05,2026-11-03 00:42:00,"Abeg call me by Tuesday, I go dey office.",kept
+rep,2026-11-09 10:00:00,call,2348158802712,R3,wamid.L081.05,2026-11-03 15:29:00,"Abeg call me early next week, I go dey office.",kept
+rep,2026-11-04 09:00:00,call,2348119399513,R4,wamid.L274.05,2026-11-03 12:46:00,Let's talk tomorrow morning.,kept
+rep,2026-11-05 09:00:00,call,2348160283167,R6,wamid.L114.05,2026-11-03 14:11:00,"Abeg call me Thursday 9am, I go dey office.",kept
+rep,2026-11-04 12:00:00,call,2348121444053,R3,wamid.L243.05,2026-11-03 20:09:00,Let's talk on Wednesday at 12:00pm.,kept
+rep,2026-11-10 09:00:00,contract draft,2348121444053,R3,wamid.L243.12,2026-11-08 11:49:00,Noted. I'll send the contract draft first thing Tuesday.,overdue
+client,2026-11-16 10:00:00,site visit,2348121444053,R3,wamid.L243.13,2026-11-11 00:00:00,I will revert on the site visit early next week.,pending
+rep,2026-11-09 15:00:00,call,2348145198462,R4,wamid.L226.05,2026-11-03 17:25:00,"Abeg call me Monday 3 p.m., I go dey office.",kept
+rep,2026-11-17 17:00:00,sla document,2348145198462,R4,wamid.L226.10,2026-11-14 23:10:00,I go send the SLA document by Tuesday.,pending
+rep,2026-11-06 09:00:00,call,2348196095006,R1,wamid.L097.05,2026-11-03 23:20:00,Let's talk Friday morning.,kept
+rep,2026-11-06 17:00:00,call,2348186220631,R3,wamid.L123.05,2026-11-04 03:56:00,Latest Friday works for me.,kept
+rep,2026-11-13 09:00:00,site visit,2348186220631,R3,wamid.L123.12,2026-11-10 03:00:00,Noted. I'll send the site visit first thing Friday.,overdue
+client,2026-11-18 17:00:00,sla document,2348186220631,R3,wamid.L123.13,2026-11-14 20:00:00,I will revert on the SLA document by Wednesday.,pending
+rep,2026-11-05 11:00:00,call,2348121051893,R6,wamid.L060.05,2026-11-04 15:49:00,"Abeg call me on Thursday at 11am, I go dey office.",kept
+rep,2026-11-13 17:00:00,sla document,2348121051893,R6,wamid.L060.12,2026-11-10 00:09:00,I go send the SLA document by end of week.,overdue
+rep,2026-11-15 09:00:00,pricing,2348121051893,R6,wamid.L060.13,2026-11-14 07:00:00,Reach out to me first thing tomorrow about the pricing.,kept
+rep,2026-11-12 12:00:00,call,2348136407510,R6,wamid.L282.05,2026-11-05 19:04:00,Call me Thursday by 12 p.m..,kept
+rep,2026-11-09 09:00:00,call,2348126384685,R6,wamid.L120.05,2026-11-05 23:58:00,"Abeg call me first thing Monday, I go dey office.",kept
+rep,2026-11-16 17:00:00,contract draft,2348126384685,R6,wamid.L120.10,2026-11-13 10:51:00,Noted. I'll send the contract draft latest Monday.,pending
+rep,2026-11-07 09:00:00,call,2348171506990,R4,wamid.L130.05,2026-11-06 04:37:00,Tomorrow at 9:00am works for me.,kept
+rep,2026-11-13 17:00:00,contract draft,2348171506990,R4,wamid.L130.12,2026-11-12 14:50:00,Noted. I'll send the contract draft by Friday.,kept
+rep,2026-11-19 09:00:00,proposal,2348171506990,R4,wamid.L130.14,2026-11-15 14:00:00,Please call me first thing Thursday so we close the proposal.,pending
+rep,2026-11-13 17:00:00,call,2348158877523,R3,wamid.L177.05,2026-11-06 16:17:00,Let's talk by Friday.,kept
+rep,2026-11-09 10:00:00,call,2348157850314,R6,wamid.L018.05,2026-11-07 23:21:00,Call me Monday 10am.,kept
+rep,2026-11-16 10:00:00,sla document,2348157850314,R6,wamid.L018.10,2026-11-13 15:46:00,"Okay, I'll get back to you with the SLA document early next week.",pending
+rep,2026-11-09 14:00:00,call,2348138213003,R6,wamid.L072.05,2026-11-08 00:36:00,Call me Monday 2pm.,kept
+rep,2026-11-13 09:00:00,site visit,2348138213003,R6,wamid.L072.10,2026-11-12 20:49:00,"Okay, I'll get back to you with the site visit first thing tomorrow.",kept
+rep,2026-11-17 12:00:00,proposal,2348138213003,R6,wamid.L072.12,2026-11-14 03:00:00,Reach out to me Tuesday 12pm about the proposal.,pending
+rep,2026-11-13 17:00:00,call,2348181586801,R4,wamid.L142.05,2026-11-08 21:12:00,Let's talk before Friday.,kept
+rep,2026-11-13 17:00:00,call,2348155688844,R6,wamid.L024.05,2026-11-09 14:58:00,Let's talk before weekend.,kept
+rep,2026-11-16 10:00:00,site visit,2348155688844,R6,wamid.L024.10,2026-11-15 19:21:00,Noted. I'll send the site visit early next week.,kept
+rep,2026-11-16 10:00:00,call,2348130364349,R2,wamid.L170.05,2026-11-09 19:13:00,Call me next week.,pending
+rep,2026-11-13 17:00:00,call,2348130692503,R6,wamid.L048.05,2026-11-09 21:15:00,Call me by end of week.,kept
+rep,2026-11-11 14:00:00,call,2348165348965,R5,wamid.L251.05,2026-11-10 04:03:00,Call me tomorrow by 2pm.,kept
+rep,2026-11-20 09:00:00,site visit,2348165348965,R5,wamid.L251.10,2026-11-15 00:54:00,"Okay, I'll get back to you with the site visit Friday by 9:00am.",pending
+rep,2026-11-11 11:00:00,call,2348192209062,R2,wamid.L086.05,2026-11-10 22:23:00,Call me tomorrow by 11am.,kept
+rep,2026-11-16 17:00:00,call,2348189238401,R5,wamid.L281.05,2026-11-11 16:08:00,"Abeg call me by Monday, I go dey office.",pending
+rep,2026-11-16 14:00:00,call,2348159629342,R2,wamid.L290.05,2026-11-11 23:58:00,Call me Monday by 2 o'clock.,pending
+rep,2026-11-12 10:00:00,call,2348143832038,R4,wamid.L202.05,2026-11-11 23:24:00,Call me tomorrow by 10am.,kept
+rep,2026-11-16 09:00:00,site visit,2348143832038,R4,wamid.L202.10,2026-11-15 14:49:00,Noted. I'll send the site visit first thing tomorrow.,pending
+rep,2026-11-16 10:00:00,call,2348152167946,R6,wamid.L054.05,2026-11-12 00:38:00,"Abeg call me next week, I go dey office.",pending
+rep,2026-11-18 17:00:00,call,2348148813171,R6,wamid.L102.05,2026-11-12 23:09:00,Before Wednesday works for me.,pending
+rep,2026-11-18 12:00:00,call,2348145618582,R4,wamid.L262.05,2026-11-13 00:20:00,Let's talk on Wednesday at 12pm.,pending
+rep,2026-11-14 12:00:00,call,2348120186988,R4,wamid.L184.05,2026-11-13 17:08:00,"Abeg call me tomorrow by 12 p.m., I go dey office.",kept

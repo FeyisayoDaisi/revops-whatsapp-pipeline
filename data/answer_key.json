@@ -1,0 +1,10378 @@
+[
+ {
+  "lead_id": "L001",
+  "rep": "R1",
+  "archetype": "serious",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-05",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L001.05",
+    "owner": "rep",
+    "due": "2026-10-02T09:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L002",
+  "rep": "R2",
+  "archetype": "too_small",
+  "stage": "new",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-04",
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L003",
+  "rep": "R3",
+  "archetype": "serious",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Mrs Abubakar of Halden Foods"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L003.05",
+    "owner": "rep",
+    "due": "2026-09-24T16:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L004",
+  "rep": "R4",
+  "archetype": "serious",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L004.05",
+    "owner": "rep",
+    "due": "2026-08-17T10:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L005",
+  "rep": "R5",
+  "archetype": "maybe_later",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L005.05",
+    "owner": "rep",
+    "due": "2026-08-17T10:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L006",
+  "rep": "R6",
+  "archetype": "serious",
+  "stage": "lost",
+  "source": {
+   "channel": "organic",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L006.05",
+    "owner": "rep",
+    "due": "2026-09-02T17:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L006.10",
+    "owner": "rep",
+    "due": "2026-09-10T17:00",
+    "topic": "pricing",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L006.12",
+    "owner": "client",
+    "due": "2026-09-11T17:00",
+    "topic": "revised quote",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L006.08",
+    "value": 4200000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L006.09",
+   "name": "Mr Ogunleye",
+   "role": "Head of Admin"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L007",
+  "rep": "R1",
+  "archetype": "serious",
+  "stage": "lost",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Dr Suleiman of Kestrel Energy"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L007.05",
+    "owner": "rep",
+    "due": "2026-08-20T15:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L007.10",
+    "owner": "rep",
+    "due": "2026-08-28T09:00",
+    "topic": "proposal",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L007.12",
+    "owner": "rep",
+    "due": "2026-08-30T09:00",
+    "topic": "pricing",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L007.08",
+    "value": 16700000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L007.09",
+   "name": "Dr Adebayo",
+   "role": "Head of Admin"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L008",
+  "rep": "R2",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L008.05",
+    "owner": "rep",
+    "due": "2026-09-07T15:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L008.12",
+    "owner": "rep",
+    "due": "2026-09-17T09:00",
+    "topic": "site visit",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L008.14",
+    "owner": "client",
+    "due": "2026-09-19T15:00",
+    "topic": "SLA document",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L008.08",
+    "value": 13900000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L008.09",
+   "name": "Mr Nwachukwu",
+   "role": "COO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L008.11",
+    "name": "Tolu Ogunleye",
+    "phone": "2348056921777"
+   }
+  ]
+ },
+ {
+  "lead_id": "L009",
+  "rep": "R3",
+  "archetype": "serious",
+  "stage": "lost",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L009.05",
+    "owner": "rep",
+    "due": "2026-09-17T11:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L009.12",
+    "owner": "rep",
+    "due": "2026-09-23T16:00",
+    "topic": "revised quote",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L009.13",
+    "owner": "client",
+    "due": "2026-09-25T09:00",
+    "topic": "site visit",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L009.08",
+    "value": 23000000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L009.09",
+   "name": "Mrs Lawal",
+   "role": "MD"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L009.11",
+    "name": "Chioma Oyelaran",
+    "phone": "2348027793442"
+   }
+  ]
+ },
+ {
+  "lead_id": "L010",
+  "rep": "R4",
+  "archetype": "too_small",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L011",
+  "rep": "R5",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L011.05",
+    "owner": "rep",
+    "due": "2026-09-07T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L011.12",
+    "owner": "rep",
+    "due": "2026-09-14T16:00",
+    "topic": "SLA document",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L011.14",
+    "owner": "rep",
+    "due": "2026-09-22T17:00",
+    "topic": "site visit",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L011.08",
+    "value": 9700000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L011.09",
+   "name": "Mrs Okonkwo",
+   "role": "CFO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L011.11",
+    "name": "Kelechi Ibekwe",
+    "phone": "2348017478044"
+   }
+  ]
+ },
+ {
+  "lead_id": "L012",
+  "rep": "R6",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L013",
+  "rep": "R1",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-01",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L013.05",
+    "owner": "rep",
+    "due": "2026-08-31T10:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L013.12",
+    "owner": "rep",
+    "due": "2026-09-05T14:00",
+    "topic": "proposal",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L013.13",
+    "owner": "rep",
+    "due": "2026-09-07T12:00",
+    "topic": "proposal",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L013.08",
+    "value": 13800000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L013.09",
+   "name": "Mr Nwachukwu",
+   "role": "Head of Admin"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L013.11",
+    "name": "Aisha Ogunleye",
+    "phone": "2348097596537"
+   }
+  ]
+ },
+ {
+  "lead_id": "L014",
+  "rep": "R2",
+  "archetype": "serious",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "organic",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L014.05",
+    "owner": "rep",
+    "due": "2026-08-27T16:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L015",
+  "rep": "R3",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L015.05",
+    "owner": "rep",
+    "due": "2026-08-31T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L015.12",
+    "owner": "rep",
+    "due": "2026-09-08T17:00",
+    "topic": "proposal",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L015.14",
+    "owner": "client",
+    "due": "2026-09-14T14:00",
+    "topic": "revised quote",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L015.08",
+    "value": 8500000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L015.09",
+   "name": "Dr Afolabi",
+   "role": "COO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L015.11",
+    "name": "Yusuf Adebayo",
+    "phone": "2348046612873"
+   }
+  ]
+ },
+ {
+  "lead_id": "L016",
+  "rep": "R4",
+  "archetype": "price_shopper",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "organic",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L016.05",
+    "owner": "rep",
+    "due": "2026-10-27T16:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L017",
+  "rep": "R5",
+  "archetype": "maybe_later",
+  "stage": "new",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Mrs Abubakar of Halden Foods"
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L018",
+  "rep": "R6",
+  "archetype": "maybe_later",
+  "stage": "negotiation",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L018.05",
+    "owner": "rep",
+    "due": "2026-11-09T10:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L018.10",
+    "owner": "rep",
+    "due": "2026-11-16T10:00",
+    "topic": "SLA document",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L018.08",
+    "value": 22600000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L018.09",
+   "name": "Dr Balogun",
+   "role": "COO"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L019",
+  "rep": "R1",
+  "archetype": "too_small",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L020",
+  "rep": "R2",
+  "archetype": "too_small",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L021",
+  "rep": "R3",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Dr Suleiman of Kestrel Energy"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L021.05",
+    "owner": "rep",
+    "due": "2026-10-29T17:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L021.10",
+    "owner": "rep",
+    "due": "2026-11-09T12:00",
+    "topic": "proposal",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L021.12",
+    "owner": "client",
+    "due": "2026-11-13T17:00",
+    "topic": "contract draft",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L021.08",
+    "value": 16500000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L021.09",
+   "name": "Mrs Okafor",
+   "role": "MD"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L022",
+  "rep": "R4",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L023",
+  "rep": "R5",
+  "archetype": "serious",
+  "stage": "lost",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-01",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L023.05",
+    "owner": "rep",
+    "due": "2026-09-25T17:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L023.12",
+    "owner": "rep",
+    "due": "2026-09-30T14:00",
+    "topic": "revised quote",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L023.14",
+    "owner": "rep",
+    "due": "2026-10-07T10:00",
+    "topic": "contract draft",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L023.08",
+    "value": 6700000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L023.09",
+   "name": "Dr Suleiman",
+   "role": "CFO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L023.11",
+    "name": "Dapo Adebayo",
+    "phone": "2348058125391"
+   }
+  ]
+ },
+ {
+  "lead_id": "L024",
+  "rep": "R6",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-03",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L024.05",
+    "owner": "rep",
+    "due": "2026-11-13T17:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L024.10",
+    "owner": "rep",
+    "due": "2026-11-16T10:00",
+    "topic": "site visit",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L024.08",
+    "value": 16200000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L024.09",
+   "name": "Mrs Suleiman",
+   "role": "COO"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L025",
+  "rep": "R1",
+  "archetype": "serious",
+  "stage": "qualified",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-01",
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L026",
+  "rep": "R2",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L027",
+  "rep": "R3",
+  "archetype": "serious",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L027.05",
+    "owner": "rep",
+    "due": "2026-10-20T09:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L028",
+  "rep": "R4",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L028.05",
+    "owner": "rep",
+    "due": "2026-09-24T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L028.12",
+    "owner": "rep",
+    "due": "2026-09-29T09:00",
+    "topic": "SLA document",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L028.14",
+    "owner": "client",
+    "due": "2026-10-02T15:00",
+    "topic": "pricing",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L028.08",
+    "value": 25600000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L028.09",
+   "name": "Mr Balogun",
+   "role": "Head of Admin"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L028.11",
+    "name": "Femi Eze",
+    "phone": "2348033727161"
+   }
+  ]
+ },
+ {
+  "lead_id": "L029",
+  "rep": "R5",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L030",
+  "rep": "R6",
+  "archetype": "too_small",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L031",
+  "rep": "R1",
+  "archetype": "too_small",
+  "stage": "won",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Mr Okafor of Kestrel Energy"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L031.05",
+    "owner": "rep",
+    "due": "2026-09-24T10:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L031.12",
+    "owner": "rep",
+    "due": "2026-10-01T17:00",
+    "topic": "contract draft",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L031.14",
+    "owner": "client",
+    "due": "2026-10-07T11:00",
+    "topic": "contract draft",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L031.08",
+    "value": 2900000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L031.09",
+   "name": "Mr Adebayo",
+   "role": "Head of Admin"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L031.11",
+    "name": "Babatunde Balogun",
+    "phone": "2348090445866"
+   }
+  ]
+ },
+ {
+  "lead_id": "L032",
+  "rep": "R2",
+  "archetype": "serious",
+  "stage": "qualified",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Dr Okafor of Kestrel Energy"
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L033",
+  "rep": "R3",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Mr Okafor of Kestrel Energy"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L033.05",
+    "owner": "rep",
+    "due": "2026-08-24T10:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L033.10",
+    "owner": "rep",
+    "due": "2026-09-02T17:00",
+    "topic": "pricing",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L033.12",
+    "owner": "client",
+    "due": "2026-09-05T16:00",
+    "topic": "revised quote",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L033.08",
+    "value": 6300000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L033.09",
+   "name": "Mrs Eze",
+   "role": "COO"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L034",
+  "rep": "R4",
+  "archetype": "price_shopper",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L034.05",
+    "owner": "rep",
+    "due": "2026-10-26T17:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L035",
+  "rep": "R5",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Mr Okafor of Kestrel Energy"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L035.05",
+    "owner": "rep",
+    "due": "2026-10-19T12:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L035.10",
+    "owner": "rep",
+    "due": "2026-10-28T09:00",
+    "topic": "SLA document",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L035.12",
+    "owner": "rep",
+    "due": "2026-10-30T09:00",
+    "topic": "pricing",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L035.08",
+    "value": 39700000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L035.09",
+   "name": "Mr Eze",
+   "role": "MD"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L036",
+  "rep": "R6",
+  "archetype": "price_shopper",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L036.05",
+    "owner": "rep",
+    "due": "2026-09-15T10:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L037",
+  "rep": "R1",
+  "archetype": "serious",
+  "stage": "lost",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-01",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L037.05",
+    "owner": "rep",
+    "due": "2026-10-15T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L037.12",
+    "owner": "rep",
+    "due": "2026-10-26T10:00",
+    "topic": "pricing",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L037.14",
+    "owner": "rep",
+    "due": "2026-11-03T17:00",
+    "topic": "proposal",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L037.08",
+    "value": 24200000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L037.09",
+   "name": "Dr Ibekwe",
+   "role": "COO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L037.11",
+    "name": "Musa Eze",
+    "phone": "2348028492255"
+   }
+  ]
+ },
+ {
+  "lead_id": "L038",
+  "rep": "R2",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-01",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L038.05",
+    "owner": "rep",
+    "due": "2026-09-26T16:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L038.12",
+    "owner": "rep",
+    "due": "2026-10-05T17:00",
+    "topic": "site visit",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L038.13",
+    "owner": "rep",
+    "due": "2026-10-12T12:00",
+    "topic": "contract draft",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L038.08",
+    "value": 31700000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L038.09",
+   "name": "Mrs Suleiman",
+   "role": "CFO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L038.11",
+    "name": "Babatunde Ajayi",
+    "phone": "2348026360664"
+   }
+  ]
+ },
+ {
+  "lead_id": "L039",
+  "rep": "R3",
+  "archetype": "too_small",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-01",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L039.05",
+    "owner": "rep",
+    "due": "2026-08-17T17:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L040",
+  "rep": "R4",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "organic",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L040.05",
+    "owner": "rep",
+    "due": "2026-10-13T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L040.12",
+    "owner": "rep",
+    "due": "2026-10-26T10:00",
+    "topic": "proposal",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L040.14",
+    "owner": "rep",
+    "due": "2026-10-29T17:00",
+    "topic": "contract draft",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L040.08",
+    "value": 17800000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L040.09",
+   "name": "Mrs Bello",
+   "role": "COO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L040.11",
+    "name": "Ibrahim Balogun",
+    "phone": "2348078186910"
+   }
+  ]
+ },
+ {
+  "lead_id": "L041",
+  "rep": "R5",
+  "archetype": "maybe_later",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L042",
+  "rep": "R6",
+  "archetype": "price_shopper",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-03",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L042.05",
+    "owner": "rep",
+    "due": "2026-09-15T15:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L043",
+  "rep": "R1",
+  "archetype": "too_small",
+  "stage": "new",
+  "source": {
+   "channel": "organic",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L044",
+  "rep": "R2",
+  "archetype": "maybe_later",
+  "stage": "won",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L044.05",
+    "owner": "rep",
+    "due": "2026-10-05T10:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L044.12",
+    "owner": "rep",
+    "due": "2026-10-12T10:00",
+    "topic": "SLA document",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L044.14",
+    "owner": "rep",
+    "due": "2026-10-15T10:00",
+    "topic": "proposal",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L044.08",
+    "value": 29700000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L044.09",
+   "name": "Mr Oyelaran",
+   "role": "Head of Admin"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L044.11",
+    "name": "Uche Eze",
+    "phone": "2348057908126"
+   }
+  ]
+ },
+ {
+  "lead_id": "L045",
+  "rep": "R3",
+  "archetype": "serious",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L045.05",
+    "owner": "rep",
+    "due": "2026-11-04T11:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L046",
+  "rep": "R4",
+  "archetype": "serious",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L046.05",
+    "owner": "rep",
+    "due": "2026-09-14T10:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L047",
+  "rep": "R5",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Mrs Abubakar of Halden Foods"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L047.05",
+    "owner": "rep",
+    "due": "2026-10-26T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L047.12",
+    "owner": "rep",
+    "due": "2026-11-06T09:00",
+    "topic": "contract draft",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L047.13",
+    "owner": "client",
+    "due": "2026-11-11T17:00",
+    "topic": "revised quote",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L047.08",
+    "value": 30500000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L047.09",
+   "name": "Dr Adebayo",
+   "role": "Head of Admin"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L047.11",
+    "name": "Adaeze Suleiman",
+    "phone": "2348072068849"
+   }
+  ]
+ },
+ {
+  "lead_id": "L048",
+  "rep": "R6",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Mr Eze of Mirelle Hotels"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L048.05",
+    "owner": "rep",
+    "due": "2026-11-13T17:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L048.08",
+    "value": 45300000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L048.09",
+   "name": "Dr Ogunleye",
+   "role": "CFO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L048.11",
+    "name": "Bisi Suleiman",
+    "phone": "2348044109225"
+   }
+  ]
+ },
+ {
+  "lead_id": "L049",
+  "rep": "R1",
+  "archetype": "price_shopper",
+  "stage": "negotiation",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L049.05",
+    "owner": "rep",
+    "due": "2026-09-26T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L049.10",
+    "owner": "rep",
+    "due": "2026-10-02T17:00",
+    "topic": "SLA document",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L049.12",
+    "owner": "client",
+    "due": "2026-10-05T09:00",
+    "topic": "revised quote",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L049.08",
+    "value": 16200000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L049.09",
+   "name": "Dr Nwachukwu",
+   "role": "COO"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L050",
+  "rep": "R2",
+  "archetype": "maybe_later",
+  "stage": "new",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-05",
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L051",
+  "rep": "R3",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L052",
+  "rep": "R4",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-04",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L052.05",
+    "owner": "rep",
+    "due": "2026-10-01T17:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L052.12",
+    "owner": "rep",
+    "due": "2026-10-09T11:00",
+    "topic": "contract draft",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L052.13",
+    "owner": "client",
+    "due": "2026-10-16T17:00",
+    "topic": "pricing",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L052.08",
+    "value": 12200000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L052.09",
+   "name": "Mr Oyelaran",
+   "role": "Head of Admin"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L052.11",
+    "name": "Bisi Nwachukwu",
+    "phone": "2348073839180"
+   }
+  ]
+ },
+ {
+  "lead_id": "L053",
+  "rep": "R5",
+  "archetype": "maybe_later",
+  "stage": "negotiation",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L053.05",
+    "owner": "rep",
+    "due": "2026-10-18T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L053.12",
+    "owner": "rep",
+    "due": "2026-10-23T11:00",
+    "topic": "pricing",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L053.14",
+    "owner": "client",
+    "due": "2026-10-26T09:00",
+    "topic": "site visit",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L053.08",
+    "value": 27400000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L053.09",
+   "name": "Mrs Balogun",
+   "role": "MD"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L053.11",
+    "name": "Tolu Ajayi",
+    "phone": "2348014407552"
+   }
+  ]
+ },
+ {
+  "lead_id": "L054",
+  "rep": "R6",
+  "archetype": "price_shopper",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-04",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L054.05",
+    "owner": "rep",
+    "due": "2026-11-16T10:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L055",
+  "rep": "R1",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L055.05",
+    "owner": "rep",
+    "due": "2026-09-07T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L055.12",
+    "owner": "rep",
+    "due": "2026-09-14T10:00",
+    "topic": "contract draft",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L055.13",
+    "owner": "rep",
+    "due": "2026-09-17T09:00",
+    "topic": "revised quote",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L055.08",
+    "value": 16399999,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L055.09",
+   "name": "Mrs Adebayo",
+   "role": "MD"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L055.11",
+    "name": "Nneka Bello",
+    "phone": "2348011820319"
+   }
+  ]
+ },
+ {
+  "lead_id": "L056",
+  "rep": "R2",
+  "archetype": "maybe_later",
+  "stage": "lost",
+  "source": {
+   "channel": "organic",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L056.05",
+    "owner": "rep",
+    "due": "2026-08-30T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L056.10",
+    "owner": "rep",
+    "due": "2026-09-03T09:00",
+    "topic": "pricing",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L056.12",
+    "owner": "client",
+    "due": "2026-09-05T10:00",
+    "topic": "contract draft",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L056.08",
+    "value": 12700000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L056.09",
+   "name": "Dr Ibekwe",
+   "role": "MD"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L057",
+  "rep": "R3",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L058",
+  "rep": "R4",
+  "archetype": "maybe_later",
+  "stage": "lost",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-03",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L058.05",
+    "owner": "rep",
+    "due": "2026-08-10T16:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L058.10",
+    "owner": "rep",
+    "due": "2026-08-14T15:00",
+    "topic": "pricing",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L058.11",
+    "owner": "rep",
+    "due": "2026-08-17T09:00",
+    "topic": "contract draft",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L058.08",
+    "value": 12900000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L058.09",
+   "name": "Dr Ajayi",
+   "role": "COO"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L059",
+  "rep": "R5",
+  "archetype": "price_shopper",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-02",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L059.05",
+    "owner": "rep",
+    "due": "2026-09-10T15:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L060",
+  "rep": "R6",
+  "archetype": "maybe_later",
+  "stage": "negotiation",
+  "source": {
+   "channel": "organic",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L060.05",
+    "owner": "rep",
+    "due": "2026-11-05T11:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L060.12",
+    "owner": "rep",
+    "due": "2026-11-13T17:00",
+    "topic": "SLA document",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L060.13",
+    "owner": "rep",
+    "due": "2026-11-15T09:00",
+    "topic": "pricing",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L060.08",
+    "value": 15900000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L060.09",
+   "name": "Mr Uzor",
+   "role": "CFO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L060.11",
+    "name": "Ngozi Afolabi",
+    "phone": "2348052380668"
+   }
+  ]
+ },
+ {
+  "lead_id": "L061",
+  "rep": "R1",
+  "archetype": "serious",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L061.05",
+    "owner": "rep",
+    "due": "2026-08-24T08:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L062",
+  "rep": "R2",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Mr Abubakar of Mirelle Hotels"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L062.05",
+    "owner": "rep",
+    "due": "2026-11-05T12:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L062.10",
+    "owner": "rep",
+    "due": "2026-11-09T15:00",
+    "topic": "proposal",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L062.12",
+    "owner": "rep",
+    "due": "2026-11-18T11:00",
+    "topic": "contract draft"
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L062.08",
+    "value": 20600000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L062.09",
+   "name": "Mrs Nwachukwu",
+   "role": "MD"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L063",
+  "rep": "R3",
+  "archetype": "too_small",
+  "stage": "lost",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L063.05",
+    "owner": "rep",
+    "due": "2026-08-07T15:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L063.12",
+    "owner": "rep",
+    "due": "2026-08-13T16:00",
+    "topic": "proposal",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L063.14",
+    "owner": "rep",
+    "due": "2026-08-18T16:00",
+    "topic": "SLA document",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L063.08",
+    "value": 2800000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L063.09",
+   "name": "Mr Ajayi",
+   "role": "Head of Admin"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L063.11",
+    "name": "Tolu Okonkwo",
+    "phone": "2348016854143"
+   }
+  ]
+ },
+ {
+  "lead_id": "L064",
+  "rep": "R4",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L064.05",
+    "owner": "rep",
+    "due": "2026-08-13T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L064.12",
+    "owner": "rep",
+    "due": "2026-08-20T17:00",
+    "topic": "revised quote",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L064.14",
+    "owner": "rep",
+    "due": "2026-08-27T14:00",
+    "topic": "proposal",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L064.08",
+    "value": 8300000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L064.09",
+   "name": "Mr Ibekwe",
+   "role": "COO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L064.11",
+    "name": "Chioma Afolabi",
+    "phone": "2348097840711"
+   }
+  ]
+ },
+ {
+  "lead_id": "L065",
+  "rep": "R5",
+  "archetype": "serious",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "organic",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L065.05",
+    "owner": "rep",
+    "due": "2026-09-07T10:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L066",
+  "rep": "R6",
+  "archetype": "maybe_later",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L066.05",
+    "owner": "rep",
+    "due": "2026-10-16T17:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L067",
+  "rep": "R1",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L067.05",
+    "owner": "rep",
+    "due": "2026-09-25T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L067.10",
+    "owner": "rep",
+    "due": "2026-10-02T09:00",
+    "topic": "revised quote",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L067.12",
+    "owner": "client",
+    "due": "2026-10-05T10:00",
+    "topic": "SLA document",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L067.08",
+    "value": 9900000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L067.09",
+   "name": "Dr Chukwu",
+   "role": "MD"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L068",
+  "rep": "R2",
+  "archetype": "maybe_later",
+  "stage": "negotiation",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L068.05",
+    "owner": "rep",
+    "due": "2026-09-21T10:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L068.10",
+    "owner": "rep",
+    "due": "2026-09-27T12:00",
+    "topic": "revised quote",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L068.12",
+    "owner": "rep",
+    "due": "2026-09-29T16:00",
+    "topic": "proposal",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L068.08",
+    "value": 30100000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L068.09",
+   "name": "Mrs Adebayo",
+   "role": "Head of Admin"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L069",
+  "rep": "R3",
+  "archetype": "too_small",
+  "stage": "new",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-02",
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L070",
+  "rep": "R4",
+  "archetype": "serious",
+  "stage": "lost",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L070.05",
+    "owner": "rep",
+    "due": "2026-08-14T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L070.10",
+    "owner": "rep",
+    "due": "2026-08-19T09:00",
+    "topic": "pricing",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L070.12",
+    "owner": "rep",
+    "due": "2026-08-21T17:00",
+    "topic": "site visit",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L070.08",
+    "value": 12400000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L070.09",
+   "name": "Mrs Ogunleye",
+   "role": "MD"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L071",
+  "rep": "R5",
+  "archetype": "serious",
+  "stage": "lost",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L071.05",
+    "owner": "rep",
+    "due": "2026-09-12T16:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L071.12",
+    "owner": "rep",
+    "due": "2026-09-21T11:00",
+    "topic": "SLA document",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L071.14",
+    "owner": "client",
+    "due": "2026-09-25T14:00",
+    "topic": "contract draft",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L071.08",
+    "value": 26000000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L071.09",
+   "name": "Mr Ogunleye",
+   "role": "COO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L071.11",
+    "name": "Uche Okafor",
+    "phone": "2348050294545"
+   }
+  ]
+ },
+ {
+  "lead_id": "L072",
+  "rep": "R6",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Mr Eze of Mirelle Hotels"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L072.05",
+    "owner": "rep",
+    "due": "2026-11-09T14:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L072.10",
+    "owner": "rep",
+    "due": "2026-11-13T09:00",
+    "topic": "site visit",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L072.12",
+    "owner": "rep",
+    "due": "2026-11-17T12:00",
+    "topic": "proposal"
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L072.08",
+    "value": 19800000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L072.09",
+   "name": "Mrs Danjuma",
+   "role": "Head of Admin"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L073",
+  "rep": "R1",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-03",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L073.05",
+    "owner": "rep",
+    "due": "2026-09-07T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L073.12",
+    "owner": "rep",
+    "due": "2026-09-16T12:00",
+    "topic": "contract draft",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L073.14",
+    "owner": "client",
+    "due": "2026-09-21T09:00",
+    "topic": "revised quote",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L073.08",
+    "value": 39000000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L073.09",
+   "name": "Dr Okonkwo",
+   "role": "MD"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L073.11",
+    "name": "Femi Eze",
+    "phone": "2348035014149"
+   }
+  ]
+ },
+ {
+  "lead_id": "L074",
+  "rep": "R2",
+  "archetype": "serious",
+  "stage": "lost",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Mrs Adebayo of Corban Logistics"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L074.05",
+    "owner": "rep",
+    "due": "2026-08-10T10:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L074.10",
+    "owner": "rep",
+    "due": "2026-08-20T17:00",
+    "topic": "SLA document",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L074.12",
+    "owner": "client",
+    "due": "2026-08-24T09:00",
+    "topic": "site visit",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L074.08",
+    "value": 29500000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L074.09",
+   "name": "Mr Danjuma",
+   "role": "COO"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L075",
+  "rep": "R3",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-04",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L075.05",
+    "owner": "rep",
+    "due": "2026-09-14T10:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L075.10",
+    "owner": "rep",
+    "due": "2026-09-18T15:00",
+    "topic": "contract draft",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L075.12",
+    "owner": "rep",
+    "due": "2026-09-22T08:00",
+    "topic": "SLA document",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L075.08",
+    "value": 14700000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L075.09",
+   "name": "Mr Oyelaran",
+   "role": "COO"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L076",
+  "rep": "R4",
+  "archetype": "too_small",
+  "stage": "lost",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L076.05",
+    "owner": "rep",
+    "due": "2026-09-17T17:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L076.10",
+    "owner": "rep",
+    "due": "2026-09-25T10:00",
+    "topic": "pricing",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L076.12",
+    "owner": "rep",
+    "due": "2026-09-28T10:00",
+    "topic": "proposal",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L076.08",
+    "value": 2500000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L076.09",
+   "name": "Mrs Ibekwe",
+   "role": "COO"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L077",
+  "rep": "R5",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L077.05",
+    "owner": "rep",
+    "due": "2026-10-28T11:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L077.12",
+    "owner": "rep",
+    "due": "2026-11-04T16:00",
+    "topic": "pricing",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L077.13",
+    "owner": "client",
+    "due": "2026-11-09T09:00",
+    "topic": "SLA document",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L077.08",
+    "value": 9500000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L077.09",
+   "name": "Dr Lawal",
+   "role": "Head of Admin"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L077.11",
+    "name": "Ibrahim Chukwu",
+    "phone": "2348038049746"
+   }
+  ]
+ },
+ {
+  "lead_id": "L078",
+  "rep": "R6",
+  "archetype": "price_shopper",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L078.05",
+    "owner": "rep",
+    "due": "2026-10-15T09:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L079",
+  "rep": "R1",
+  "archetype": "too_small",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L079.05",
+    "owner": "rep",
+    "due": "2026-09-15T17:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L080",
+  "rep": "R2",
+  "archetype": "serious",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L080.05",
+    "owner": "rep",
+    "due": "2026-10-30T14:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L081",
+  "rep": "R3",
+  "archetype": "price_shopper",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L081.05",
+    "owner": "rep",
+    "due": "2026-11-09T10:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L082",
+  "rep": "R4",
+  "archetype": "maybe_later",
+  "stage": "new",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-01",
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L083",
+  "rep": "R5",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L083.05",
+    "owner": "rep",
+    "due": "2026-09-30T16:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L083.10",
+    "owner": "rep",
+    "due": "2026-10-07T11:00",
+    "topic": "SLA document",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L083.12",
+    "owner": "client",
+    "due": "2026-10-15T09:00",
+    "topic": "proposal",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L083.08",
+    "value": 12100000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L083.09",
+   "name": "Mr Ajayi",
+   "role": "Head of Admin"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L084",
+  "rep": "R6",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-01",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L084.05",
+    "owner": "rep",
+    "due": "2026-08-24T14:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L084.10",
+    "owner": "rep",
+    "due": "2026-09-02T09:00",
+    "topic": "pricing",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L084.12",
+    "owner": "rep",
+    "due": "2026-09-10T17:00",
+    "topic": "contract draft",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L084.08",
+    "value": 30400000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L084.09",
+   "name": "Mrs Okonkwo",
+   "role": "COO"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L085",
+  "rep": "R1",
+  "archetype": "too_small",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "organic",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L085.05",
+    "owner": "rep",
+    "due": "2026-08-19T15:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L086",
+  "rep": "R2",
+  "archetype": "price_shopper",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L086.05",
+    "owner": "rep",
+    "due": "2026-11-11T11:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L087",
+  "rep": "R3",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L087.05",
+    "owner": "rep",
+    "due": "2026-09-30T12:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L087.12",
+    "owner": "rep",
+    "due": "2026-10-07T08:00",
+    "topic": "SLA document",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L087.14",
+    "owner": "client",
+    "due": "2026-10-12T17:00",
+    "topic": "revised quote",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L087.08",
+    "value": 17900000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L087.09",
+   "name": "Mr Okonkwo",
+   "role": "MD"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L087.11",
+    "name": "Nneka Danjuma",
+    "phone": "2348080113912"
+   }
+  ]
+ },
+ {
+  "lead_id": "L088",
+  "rep": "R4",
+  "archetype": "maybe_later",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L088.05",
+    "owner": "rep",
+    "due": "2026-09-08T14:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L089",
+  "rep": "R5",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L089.05",
+    "owner": "rep",
+    "due": "2026-09-16T17:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L089.12",
+    "owner": "rep",
+    "due": "2026-09-24T17:00",
+    "topic": "pricing",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L089.14",
+    "owner": "rep",
+    "due": "2026-09-30T17:00",
+    "topic": "site visit",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L089.08",
+    "value": 39200000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L089.09",
+   "name": "Mr Lawal",
+   "role": "COO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L089.11",
+    "name": "Kelechi Danjuma",
+    "phone": "2348016262742"
+   }
+  ]
+ },
+ {
+  "lead_id": "L090",
+  "rep": "R6",
+  "archetype": "serious",
+  "stage": "lost",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L090.05",
+    "owner": "rep",
+    "due": "2026-09-28T10:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L090.12",
+    "owner": "rep",
+    "due": "2026-10-04T09:00",
+    "topic": "site visit",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L090.14",
+    "owner": "rep",
+    "due": "2026-10-09T17:00",
+    "topic": "proposal",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L090.08",
+    "value": 21500000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L090.09",
+   "name": "Dr Bello",
+   "role": "COO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L090.11",
+    "name": "Kunle Uzor",
+    "phone": "2348082852715"
+   }
+  ]
+ },
+ {
+  "lead_id": "L091",
+  "rep": "R1",
+  "archetype": "price_shopper",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L091.05",
+    "owner": "rep",
+    "due": "2026-08-24T12:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L092",
+  "rep": "R2",
+  "archetype": "serious",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Mr Okafor of Kestrel Energy"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L092.05",
+    "owner": "rep",
+    "due": "2026-10-23T17:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L093",
+  "rep": "R3",
+  "archetype": "maybe_later",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-03",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L093.05",
+    "owner": "rep",
+    "due": "2026-11-05T09:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L094",
+  "rep": "R4",
+  "archetype": "maybe_later",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L094.05",
+    "owner": "rep",
+    "due": "2026-08-06T11:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L095",
+  "rep": "R5",
+  "archetype": "maybe_later",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L096",
+  "rep": "R6",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L097",
+  "rep": "R1",
+  "archetype": "maybe_later",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-05",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L097.05",
+    "owner": "rep",
+    "due": "2026-11-06T09:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L098",
+  "rep": "R2",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Mr Eze of Mirelle Hotels"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L098.05",
+    "owner": "rep",
+    "due": "2026-10-28T10:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L098.12",
+    "owner": "rep",
+    "due": "2026-11-02T17:00",
+    "topic": "contract draft",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L098.14",
+    "owner": "rep",
+    "due": "2026-11-09T11:00",
+    "topic": "contract draft",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L098.08",
+    "value": 11100000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L098.09",
+   "name": "Mrs Adebayo",
+   "role": "MD"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L098.11",
+    "name": "Hauwa Eze",
+    "phone": "2348081670635"
+   }
+  ]
+ },
+ {
+  "lead_id": "L099",
+  "rep": "R3",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L100",
+  "rep": "R4",
+  "archetype": "maybe_later",
+  "stage": "negotiation",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-01",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L100.05",
+    "owner": "rep",
+    "due": "2026-11-04T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L100.10",
+    "owner": "rep",
+    "due": "2026-11-09T09:00",
+    "topic": "contract draft",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L100.11",
+    "owner": "rep",
+    "due": "2026-11-16T09:00",
+    "topic": "proposal"
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L100.08",
+    "value": 10500000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L100.09",
+   "name": "Mrs Abubakar",
+   "role": "MD"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L101",
+  "rep": "R5",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L102",
+  "rep": "R6",
+  "archetype": "serious",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L102.05",
+    "owner": "rep",
+    "due": "2026-11-18T17:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L103",
+  "rep": "R1",
+  "archetype": "maybe_later",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L103.05",
+    "owner": "rep",
+    "due": "2026-08-24T10:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L104",
+  "rep": "R2",
+  "archetype": "too_small",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L105",
+  "rep": "R3",
+  "archetype": "serious",
+  "stage": "lost",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Mrs Abubakar of Halden Foods"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L105.05",
+    "owner": "rep",
+    "due": "2026-10-08T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L105.10",
+    "owner": "rep",
+    "due": "2026-10-14T09:00",
+    "topic": "pricing",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L105.12",
+    "owner": "client",
+    "due": "2026-10-19T17:00",
+    "topic": "proposal",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L105.08",
+    "value": 25900000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L105.09",
+   "name": "Mrs Okonkwo",
+   "role": "MD"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L106",
+  "rep": "R4",
+  "archetype": "maybe_later",
+  "stage": "negotiation",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-01",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L106.05",
+    "owner": "rep",
+    "due": "2026-09-22T12:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L106.10",
+    "owner": "rep",
+    "due": "2026-09-28T15:00",
+    "topic": "site visit",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L106.12",
+    "owner": "client",
+    "due": "2026-10-08T17:00",
+    "topic": "pricing",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L106.08",
+    "value": 9500000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L106.09",
+   "name": "Mrs Afolabi",
+   "role": "Head of Admin"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L107",
+  "rep": "R5",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L107.05",
+    "owner": "rep",
+    "due": "2026-10-07T11:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L107.12",
+    "owner": "rep",
+    "due": "2026-10-19T10:00",
+    "topic": "proposal",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L107.14",
+    "owner": "client",
+    "due": "2026-10-22T08:00",
+    "topic": "revised quote",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L107.08",
+    "value": 4900000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L107.09",
+   "name": "Mrs Danjuma",
+   "role": "MD"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L107.11",
+    "name": "Funke Oyelaran",
+    "phone": "2348086447187"
+   }
+  ]
+ },
+ {
+  "lead_id": "L108",
+  "rep": "R6",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L108.05",
+    "owner": "rep",
+    "due": "2026-10-26T10:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L108.12",
+    "owner": "rep",
+    "due": "2026-11-05T10:00",
+    "topic": "site visit",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L108.14",
+    "owner": "rep",
+    "due": "2026-11-09T09:00",
+    "topic": "proposal",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L108.08",
+    "value": 10100000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L108.09",
+   "name": "Dr Okonkwo",
+   "role": "COO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L108.11",
+    "name": "Uche Danjuma",
+    "phone": "2348021000617"
+   }
+  ]
+ },
+ {
+  "lead_id": "L109",
+  "rep": "R1",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L110",
+  "rep": "R2",
+  "archetype": "serious",
+  "stage": "qualified",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-03",
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L111",
+  "rep": "R3",
+  "archetype": "too_small",
+  "stage": "new",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L112",
+  "rep": "R4",
+  "archetype": "maybe_later",
+  "stage": "new",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-03",
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L113",
+  "rep": "R5",
+  "archetype": "serious",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Dr Suleiman of Kestrel Energy"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L113.05",
+    "owner": "rep",
+    "due": "2026-10-22T14:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L114",
+  "rep": "R6",
+  "archetype": "price_shopper",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L114.05",
+    "owner": "rep",
+    "due": "2026-11-05T09:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L115",
+  "rep": "R1",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L115.05",
+    "owner": "rep",
+    "due": "2026-08-06T17:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L115.12",
+    "owner": "rep",
+    "due": "2026-08-13T14:00",
+    "topic": "SLA document",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L115.13",
+    "owner": "client",
+    "due": "2026-08-16T14:00",
+    "topic": "proposal",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L115.08",
+    "value": 17600000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L115.09",
+   "name": "Dr Oyelaran",
+   "role": "COO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L115.11",
+    "name": "Ibrahim Okafor",
+    "phone": "2348045681604"
+   }
+  ]
+ },
+ {
+  "lead_id": "L116",
+  "rep": "R2",
+  "archetype": "maybe_later",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "organic",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L116.05",
+    "owner": "rep",
+    "due": "2026-10-12T10:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L117",
+  "rep": "R3",
+  "archetype": "serious",
+  "stage": "lost",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L117.05",
+    "owner": "rep",
+    "due": "2026-10-01T10:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L117.10",
+    "owner": "rep",
+    "due": "2026-10-12T10:00",
+    "topic": "SLA document",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L117.12",
+    "owner": "client",
+    "due": "2026-10-14T09:00",
+    "topic": "revised quote",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L117.08",
+    "value": 9800000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L117.09",
+   "name": "Mr Danjuma",
+   "role": "MD"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L118",
+  "rep": "R4",
+  "archetype": "maybe_later",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L119",
+  "rep": "R5",
+  "archetype": "maybe_later",
+  "stage": "lost",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L119.05",
+    "owner": "rep",
+    "due": "2026-10-27T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L119.12",
+    "owner": "rep",
+    "due": "2026-11-04T17:00",
+    "topic": "site visit",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L119.14",
+    "owner": "client",
+    "due": "2026-11-10T17:00",
+    "topic": "contract draft",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L119.08",
+    "value": 9500000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L119.09",
+   "name": "Mrs Afolabi",
+   "role": "CFO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L119.11",
+    "name": "Dapo Chukwu",
+    "phone": "2348040383933"
+   }
+  ]
+ },
+ {
+  "lead_id": "L120",
+  "rep": "R6",
+  "archetype": "too_small",
+  "stage": "negotiation",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Mr Okafor of Kestrel Energy"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L120.05",
+    "owner": "rep",
+    "due": "2026-11-09T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L120.10",
+    "owner": "rep",
+    "due": "2026-11-16T17:00",
+    "topic": "contract draft",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L120.08",
+    "value": 4200000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L120.09",
+   "name": "Mrs Danjuma",
+   "role": "CFO"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L121",
+  "rep": "R1",
+  "archetype": "maybe_later",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L122",
+  "rep": "R2",
+  "archetype": "maybe_later",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-05",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L122.05",
+    "owner": "rep",
+    "due": "2026-08-10T17:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L123",
+  "rep": "R3",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-03",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L123.05",
+    "owner": "rep",
+    "due": "2026-11-06T17:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L123.12",
+    "owner": "rep",
+    "due": "2026-11-13T09:00",
+    "topic": "site visit",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L123.13",
+    "owner": "client",
+    "due": "2026-11-18T17:00",
+    "topic": "SLA document"
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L123.08",
+    "value": 13700000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L123.09",
+   "name": "Mr Ibekwe",
+   "role": "CFO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L123.11",
+    "name": "Chioma Okafor",
+    "phone": "2348018618446"
+   }
+  ]
+ },
+ {
+  "lead_id": "L124",
+  "rep": "R4",
+  "archetype": "maybe_later",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Mr Okafor of Kestrel Energy"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L124.05",
+    "owner": "rep",
+    "due": "2026-09-28T17:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L125",
+  "rep": "R5",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Mrs Abubakar of Halden Foods"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L125.05",
+    "owner": "rep",
+    "due": "2026-10-14T17:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L125.10",
+    "owner": "rep",
+    "due": "2026-10-21T09:00",
+    "topic": "SLA document",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L125.12",
+    "owner": "client",
+    "due": "2026-10-26T12:00",
+    "topic": "contract draft",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L125.08",
+    "value": 28500000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L125.09",
+   "name": "Dr Adebayo",
+   "role": "MD"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L126",
+  "rep": "R6",
+  "archetype": "too_small",
+  "stage": "new",
+  "source": {
+   "channel": "organic",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L127",
+  "rep": "R1",
+  "archetype": "price_shopper",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L127.05",
+    "owner": "rep",
+    "due": "2026-09-04T17:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L128",
+  "rep": "R2",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L129",
+  "rep": "R3",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-04",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L129.05",
+    "owner": "rep",
+    "due": "2026-10-19T10:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L129.12",
+    "owner": "rep",
+    "due": "2026-10-29T17:00",
+    "topic": "revised quote",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L129.13",
+    "owner": "rep",
+    "due": "2026-11-04T09:00",
+    "topic": "site visit",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L129.08",
+    "value": 25500000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L129.09",
+   "name": "Dr Oyelaran",
+   "role": "COO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L129.11",
+    "name": "Ibrahim Suleiman",
+    "phone": "2348066770237"
+   }
+  ]
+ },
+ {
+  "lead_id": "L130",
+  "rep": "R4",
+  "archetype": "too_small",
+  "stage": "negotiation",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-05",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L130.05",
+    "owner": "rep",
+    "due": "2026-11-07T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L130.12",
+    "owner": "rep",
+    "due": "2026-11-13T17:00",
+    "topic": "contract draft",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L130.14",
+    "owner": "rep",
+    "due": "2026-11-19T09:00",
+    "topic": "proposal"
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L130.08",
+    "value": 4900000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L130.09",
+   "name": "Mr Ajayi",
+   "role": "MD"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L130.11",
+    "name": "Chioma Ibekwe",
+    "phone": "2348093836588"
+   }
+  ]
+ },
+ {
+  "lead_id": "L131",
+  "rep": "R5",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L132",
+  "rep": "R6",
+  "archetype": "serious",
+  "stage": "lost",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Dr Suleiman of Kestrel Energy"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L132.05",
+    "owner": "rep",
+    "due": "2026-09-13T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L132.12",
+    "owner": "rep",
+    "due": "2026-09-17T09:00",
+    "topic": "SLA document",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L132.14",
+    "owner": "rep",
+    "due": "2026-09-22T11:00",
+    "topic": "revised quote",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L132.08",
+    "value": 11300000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L132.09",
+   "name": "Mrs Eze",
+   "role": "MD"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L132.11",
+    "name": "Ibrahim Adebayo",
+    "phone": "2348078678613"
+   }
+  ]
+ },
+ {
+  "lead_id": "L133",
+  "rep": "R1",
+  "archetype": "maybe_later",
+  "stage": "new",
+  "source": {
+   "channel": "organic",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L134",
+  "rep": "R2",
+  "archetype": "serious",
+  "stage": "lost",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L134.05",
+    "owner": "rep",
+    "due": "2026-09-06T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L134.12",
+    "owner": "rep",
+    "due": "2026-09-15T17:00",
+    "topic": "pricing",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L134.13",
+    "owner": "client",
+    "due": "2026-09-17T11:00",
+    "topic": "SLA document",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L134.08",
+    "value": 30000000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L134.09",
+   "name": "Mr Ajayi",
+   "role": "Head of Admin"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L134.11",
+    "name": "Zainab Oyelaran",
+    "phone": "2348058724743"
+   }
+  ]
+ },
+ {
+  "lead_id": "L135",
+  "rep": "R3",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L135.05",
+    "owner": "rep",
+    "due": "2026-08-26T17:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L135.10",
+    "owner": "rep",
+    "due": "2026-09-02T17:00",
+    "topic": "revised quote",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L135.12",
+    "owner": "client",
+    "due": "2026-09-11T09:00",
+    "topic": "site visit",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L135.08",
+    "value": 11500000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L135.09",
+   "name": "Dr Eze",
+   "role": "COO"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L136",
+  "rep": "R4",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "organic",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L137",
+  "rep": "R5",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "organic",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L138",
+  "rep": "R6",
+  "archetype": "too_small",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L138.05",
+    "owner": "rep",
+    "due": "2026-10-30T16:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L139",
+  "rep": "R1",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L139.05",
+    "owner": "rep",
+    "due": "2026-09-22T15:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L139.12",
+    "owner": "rep",
+    "due": "2026-09-30T09:00",
+    "topic": "site visit",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L139.14",
+    "owner": "rep",
+    "due": "2026-10-05T10:00",
+    "topic": "pricing",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L139.08",
+    "value": 19400000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L139.09",
+   "name": "Dr Adebayo",
+   "role": "Head of Admin"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L139.11",
+    "name": "Emeka Balogun",
+    "phone": "2348017986056"
+   }
+  ]
+ },
+ {
+  "lead_id": "L140",
+  "rep": "R2",
+  "archetype": "serious",
+  "stage": "qualified",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L141",
+  "rep": "R3",
+  "archetype": "maybe_later",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L142",
+  "rep": "R4",
+  "archetype": "serious",
+  "stage": "meeting_held",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L142.05",
+    "owner": "rep",
+    "due": "2026-11-13T17:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L143",
+  "rep": "R5",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L143.05",
+    "owner": "rep",
+    "due": "2026-11-02T10:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L143.12",
+    "owner": "rep",
+    "due": "2026-11-09T09:00",
+    "topic": "proposal",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L143.14",
+    "owner": "rep",
+    "due": "2026-11-13T12:00",
+    "topic": "pricing",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L143.08",
+    "value": 37500000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L143.09",
+   "name": "Mrs Okafor",
+   "role": "COO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L143.11",
+    "name": "Adaeze Eze",
+    "phone": "2348050535444"
+   }
+  ]
+ },
+ {
+  "lead_id": "L144",
+  "rep": "R6",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Mr Abubakar of Mirelle Hotels"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L144.05",
+    "owner": "rep",
+    "due": "2026-11-05T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L144.12",
+    "owner": "rep",
+    "due": "2026-11-09T15:00",
+    "topic": "site visit",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L144.14",
+    "owner": "rep",
+    "due": "2026-11-13T09:00",
+    "topic": "site visit",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L144.08",
+    "value": 6900000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L144.09",
+   "name": "Mr Nwachukwu",
+   "role": "COO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L144.11",
+    "name": "Segun Oyelaran",
+    "phone": "2348014861620"
+   }
+  ]
+ },
+ {
+  "lead_id": "L145",
+  "rep": "R1",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Mr Abubakar of Mirelle Hotels"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L145.05",
+    "owner": "rep",
+    "due": "2026-08-27T17:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L145.12",
+    "owner": "rep",
+    "due": "2026-09-03T17:00",
+    "topic": "contract draft",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L145.13",
+    "owner": "rep",
+    "due": "2026-09-10T17:00",
+    "topic": "revised quote",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L145.08",
+    "value": 37400000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L145.09",
+   "name": "Mr Oyelaran",
+   "role": "Head of Admin"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L145.11",
+    "name": "Bisi Uzor",
+    "phone": "2348048557443"
+   }
+  ]
+ },
+ {
+  "lead_id": "L146",
+  "rep": "R2",
+  "archetype": "maybe_later",
+  "stage": "new",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-03",
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L147",
+  "rep": "R3",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L147.05",
+    "owner": "rep",
+    "due": "2026-10-10T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L147.12",
+    "owner": "rep",
+    "due": "2026-10-19T10:00",
+    "topic": "proposal",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L147.14",
+    "owner": "rep",
+    "due": "2026-10-22T11:00",
+    "topic": "SLA document",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L147.08",
+    "value": 5100000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L147.09",
+   "name": "Mr Danjuma",
+   "role": "COO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L147.11",
+    "name": "Funke Okonkwo",
+    "phone": "2348037669437"
+   }
+  ]
+ },
+ {
+  "lead_id": "L148",
+  "rep": "R4",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Dr Suleiman of Kestrel Energy"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L148.05",
+    "owner": "rep",
+    "due": "2026-11-02T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L148.12",
+    "owner": "rep",
+    "due": "2026-11-12T11:00",
+    "topic": "SLA document",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L148.14",
+    "owner": "client",
+    "due": "2026-11-18T09:00",
+    "topic": "site visit"
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L148.08",
+    "value": 25900000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L148.09",
+   "name": "Mrs Suleiman",
+   "role": "COO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L148.11",
+    "name": "Yusuf Okafor",
+    "phone": "2348020373435"
+   }
+  ]
+ },
+ {
+  "lead_id": "L149",
+  "rep": "R5",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Dr Okafor of Kestrel Energy"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L149.05",
+    "owner": "rep",
+    "due": "2026-09-28T11:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L149.12",
+    "owner": "rep",
+    "due": "2026-10-01T12:00",
+    "topic": "contract draft",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L149.13",
+    "owner": "rep",
+    "due": "2026-10-08T11:00",
+    "topic": "SLA document",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L149.08",
+    "value": 11500000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L149.09",
+   "name": "Mr Ogunleye",
+   "role": "MD"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L149.11",
+    "name": "Uche Ibekwe",
+    "phone": "2348069613233"
+   }
+  ]
+ },
+ {
+  "lead_id": "L150",
+  "rep": "R6",
+  "archetype": "price_shopper",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-01",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L150.05",
+    "owner": "rep",
+    "due": "2026-09-23T08:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L151",
+  "rep": "R1",
+  "archetype": "too_small",
+  "stage": "new",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L152",
+  "rep": "R2",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L153",
+  "rep": "R3",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L154",
+  "rep": "R4",
+  "archetype": "price_shopper",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L154.05",
+    "owner": "rep",
+    "due": "2026-08-20T12:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L155",
+  "rep": "R5",
+  "archetype": "too_small",
+  "stage": "lost",
+  "source": {
+   "channel": "organic",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L155.05",
+    "owner": "rep",
+    "due": "2026-10-23T17:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L155.12",
+    "owner": "rep",
+    "due": "2026-10-28T09:00",
+    "topic": "site visit",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L155.13",
+    "owner": "client",
+    "due": "2026-11-05T08:00",
+    "topic": "contract draft",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L155.08",
+    "value": 3800000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L155.09",
+   "name": "Mr Balogun",
+   "role": "CFO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L155.11",
+    "name": "Ibrahim Okafor",
+    "phone": "2348043625403"
+   }
+  ]
+ },
+ {
+  "lead_id": "L156",
+  "rep": "R6",
+  "archetype": "serious",
+  "stage": "lost",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L156.05",
+    "owner": "rep",
+    "due": "2026-08-12T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L156.12",
+    "owner": "rep",
+    "due": "2026-08-21T12:00",
+    "topic": "contract draft",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L156.14",
+    "owner": "client",
+    "due": "2026-08-24T10:00",
+    "topic": "revised quote",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L156.08",
+    "value": 18100000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L156.09",
+   "name": "Mrs Chukwu",
+   "role": "Head of Admin"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L156.11",
+    "name": "Aisha Afolabi",
+    "phone": "2348072598120"
+   }
+  ]
+ },
+ {
+  "lead_id": "L157",
+  "rep": "R1",
+  "archetype": "maybe_later",
+  "stage": "new",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-05",
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L158",
+  "rep": "R2",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Mrs Abubakar of Halden Foods"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L158.05",
+    "owner": "rep",
+    "due": "2026-09-11T17:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L158.12",
+    "owner": "rep",
+    "due": "2026-09-19T16:00",
+    "topic": "revised quote",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L158.14",
+    "owner": "rep",
+    "due": "2026-09-25T14:00",
+    "topic": "pricing",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L158.08",
+    "value": 14700000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L158.09",
+   "name": "Mrs Nwachukwu",
+   "role": "COO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L158.11",
+    "name": "Dapo Nwachukwu",
+    "phone": "2348016783917"
+   }
+  ]
+ },
+ {
+  "lead_id": "L159",
+  "rep": "R3",
+  "archetype": "maybe_later",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Dr Okafor of Kestrel Energy"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L159.05",
+    "owner": "rep",
+    "due": "2026-08-29T15:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L160",
+  "rep": "R4",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-02",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L160.05",
+    "owner": "rep",
+    "due": "2026-08-13T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L160.12",
+    "owner": "rep",
+    "due": "2026-08-18T10:00",
+    "topic": "contract draft",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L160.14",
+    "owner": "client",
+    "due": "2026-08-24T11:00",
+    "topic": "contract draft",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L160.08",
+    "value": 23100000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L160.09",
+   "name": "Mr Afolabi",
+   "role": "CFO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L160.11",
+    "name": "Uche Lawal",
+    "phone": "2348036347383"
+   }
+  ]
+ },
+ {
+  "lead_id": "L161",
+  "rep": "R5",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-04",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L161.05",
+    "owner": "rep",
+    "due": "2026-09-07T10:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L161.10",
+    "owner": "rep",
+    "due": "2026-09-16T16:00",
+    "topic": "revised quote",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L161.12",
+    "owner": "client",
+    "due": "2026-09-21T10:00",
+    "topic": "proposal",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L161.08",
+    "value": 19100000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L161.09",
+   "name": "Mr Eze",
+   "role": "Head of Admin"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L162",
+  "rep": "R6",
+  "archetype": "price_shopper",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L162.05",
+    "owner": "rep",
+    "due": "2026-10-06T09:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L163",
+  "rep": "R1",
+  "archetype": "maybe_later",
+  "stage": "new",
+  "source": {
+   "channel": "organic",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L164",
+  "rep": "R2",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Dr Okafor of Kestrel Energy"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L164.05",
+    "owner": "rep",
+    "due": "2026-10-26T10:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L164.12",
+    "owner": "rep",
+    "due": "2026-11-02T15:00",
+    "topic": "pricing",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L164.14",
+    "owner": "client",
+    "due": "2026-11-10T17:00",
+    "topic": "SLA document",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L164.08",
+    "value": 22800000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L164.09",
+   "name": "Mr Okonkwo",
+   "role": "COO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L164.11",
+    "name": "Uche Eze",
+    "phone": "2348088110176"
+   }
+  ]
+ },
+ {
+  "lead_id": "L165",
+  "rep": "R3",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-04",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L165.05",
+    "owner": "rep",
+    "due": "2026-10-08T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L165.10",
+    "owner": "rep",
+    "due": "2026-10-15T09:00",
+    "topic": "site visit",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L165.11",
+    "owner": "rep",
+    "due": "2026-10-20T09:00",
+    "topic": "revised quote",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L165.08",
+    "value": 23000000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L165.09",
+   "name": "Mrs Suleiman",
+   "role": "CFO"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L166",
+  "rep": "R4",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Mr Eze of Mirelle Hotels"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L166.05",
+    "owner": "rep",
+    "due": "2026-08-14T17:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L166.12",
+    "owner": "rep",
+    "due": "2026-08-19T09:00",
+    "topic": "pricing",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L166.14",
+    "owner": "client",
+    "due": "2026-08-26T09:00",
+    "topic": "site visit",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L166.08",
+    "value": 16100000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L166.09",
+   "name": "Mrs Abubakar",
+   "role": "MD"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L166.11",
+    "name": "Kelechi Danjuma",
+    "phone": "2348030360606"
+   }
+  ]
+ },
+ {
+  "lead_id": "L167",
+  "rep": "R5",
+  "archetype": "price_shopper",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L167.05",
+    "owner": "rep",
+    "due": "2026-10-08T17:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L168",
+  "rep": "R6",
+  "archetype": "serious",
+  "stage": "lost",
+  "source": {
+   "channel": "organic",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L168.05",
+    "owner": "rep",
+    "due": "2026-08-27T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L168.12",
+    "owner": "rep",
+    "due": "2026-09-07T10:00",
+    "topic": "revised quote",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L168.14",
+    "owner": "client",
+    "due": "2026-09-15T17:00",
+    "topic": "pricing",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L168.08",
+    "value": 18400000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L168.09",
+   "name": "Mrs Lawal",
+   "role": "CFO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L168.11",
+    "name": "Yetunde Abubakar",
+    "phone": "2348044086982"
+   }
+  ]
+ },
+ {
+  "lead_id": "L169",
+  "rep": "R1",
+  "archetype": "price_shopper",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L169.05",
+    "owner": "rep",
+    "due": "2026-10-19T17:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L170",
+  "rep": "R2",
+  "archetype": "serious",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-01",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L170.05",
+    "owner": "rep",
+    "due": "2026-11-16T10:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L171",
+  "rep": "R3",
+  "archetype": "serious",
+  "stage": "lost",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L171.05",
+    "owner": "rep",
+    "due": "2026-10-18T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L171.10",
+    "owner": "rep",
+    "due": "2026-10-26T17:00",
+    "topic": "proposal",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L171.11",
+    "owner": "rep",
+    "due": "2026-10-30T17:00",
+    "topic": "pricing",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L171.08",
+    "value": 6800000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L171.09",
+   "name": "Dr Afolabi",
+   "role": "CFO"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L172",
+  "rep": "R4",
+  "archetype": "too_small",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L173",
+  "rep": "R5",
+  "archetype": "maybe_later",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L173.05",
+    "owner": "rep",
+    "due": "2026-08-18T15:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L174",
+  "rep": "R6",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "organic",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L174.05",
+    "owner": "rep",
+    "due": "2026-09-21T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L174.10",
+    "owner": "rep",
+    "due": "2026-09-26T14:00",
+    "topic": "revised quote",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L174.12",
+    "owner": "rep",
+    "due": "2026-10-02T17:00",
+    "topic": "site visit",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L174.08",
+    "value": 24100000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L174.09",
+   "name": "Mrs Okafor",
+   "role": "CFO"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L175",
+  "rep": "R1",
+  "archetype": "too_small",
+  "stage": "negotiation",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L175.05",
+    "owner": "rep",
+    "due": "2026-09-27T10:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L175.12",
+    "owner": "rep",
+    "due": "2026-10-05T10:00",
+    "topic": "pricing",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L175.14",
+    "owner": "client",
+    "due": "2026-10-07T17:00",
+    "topic": "SLA document",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L175.08",
+    "value": 1900000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L175.09",
+   "name": "Mrs Uzor",
+   "role": "Head of Admin"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L175.11",
+    "name": "Ngozi Balogun",
+    "phone": "2348082774668"
+   }
+  ]
+ },
+ {
+  "lead_id": "L176",
+  "rep": "R2",
+  "archetype": "maybe_later",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L176.05",
+    "owner": "rep",
+    "due": "2026-09-27T09:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L177",
+  "rep": "R3",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-04",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L177.05",
+    "owner": "rep",
+    "due": "2026-11-13T17:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L177.08",
+    "value": 19700000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L177.09",
+   "name": "Dr Okafor",
+   "role": "CFO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L177.11",
+    "name": "Femi Ogunleye",
+    "phone": "2348089898487"
+   }
+  ]
+ },
+ {
+  "lead_id": "L178",
+  "rep": "R4",
+  "archetype": "too_small",
+  "stage": "new",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-01",
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L179",
+  "rep": "R5",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Dr Suleiman of Kestrel Energy"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L179.05",
+    "owner": "rep",
+    "due": "2026-08-27T15:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L179.10",
+    "owner": "rep",
+    "due": "2026-09-03T09:00",
+    "topic": "SLA document",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L179.11",
+    "owner": "rep",
+    "due": "2026-09-08T17:00",
+    "topic": "site visit",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L179.08",
+    "value": 28800000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L179.09",
+   "name": "Dr Ibekwe",
+   "role": "CFO"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L180",
+  "rep": "R6",
+  "archetype": "serious",
+  "stage": "qualified",
+  "source": {
+   "channel": "organic",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L181",
+  "rep": "R1",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L182",
+  "rep": "R2",
+  "archetype": "price_shopper",
+  "stage": "negotiation",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L182.05",
+    "owner": "rep",
+    "due": "2026-08-07T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L182.12",
+    "owner": "rep",
+    "due": "2026-08-18T09:00",
+    "topic": "site visit",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L182.14",
+    "owner": "client",
+    "due": "2026-08-26T17:00",
+    "topic": "site visit",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L182.08",
+    "value": 23400000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L182.09",
+   "name": "Mrs Okafor",
+   "role": "Head of Admin"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L182.11",
+    "name": "Hauwa Uzor",
+    "phone": "2348065610512"
+   }
+  ]
+ },
+ {
+  "lead_id": "L183",
+  "rep": "R3",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L183.05",
+    "owner": "rep",
+    "due": "2026-09-08T10:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L183.10",
+    "owner": "rep",
+    "due": "2026-09-14T10:00",
+    "topic": "site visit",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L183.12",
+    "owner": "rep",
+    "due": "2026-09-22T15:00",
+    "topic": "pricing",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L183.08",
+    "value": 14900000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L183.09",
+   "name": "Dr Chukwu",
+   "role": "MD"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L184",
+  "rep": "R4",
+  "archetype": "too_small",
+  "stage": "meeting_held",
+  "source": {
+   "channel": "organic",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L184.05",
+    "owner": "rep",
+    "due": "2026-11-14T12:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L185",
+  "rep": "R5",
+  "archetype": "serious",
+  "stage": "lost",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Dr Suleiman of Kestrel Energy"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L185.05",
+    "owner": "rep",
+    "due": "2026-09-07T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L185.12",
+    "owner": "rep",
+    "due": "2026-09-13T09:00",
+    "topic": "SLA document",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L185.14",
+    "owner": "client",
+    "due": "2026-09-14T10:00",
+    "topic": "contract draft",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L185.08",
+    "value": 8800000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L185.09",
+   "name": "Mr Eze",
+   "role": "COO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L185.11",
+    "name": "Kemi Adebayo",
+    "phone": "2348030346045"
+   }
+  ]
+ },
+ {
+  "lead_id": "L186",
+  "rep": "R6",
+  "archetype": "serious",
+  "stage": "lost",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L186.05",
+    "owner": "rep",
+    "due": "2026-08-21T17:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L186.12",
+    "owner": "rep",
+    "due": "2026-08-27T09:00",
+    "topic": "contract draft",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L186.13",
+    "owner": "rep",
+    "due": "2026-09-01T09:00",
+    "topic": "SLA document",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L186.08",
+    "value": 12400000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L186.09",
+   "name": "Mrs Uzor",
+   "role": "COO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L186.11",
+    "name": "Hauwa Eze",
+    "phone": "2348096928262"
+   }
+  ]
+ },
+ {
+  "lead_id": "L187",
+  "rep": "R1",
+  "archetype": "price_shopper",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L187.05",
+    "owner": "rep",
+    "due": "2026-08-17T09:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L188",
+  "rep": "R2",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Dr Okafor of Kestrel Energy"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L188.05",
+    "owner": "rep",
+    "due": "2026-08-27T14:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L188.10",
+    "owner": "rep",
+    "due": "2026-09-04T09:00",
+    "topic": "revised quote",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L188.12",
+    "owner": "rep",
+    "due": "2026-09-11T17:00",
+    "topic": "proposal",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L188.08",
+    "value": 13900000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L188.09",
+   "name": "Mr Suleiman",
+   "role": "CFO"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L189",
+  "rep": "R3",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L189.05",
+    "owner": "rep",
+    "due": "2026-09-22T17:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L189.12",
+    "owner": "rep",
+    "due": "2026-10-01T09:00",
+    "topic": "contract draft",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L189.13",
+    "owner": "rep",
+    "due": "2026-10-05T10:00",
+    "topic": "contract draft",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L189.08",
+    "value": 21500000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L189.09",
+   "name": "Dr Bello",
+   "role": "MD"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L189.11",
+    "name": "Kemi Nwachukwu",
+    "phone": "2348045036536"
+   }
+  ]
+ },
+ {
+  "lead_id": "L190",
+  "rep": "R4",
+  "archetype": "too_small",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-04",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L190.05",
+    "owner": "rep",
+    "due": "2026-08-12T17:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L191",
+  "rep": "R5",
+  "archetype": "serious",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Dr Okafor of Kestrel Energy"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L191.05",
+    "owner": "rep",
+    "due": "2026-11-10T17:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L192",
+  "rep": "R6",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L192.05",
+    "owner": "rep",
+    "due": "2026-10-13T10:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L192.12",
+    "owner": "rep",
+    "due": "2026-10-22T17:00",
+    "topic": "pricing",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L192.14",
+    "owner": "client",
+    "due": "2026-10-26T10:00",
+    "topic": "contract draft",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L192.08",
+    "value": 5300000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L192.09",
+   "name": "Dr Ogunleye",
+   "role": "CFO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L192.11",
+    "name": "Uche Suleiman",
+    "phone": "2348041256948"
+   }
+  ]
+ },
+ {
+  "lead_id": "L193",
+  "rep": "R1",
+  "archetype": "maybe_later",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L193.05",
+    "owner": "rep",
+    "due": "2026-08-31T10:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L194",
+  "rep": "R2",
+  "archetype": "too_small",
+  "stage": "negotiation",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L194.05",
+    "owner": "rep",
+    "due": "2026-11-03T17:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L194.12",
+    "owner": "rep",
+    "due": "2026-11-11T16:00",
+    "topic": "SLA document",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L194.14",
+    "owner": "rep",
+    "due": "2026-11-13T08:00",
+    "topic": "revised quote",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L194.08",
+    "value": 2500000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L194.09",
+   "name": "Dr Ogunleye",
+   "role": "MD"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L194.11",
+    "name": "Femi Okafor",
+    "phone": "2348091298191"
+   }
+  ]
+ },
+ {
+  "lead_id": "L195",
+  "rep": "R3",
+  "archetype": "maybe_later",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L195.05",
+    "owner": "rep",
+    "due": "2026-09-11T17:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L196",
+  "rep": "R4",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L197",
+  "rep": "R5",
+  "archetype": "maybe_later",
+  "stage": "new",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L198",
+  "rep": "R6",
+  "archetype": "price_shopper",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L198.05",
+    "owner": "rep",
+    "due": "2026-10-27T16:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L199",
+  "rep": "R1",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Mr Abubakar of Mirelle Hotels"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L199.05",
+    "owner": "rep",
+    "due": "2026-08-22T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L199.12",
+    "owner": "rep",
+    "due": "2026-08-31T08:00",
+    "topic": "proposal",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L199.14",
+    "owner": "client",
+    "due": "2026-09-01T16:00",
+    "topic": "pricing",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L199.08",
+    "value": 25200000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L199.09",
+   "name": "Dr Danjuma",
+   "role": "COO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L199.11",
+    "name": "Uche Ajayi",
+    "phone": "2348070354659"
+   }
+  ]
+ },
+ {
+  "lead_id": "L200",
+  "rep": "R2",
+  "archetype": "too_small",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-05",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L200.05",
+    "owner": "rep",
+    "due": "2026-10-10T10:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L201",
+  "rep": "R3",
+  "archetype": "serious",
+  "stage": "lost",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L201.05",
+    "owner": "rep",
+    "due": "2026-10-08T12:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L201.10",
+    "owner": "rep",
+    "due": "2026-10-19T09:00",
+    "topic": "revised quote",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L201.11",
+    "owner": "rep",
+    "due": "2026-10-23T14:00",
+    "topic": "proposal",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L201.08",
+    "value": 9600000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L201.09",
+   "name": "Mr Danjuma",
+   "role": "CFO"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L202",
+  "rep": "R4",
+  "archetype": "too_small",
+  "stage": "negotiation",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L202.05",
+    "owner": "rep",
+    "due": "2026-11-12T10:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L202.10",
+    "owner": "rep",
+    "due": "2026-11-16T09:00",
+    "topic": "site visit",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L202.08",
+    "value": 2800000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L202.09",
+   "name": "Mrs Eze",
+   "role": "MD"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L203",
+  "rep": "R5",
+  "archetype": "too_small",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-05",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L203.05",
+    "owner": "rep",
+    "due": "2026-10-19T08:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L204",
+  "rep": "R6",
+  "archetype": "maybe_later",
+  "stage": "won",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Mr Eze of Mirelle Hotels"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L204.05",
+    "owner": "rep",
+    "due": "2026-08-20T16:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L204.12",
+    "owner": "rep",
+    "due": "2026-08-26T17:00",
+    "topic": "SLA document",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L204.14",
+    "owner": "rep",
+    "due": "2026-09-03T17:00",
+    "topic": "site visit",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L204.08",
+    "value": 7300000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L204.09",
+   "name": "Mr Afolabi",
+   "role": "Head of Admin"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L204.11",
+    "name": "Uche Ogunleye",
+    "phone": "2348020162225"
+   }
+  ]
+ },
+ {
+  "lead_id": "L205",
+  "rep": "R1",
+  "archetype": "maybe_later",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L206",
+  "rep": "R2",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L207",
+  "rep": "R3",
+  "archetype": "serious",
+  "stage": "lost",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L207.05",
+    "owner": "rep",
+    "due": "2026-09-24T17:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L207.12",
+    "owner": "rep",
+    "due": "2026-10-01T15:00",
+    "topic": "revised quote",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L207.14",
+    "owner": "rep",
+    "due": "2026-10-04T14:00",
+    "topic": "SLA document",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L207.08",
+    "value": 10400000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L207.09",
+   "name": "Mrs Nwachukwu",
+   "role": "Head of Admin"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L207.11",
+    "name": "Bisi Ibekwe",
+    "phone": "2348052266970"
+   }
+  ]
+ },
+ {
+  "lead_id": "L208",
+  "rep": "R4",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-04",
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L209",
+  "rep": "R5",
+  "archetype": "serious",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-01",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L209.05",
+    "owner": "rep",
+    "due": "2026-08-19T17:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L210",
+  "rep": "R6",
+  "archetype": "price_shopper",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L210.05",
+    "owner": "rep",
+    "due": "2026-09-08T17:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L211",
+  "rep": "R1",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Mr Okafor of Kestrel Energy"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L211.05",
+    "owner": "rep",
+    "due": "2026-08-24T17:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L211.10",
+    "owner": "rep",
+    "due": "2026-09-03T16:00",
+    "topic": "site visit",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L211.12",
+    "owner": "client",
+    "due": "2026-09-09T09:00",
+    "topic": "proposal",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L211.08",
+    "value": 24800000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L211.09",
+   "name": "Mrs Suleiman",
+   "role": "CFO"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L212",
+  "rep": "R2",
+  "archetype": "serious",
+  "stage": "lost",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L212.05",
+    "owner": "rep",
+    "due": "2026-10-22T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L212.12",
+    "owner": "rep",
+    "due": "2026-10-26T16:00",
+    "topic": "revised quote",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L212.14",
+    "owner": "rep",
+    "due": "2026-11-02T10:00",
+    "topic": "proposal",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L212.08",
+    "value": 26900000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L212.09",
+   "name": "Mr Abubakar",
+   "role": "COO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L212.11",
+    "name": "Musa Abubakar",
+    "phone": "2348041979472"
+   }
+  ]
+ },
+ {
+  "lead_id": "L213",
+  "rep": "R3",
+  "archetype": "maybe_later",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Mrs Adebayo of Corban Logistics"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L213.05",
+    "owner": "rep",
+    "due": "2026-11-05T17:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L214",
+  "rep": "R4",
+  "archetype": "price_shopper",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L214.05",
+    "owner": "rep",
+    "due": "2026-08-07T17:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L215",
+  "rep": "R5",
+  "archetype": "maybe_later",
+  "stage": "lost",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L215.05",
+    "owner": "rep",
+    "due": "2026-10-05T17:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L215.12",
+    "owner": "rep",
+    "due": "2026-10-12T16:00",
+    "topic": "contract draft",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L215.14",
+    "owner": "client",
+    "due": "2026-10-21T09:00",
+    "topic": "revised quote",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L215.08",
+    "value": 24000000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L215.09",
+   "name": "Mr Uzor",
+   "role": "CFO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L215.11",
+    "name": "Chioma Nwachukwu",
+    "phone": "2348044497076"
+   }
+  ]
+ },
+ {
+  "lead_id": "L216",
+  "rep": "R6",
+  "archetype": "maybe_later",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L216.05",
+    "owner": "rep",
+    "due": "2026-09-16T14:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L217",
+  "rep": "R1",
+  "archetype": "maybe_later",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L218",
+  "rep": "R2",
+  "archetype": "maybe_later",
+  "stage": "new",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-05",
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L219",
+  "rep": "R3",
+  "archetype": "serious",
+  "stage": "lost",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L219.05",
+    "owner": "rep",
+    "due": "2026-08-18T12:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L219.10",
+    "owner": "rep",
+    "due": "2026-08-22T09:00",
+    "topic": "revised quote",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L219.12",
+    "owner": "rep",
+    "due": "2026-08-25T09:00",
+    "topic": "revised quote",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L219.08",
+    "value": 40100000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L219.09",
+   "name": "Mr Afolabi",
+   "role": "COO"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L220",
+  "rep": "R4",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L220.05",
+    "owner": "rep",
+    "due": "2026-11-05T17:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L220.12",
+    "owner": "rep",
+    "due": "2026-11-10T11:00",
+    "topic": "contract draft",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L220.14",
+    "owner": "client",
+    "due": "2026-11-16T10:00",
+    "topic": "contract draft"
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L220.08",
+    "value": 16000000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L220.09",
+   "name": "Dr Afolabi",
+   "role": "COO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L220.11",
+    "name": "Nneka Bello",
+    "phone": "2348028169331"
+   }
+  ]
+ },
+ {
+  "lead_id": "L221",
+  "rep": "R5",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-03",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L221.05",
+    "owner": "rep",
+    "due": "2026-09-10T15:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L221.12",
+    "owner": "rep",
+    "due": "2026-09-23T17:00",
+    "topic": "contract draft",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L221.13",
+    "owner": "client",
+    "due": "2026-09-28T16:00",
+    "topic": "site visit",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L221.08",
+    "value": 11800000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L221.09",
+   "name": "Mrs Balogun",
+   "role": "Head of Admin"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L221.11",
+    "name": "Musa Uzor",
+    "phone": "2348051351533"
+   }
+  ]
+ },
+ {
+  "lead_id": "L222",
+  "rep": "R6",
+  "archetype": "maybe_later",
+  "stage": "new",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-03",
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L223",
+  "rep": "R1",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Dr Okafor of Kestrel Energy"
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L224",
+  "rep": "R2",
+  "archetype": "too_small",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-05",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L224.05",
+    "owner": "rep",
+    "due": "2026-09-29T09:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L225",
+  "rep": "R3",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L226",
+  "rep": "R4",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L226.05",
+    "owner": "rep",
+    "due": "2026-11-09T15:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L226.10",
+    "owner": "rep",
+    "due": "2026-11-17T17:00",
+    "topic": "SLA document",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L226.08",
+    "value": 12800000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L226.09",
+   "name": "Dr Ajayi",
+   "role": "MD"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L227",
+  "rep": "R5",
+  "archetype": "maybe_later",
+  "stage": "new",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-01",
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L228",
+  "rep": "R6",
+  "archetype": "too_small",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L228.05",
+    "owner": "rep",
+    "due": "2026-10-21T17:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L229",
+  "rep": "R1",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L230",
+  "rep": "R2",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L231",
+  "rep": "R3",
+  "archetype": "too_small",
+  "stage": "new",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L232",
+  "rep": "R4",
+  "archetype": "maybe_later",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L232.05",
+    "owner": "rep",
+    "due": "2026-09-22T09:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L233",
+  "rep": "R5",
+  "archetype": "too_small",
+  "stage": "new",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-04",
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L234",
+  "rep": "R6",
+  "archetype": "too_small",
+  "stage": "new",
+  "source": {
+   "channel": "organic",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L235",
+  "rep": "R1",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L235.05",
+    "owner": "rep",
+    "due": "2026-10-30T17:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L235.12",
+    "owner": "rep",
+    "due": "2026-11-06T09:00",
+    "topic": "pricing",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L235.14",
+    "owner": "rep",
+    "due": "2026-11-09T10:00",
+    "topic": "proposal",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L235.08",
+    "value": 31300000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L235.09",
+   "name": "Mrs Okonkwo",
+   "role": "MD"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L235.11",
+    "name": "Musa Ogunleye",
+    "phone": "2348072075108"
+   }
+  ]
+ },
+ {
+  "lead_id": "L236",
+  "rep": "R2",
+  "archetype": "price_shopper",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L236.05",
+    "owner": "rep",
+    "due": "2026-10-12T09:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L237",
+  "rep": "R3",
+  "archetype": "maybe_later",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L237.05",
+    "owner": "rep",
+    "due": "2026-11-06T16:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L238",
+  "rep": "R4",
+  "archetype": "serious",
+  "stage": "lost",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-01",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L238.05",
+    "owner": "rep",
+    "due": "2026-10-26T17:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L238.10",
+    "owner": "rep",
+    "due": "2026-10-30T17:00",
+    "topic": "SLA document",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L238.12",
+    "owner": "client",
+    "due": "2026-11-06T15:00",
+    "topic": "site visit",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L238.08",
+    "value": 6400000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L238.09",
+   "name": "Mrs Danjuma",
+   "role": "MD"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L239",
+  "rep": "R5",
+  "archetype": "price_shopper",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L239.05",
+    "owner": "rep",
+    "due": "2026-10-27T09:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L240",
+  "rep": "R6",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L241",
+  "rep": "R1",
+  "archetype": "price_shopper",
+  "stage": "lost",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L241.05",
+    "owner": "rep",
+    "due": "2026-08-11T08:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L241.12",
+    "owner": "rep",
+    "due": "2026-08-20T10:00",
+    "topic": "proposal",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L241.14",
+    "owner": "client",
+    "due": "2026-08-22T09:00",
+    "topic": "revised quote",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L241.08",
+    "value": 5100000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L241.09",
+   "name": "Mrs Bello",
+   "role": "CFO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L241.11",
+    "name": "Kunle Afolabi",
+    "phone": "2348028714391"
+   }
+  ]
+ },
+ {
+  "lead_id": "L242",
+  "rep": "R2",
+  "archetype": "maybe_later",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L242.05",
+    "owner": "rep",
+    "due": "2026-10-15T09:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L243",
+  "rep": "R3",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L243.05",
+    "owner": "rep",
+    "due": "2026-11-04T12:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L243.12",
+    "owner": "rep",
+    "due": "2026-11-10T09:00",
+    "topic": "contract draft",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L243.13",
+    "owner": "client",
+    "due": "2026-11-16T10:00",
+    "topic": "site visit"
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L243.08",
+    "value": 16700000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L243.09",
+   "name": "Dr Bello",
+   "role": "MD"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L243.11",
+    "name": "Kelechi Bello",
+    "phone": "2348073087027"
+   }
+  ]
+ },
+ {
+  "lead_id": "L244",
+  "rep": "R4",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L244.05",
+    "owner": "rep",
+    "due": "2026-10-26T10:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L244.10",
+    "owner": "rep",
+    "due": "2026-11-01T12:00",
+    "topic": "revised quote",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L244.12",
+    "owner": "rep",
+    "due": "2026-11-06T17:00",
+    "topic": "SLA document",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L244.08",
+    "value": 45400000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L244.09",
+   "name": "Dr Nwachukwu",
+   "role": "COO"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L245",
+  "rep": "R5",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L245.05",
+    "owner": "rep",
+    "due": "2026-08-24T10:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L245.12",
+    "owner": "rep",
+    "due": "2026-09-04T17:00",
+    "topic": "proposal",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L245.14",
+    "owner": "rep",
+    "due": "2026-09-07T10:00",
+    "topic": "pricing",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L245.08",
+    "value": 8500000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L245.09",
+   "name": "Mr Eze",
+   "role": "Head of Admin"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L245.11",
+    "name": "Femi Abubakar",
+    "phone": "2348043413615"
+   }
+  ]
+ },
+ {
+  "lead_id": "L246",
+  "rep": "R6",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L247",
+  "rep": "R1",
+  "archetype": "maybe_later",
+  "stage": "won",
+  "source": {
+   "channel": "organic",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L247.05",
+    "owner": "rep",
+    "due": "2026-10-26T08:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L247.12",
+    "owner": "rep",
+    "due": "2026-10-30T17:00",
+    "topic": "site visit",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L247.14",
+    "owner": "rep",
+    "due": "2026-11-06T08:00",
+    "topic": "SLA document",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L247.08",
+    "value": 21200000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L247.09",
+   "name": "Mrs Okafor",
+   "role": "CFO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L247.11",
+    "name": "Uche Ajayi",
+    "phone": "2348018351679"
+   }
+  ]
+ },
+ {
+  "lead_id": "L248",
+  "rep": "R2",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L248.05",
+    "owner": "rep",
+    "due": "2026-08-24T10:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L248.10",
+    "owner": "rep",
+    "due": "2026-08-28T09:00",
+    "topic": "proposal",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L248.12",
+    "owner": "rep",
+    "due": "2026-08-29T14:00",
+    "topic": "SLA document",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L248.08",
+    "value": 5800000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L248.09",
+   "name": "Mr Afolabi",
+   "role": "COO"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L249",
+  "rep": "R3",
+  "archetype": "maybe_later",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L249.05",
+    "owner": "rep",
+    "due": "2026-08-17T09:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L250",
+  "rep": "R4",
+  "archetype": "maybe_later",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L250.05",
+    "owner": "rep",
+    "due": "2026-08-10T09:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L251",
+  "rep": "R5",
+  "archetype": "too_small",
+  "stage": "negotiation",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-02",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L251.05",
+    "owner": "rep",
+    "due": "2026-11-11T14:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L251.10",
+    "owner": "rep",
+    "due": "2026-11-20T09:00",
+    "topic": "site visit",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L251.08",
+    "value": 3000000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L251.09",
+   "name": "Mrs Okonkwo",
+   "role": "Head of Admin"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L252",
+  "rep": "R6",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L253",
+  "rep": "R1",
+  "archetype": "price_shopper",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L253.05",
+    "owner": "rep",
+    "due": "2026-09-07T10:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L254",
+  "rep": "R2",
+  "archetype": "price_shopper",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L254.05",
+    "owner": "rep",
+    "due": "2026-08-16T14:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L255",
+  "rep": "R3",
+  "archetype": "too_small",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L255.05",
+    "owner": "rep",
+    "due": "2026-09-25T17:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L256",
+  "rep": "R4",
+  "archetype": "price_shopper",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L256.05",
+    "owner": "rep",
+    "due": "2026-08-22T12:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L257",
+  "rep": "R5",
+  "archetype": "price_shopper",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "organic",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L257.05",
+    "owner": "rep",
+    "due": "2026-09-11T16:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L258",
+  "rep": "R6",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "organic",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L258.05",
+    "owner": "rep",
+    "due": "2026-10-21T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L258.10",
+    "owner": "rep",
+    "due": "2026-10-26T10:00",
+    "topic": "contract draft",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L258.12",
+    "owner": "rep",
+    "due": "2026-10-30T14:00",
+    "topic": "proposal",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L258.08",
+    "value": 8199999,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L258.09",
+   "name": "Mr Okafor",
+   "role": "COO"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L259",
+  "rep": "R1",
+  "archetype": "price_shopper",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "organic",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L259.05",
+    "owner": "rep",
+    "due": "2026-09-13T09:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L260",
+  "rep": "R2",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-05",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L260.05",
+    "owner": "rep",
+    "due": "2026-08-28T17:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L260.12",
+    "owner": "rep",
+    "due": "2026-09-07T15:00",
+    "topic": "proposal",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L260.14",
+    "owner": "rep",
+    "due": "2026-09-14T10:00",
+    "topic": "revised quote",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L260.08",
+    "value": 9500000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L260.09",
+   "name": "Dr Nwachukwu",
+   "role": "CFO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L260.11",
+    "name": "Adaeze Ogunleye",
+    "phone": "2348069384800"
+   }
+  ]
+ },
+ {
+  "lead_id": "L261",
+  "rep": "R3",
+  "archetype": "price_shopper",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L261.05",
+    "owner": "rep",
+    "due": "2026-10-30T10:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L262",
+  "rep": "R4",
+  "archetype": "price_shopper",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-04",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L262.05",
+    "owner": "rep",
+    "due": "2026-11-18T12:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L263",
+  "rep": "R5",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-05",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L263.05",
+    "owner": "rep",
+    "due": "2026-10-23T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L263.12",
+    "owner": "rep",
+    "due": "2026-11-02T11:00",
+    "topic": "revised quote",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L263.13",
+    "owner": "rep",
+    "due": "2026-11-06T17:00",
+    "topic": "revised quote",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L263.08",
+    "value": 37300000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L263.09",
+   "name": "Dr Oyelaran",
+   "role": "MD"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L263.11",
+    "name": "Funke Danjuma",
+    "phone": "2348014557914"
+   }
+  ]
+ },
+ {
+  "lead_id": "L264",
+  "rep": "R6",
+  "archetype": "serious",
+  "stage": "qualified",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L265",
+  "rep": "R1",
+  "archetype": "maybe_later",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L265.05",
+    "owner": "rep",
+    "due": "2026-10-07T09:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L266",
+  "rep": "R2",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-02",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L266.05",
+    "owner": "rep",
+    "due": "2026-08-12T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L266.10",
+    "owner": "rep",
+    "due": "2026-08-21T09:00",
+    "topic": "SLA document",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L266.12",
+    "owner": "rep",
+    "due": "2026-08-24T16:00",
+    "topic": "proposal",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L266.08",
+    "value": 14600000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L266.09",
+   "name": "Mrs Danjuma",
+   "role": "CFO"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L267",
+  "rep": "R3",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "organic",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L267.05",
+    "owner": "rep",
+    "due": "2026-09-21T10:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L267.10",
+    "owner": "rep",
+    "due": "2026-10-01T08:00",
+    "topic": "revised quote",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L267.11",
+    "owner": "rep",
+    "due": "2026-10-05T10:00",
+    "topic": "contract draft",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L267.08",
+    "value": 23300000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L267.09",
+   "name": "Mrs Afolabi",
+   "role": "CFO"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L268",
+  "rep": "R4",
+  "archetype": "maybe_later",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-04",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L268.05",
+    "owner": "rep",
+    "due": "2026-08-22T15:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L269",
+  "rep": "R5",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "organic",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L270",
+  "rep": "R6",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L270.05",
+    "owner": "rep",
+    "due": "2026-10-20T17:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L270.10",
+    "owner": "rep",
+    "due": "2026-10-30T17:00",
+    "topic": "contract draft",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L270.12",
+    "owner": "rep",
+    "due": "2026-11-04T15:00",
+    "topic": "revised quote",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L270.08",
+    "value": 11600000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L270.09",
+   "name": "Mrs Oyelaran",
+   "role": "Head of Admin"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L271",
+  "rep": "R1",
+  "archetype": "too_small",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L271.05",
+    "owner": "rep",
+    "due": "2026-10-21T16:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L272",
+  "rep": "R2",
+  "archetype": "serious",
+  "stage": "lost",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L272.05",
+    "owner": "rep",
+    "due": "2026-09-21T11:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L272.12",
+    "owner": "rep",
+    "due": "2026-09-28T10:00",
+    "topic": "pricing",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L272.13",
+    "owner": "rep",
+    "due": "2026-10-07T09:00",
+    "topic": "revised quote",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L272.08",
+    "value": 32700000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L272.09",
+   "name": "Mr Ogunleye",
+   "role": "MD"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L272.11",
+    "name": "Yetunde Balogun",
+    "phone": "2348011325042"
+   }
+  ]
+ },
+ {
+  "lead_id": "L273",
+  "rep": "R3",
+  "archetype": "maybe_later",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L273.05",
+    "owner": "rep",
+    "due": "2026-08-22T10:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L274",
+  "rep": "R4",
+  "archetype": "maybe_later",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-01",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L274.05",
+    "owner": "rep",
+    "due": "2026-11-04T09:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L275",
+  "rep": "R5",
+  "archetype": "serious",
+  "stage": "lost",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L275.05",
+    "owner": "rep",
+    "due": "2026-10-25T11:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L275.12",
+    "owner": "rep",
+    "due": "2026-11-03T09:00",
+    "topic": "proposal",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L275.14",
+    "owner": "client",
+    "due": "2026-11-09T14:00",
+    "topic": "site visit",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L275.08",
+    "value": 9300000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L275.09",
+   "name": "Mr Afolabi",
+   "role": "Head of Admin"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L275.11",
+    "name": "Yusuf Suleiman",
+    "phone": "2348075790291"
+   }
+  ]
+ },
+ {
+  "lead_id": "L276",
+  "rep": "R6",
+  "archetype": "too_small",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L276.05",
+    "owner": "rep",
+    "due": "2026-10-05T10:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L277",
+  "rep": "R1",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L278",
+  "rep": "R2",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L278.05",
+    "owner": "rep",
+    "due": "2026-08-24T09:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L278.12",
+    "owner": "rep",
+    "due": "2026-08-31T10:00",
+    "topic": "site visit",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L278.14",
+    "owner": "client",
+    "due": "2026-09-03T17:00",
+    "topic": "proposal",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L278.08",
+    "value": 22200000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L278.09",
+   "name": "Dr Oyelaran",
+   "role": "COO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L278.11",
+    "name": "Kelechi Abubakar",
+    "phone": "2348050649825"
+   }
+  ]
+ },
+ {
+  "lead_id": "L279",
+  "rep": "R3",
+  "archetype": "too_small",
+  "stage": "lost",
+  "source": {
+   "channel": "organic",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L279.05",
+    "owner": "rep",
+    "due": "2026-10-16T17:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L279.10",
+    "owner": "rep",
+    "due": "2026-10-26T10:00",
+    "topic": "proposal",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L279.12",
+    "owner": "client",
+    "due": "2026-11-03T09:00",
+    "topic": "revised quote",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L279.08",
+    "value": 4000000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L279.09",
+   "name": "Mrs Suleiman",
+   "role": "COO"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L280",
+  "rep": "R4",
+  "archetype": "maybe_later",
+  "stage": "new",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-04",
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L281",
+  "rep": "R5",
+  "archetype": "serious",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L281.05",
+    "owner": "rep",
+    "due": "2026-11-16T17:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L282",
+  "rep": "R6",
+  "archetype": "serious",
+  "stage": "proposal_sent",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Mrs Abubakar of Halden Foods"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L282.05",
+    "owner": "rep",
+    "due": "2026-11-12T12:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L282.08",
+    "value": 16500000,
+    "kind": "quote"
+   }
+  ],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L283",
+  "rep": "R1",
+  "archetype": "too_small",
+  "stage": "new",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-04",
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L284",
+  "rep": "R2",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L284.05",
+    "owner": "rep",
+    "due": "2026-08-06T17:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L284.12",
+    "owner": "rep",
+    "due": "2026-08-12T10:00",
+    "topic": "pricing",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L284.14",
+    "owner": "rep",
+    "due": "2026-08-21T17:00",
+    "topic": "proposal",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L284.08",
+    "value": 15600000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L284.09",
+   "name": "Dr Oyelaran",
+   "role": "MD"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L284.11",
+    "name": "Aisha Ajayi",
+    "phone": "2348019752404"
+   }
+  ]
+ },
+ {
+  "lead_id": "L285",
+  "rep": "R3",
+  "archetype": "serious",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L285.05",
+    "owner": "rep",
+    "due": "2026-08-12T12:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L286",
+  "rep": "R4",
+  "archetype": "maybe_later",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Dr Suleiman of Kestrel Energy"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L286.05",
+    "owner": "rep",
+    "due": "2026-10-23T12:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L287",
+  "rep": "R5",
+  "archetype": "maybe_later",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Dr Suleiman of Kestrel Energy"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L287.05",
+    "owner": "rep",
+    "due": "2026-08-07T17:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L288",
+  "rep": "R6",
+  "archetype": "maybe_later",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-05",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L288.05",
+    "owner": "rep",
+    "due": "2026-10-12T10:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L289",
+  "rep": "R1",
+  "archetype": "price_shopper",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L289.05",
+    "owner": "rep",
+    "due": "2026-10-19T10:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L290",
+  "rep": "R2",
+  "archetype": "serious",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L290.05",
+    "owner": "rep",
+    "due": "2026-11-16T14:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L291",
+  "rep": "R3",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L291.05",
+    "owner": "rep",
+    "due": "2026-09-02T12:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L291.12",
+    "owner": "rep",
+    "due": "2026-09-07T10:00",
+    "topic": "SLA document",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L291.14",
+    "owner": "client",
+    "due": "2026-09-11T16:00",
+    "topic": "contract draft",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L291.08",
+    "value": 6300000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L291.09",
+   "name": "Dr Abubakar",
+   "role": "MD"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L291.11",
+    "name": "Segun Balogun",
+    "phone": "2348025524738"
+   }
+  ]
+ },
+ {
+  "lead_id": "L292",
+  "rep": "R4",
+  "archetype": "maybe_later",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L293",
+  "rep": "R5",
+  "archetype": "maybe_later",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L294",
+  "rep": "R6",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "organic",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L295",
+  "rep": "R1",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450001",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L296",
+  "rep": "R2",
+  "archetype": "too_small",
+  "stage": "lost",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-01",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L296.05",
+    "owner": "rep",
+    "due": "2026-08-14T17:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L296.12",
+    "owner": "rep",
+    "due": "2026-08-24T09:00",
+    "topic": "site visit",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L296.14",
+    "owner": "rep",
+    "due": "2026-09-01T17:00",
+    "topic": "contract draft",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L296.08",
+    "value": 3600000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L296.09",
+   "name": "Dr Okafor",
+   "role": "COO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L296.11",
+    "name": "Obinna Ogunleye",
+    "phone": "2348021385551"
+   }
+  ]
+ },
+ {
+  "lead_id": "L297",
+  "rep": "R3",
+  "archetype": "serious",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L297.05",
+    "owner": "rep",
+    "due": "2026-08-10T09:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L298",
+  "rep": "R4",
+  "archetype": "maybe_later",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L298.05",
+    "owner": "rep",
+    "due": "2026-10-22T08:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L299",
+  "rep": "R5",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L300",
+  "rep": "R6",
+  "archetype": "maybe_later",
+  "stage": "negotiation",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L300.05",
+    "owner": "rep",
+    "due": "2026-09-13T11:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L300.12",
+    "owner": "rep",
+    "due": "2026-09-21T10:00",
+    "topic": "revised quote",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L300.14",
+    "owner": "client",
+    "due": "2026-09-22T11:00",
+    "topic": "SLA document",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L300.08",
+    "value": 14200000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L300.09",
+   "name": "Dr Suleiman",
+   "role": "CFO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L300.11",
+    "name": "Hauwa Nwachukwu",
+    "phone": "2348046187933"
+   }
+  ]
+ },
+ {
+  "lead_id": "L301",
+  "rep": "R1",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "organic",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L302",
+  "rep": "R2",
+  "archetype": "serious",
+  "stage": "negotiation",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-02",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L302.05",
+    "owner": "rep",
+    "due": "2026-09-04T17:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L302.12",
+    "owner": "rep",
+    "due": "2026-09-11T09:00",
+    "topic": "revised quote",
+    "kept": false
+   },
+   {
+    "msg_id": "wamid.L302.13",
+    "owner": "client",
+    "due": "2026-09-15T14:00",
+    "topic": "contract draft",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L302.08",
+    "value": 20100000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L302.09",
+   "name": "Mrs Uzor",
+   "role": "Head of Admin"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L302.11",
+    "name": "Emeka Okonkwo",
+    "phone": "2348040492529"
+   }
+  ]
+ },
+ {
+  "lead_id": "L303",
+  "rep": "R3",
+  "archetype": "too_small",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L304",
+  "rep": "R4",
+  "archetype": "maybe_later",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-02",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L304.05",
+    "owner": "rep",
+    "due": "2026-09-17T14:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L305",
+  "rep": "R5",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Mr Eze of Mirelle Hotels"
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L306",
+  "rep": "R6",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Mr Abubakar of Mirelle Hotels"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L306.05",
+    "owner": "rep",
+    "due": "2026-09-16T16:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L306.10",
+    "owner": "rep",
+    "due": "2026-09-21T17:00",
+    "topic": "site visit",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L306.12",
+    "owner": "rep",
+    "due": "2026-09-23T10:00",
+    "topic": "site visit",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L306.08",
+    "value": 23800000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L306.09",
+   "name": "Mrs Adebayo",
+   "role": "Head of Admin"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L307",
+  "rep": "R1",
+  "archetype": "maybe_later",
+  "stage": "lost",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L307.05",
+    "owner": "rep",
+    "due": "2026-09-17T17:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L307.12",
+    "owner": "rep",
+    "due": "2026-09-25T10:00",
+    "topic": "proposal",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L307.14",
+    "owner": "client",
+    "due": "2026-09-29T09:00",
+    "topic": "pricing",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L307.08",
+    "value": 26900000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L307.09",
+   "name": "Mrs Eze",
+   "role": "Head of Admin"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L307.11",
+    "name": "Aisha Danjuma",
+    "phone": "2348088026643"
+   }
+  ]
+ },
+ {
+  "lead_id": "L308",
+  "rep": "R2",
+  "archetype": "maybe_later",
+  "stage": "won",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-03",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L308.05",
+    "owner": "rep",
+    "due": "2026-09-03T17:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L308.10",
+    "owner": "rep",
+    "due": "2026-09-11T12:00",
+    "topic": "pricing",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L308.12",
+    "owner": "rep",
+    "due": "2026-09-15T14:00",
+    "topic": "revised quote",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L308.08",
+    "value": 7700000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L308.09",
+   "name": "Dr Chukwu",
+   "role": "Head of Admin"
+  },
+  "contacts": []
+ },
+ {
+  "lead_id": "L309",
+  "rep": "R3",
+  "archetype": "price_shopper",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "field",
+   "ad_id": null,
+   "agent": "AGT-01",
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L309.05",
+    "owner": "rep",
+    "due": "2026-09-14T09:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L310",
+  "rep": "R4",
+  "archetype": "serious",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Dr Suleiman of Kestrel Energy"
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L310.05",
+    "owner": "rep",
+    "due": "2026-10-09T14:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L311",
+  "rep": "R5",
+  "archetype": "maybe_later",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L312",
+  "rep": "R6",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L313",
+  "rep": "R1",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "form",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L314",
+  "rep": "R2",
+  "archetype": "price_shopper",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450002",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L314.05",
+    "owner": "rep",
+    "due": "2026-09-11T15:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L315",
+  "rep": "R3",
+  "archetype": "maybe_later",
+  "stage": "new",
+  "source": {
+   "channel": "referral",
+   "ad_id": null,
+   "agent": null,
+   "referrer": "Mr Okafor of Kestrel Energy"
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L316",
+  "rep": "R4",
+  "archetype": "too_small",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L317",
+  "rep": "R5",
+  "archetype": "price_shopper",
+  "stage": "new",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ },
+ {
+  "lead_id": "L318",
+  "rep": "R6",
+  "archetype": "serious",
+  "stage": "lost",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L318.05",
+    "owner": "rep",
+    "due": "2026-10-06T10:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L318.12",
+    "owner": "rep",
+    "due": "2026-10-11T09:00",
+    "topic": "proposal",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L318.14",
+    "owner": "client",
+    "due": "2026-10-16T10:00",
+    "topic": "site visit",
+    "kept": false
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L318.08",
+    "value": 14300000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L318.09",
+   "name": "Mr Uzor",
+   "role": "COO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L318.11",
+    "name": "Zainab Ogunleye",
+    "phone": "2348084212756"
+   }
+  ]
+ },
+ {
+  "lead_id": "L319",
+  "rep": "R1",
+  "archetype": "serious",
+  "stage": "won",
+  "source": {
+   "channel": "organic",
+   "ad_id": null,
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L319.05",
+    "owner": "rep",
+    "due": "2026-09-04T17:00",
+    "topic": "call"
+   },
+   {
+    "msg_id": "wamid.L319.12",
+    "owner": "rep",
+    "due": "2026-09-16T14:00",
+    "topic": "proposal",
+    "kept": true
+   },
+   {
+    "msg_id": "wamid.L319.14",
+    "owner": "rep",
+    "due": "2026-09-19T09:00",
+    "topic": "site visit",
+    "kept": true
+   }
+  ],
+  "amounts": [
+   {
+    "msg_id": "wamid.L319.08",
+    "value": 24800000,
+    "kind": "quote"
+   }
+  ],
+  "signer": {
+   "msg_id": "wamid.L319.09",
+   "name": "Mrs Uzor",
+   "role": "COO"
+  },
+  "contacts": [
+   {
+    "msg_id": "wamid.L319.11",
+    "name": "Funke Balogun",
+    "phone": "2348098180640"
+   }
+  ]
+ },
+ {
+  "lead_id": "L320",
+  "rep": "R2",
+  "archetype": "maybe_later",
+  "stage": "meeting_booked",
+  "source": {
+   "channel": "ad",
+   "ad_id": "120211450003",
+   "agent": null,
+   "referrer": null
+  },
+  "commitments": [
+   {
+    "msg_id": "wamid.L320.05",
+    "owner": "rep",
+    "due": "2026-08-25T12:00",
+    "topic": "call"
+   }
+  ],
+  "amounts": [],
+  "signer": null,
+  "contacts": []
+ }
+]
